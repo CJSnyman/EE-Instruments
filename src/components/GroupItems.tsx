@@ -18,18 +18,11 @@ async function GroupItems({ region }: { region: string }) {
             </section>
             <section>
                 {Object.entries(data).map((group, groupIndex) => (
-                    <div key={groupIndex}>
-                        <h2 className="text-3xl">{group[0]}</h2>
-                        {group[1].map((listing) => {
-                            const [listingName, listingType] = Object.entries(listing)[0];
-                            return (
-                                <div className="px-4 py-0.5 *:leading-tight">
-                                    <p>{listingName}</p>
-                                    <p className="text-gray-500 text-sm ps-3">{listingType}</p>
-                                </div>
-                            );
-                        })}
-                    </div>
+                    <ListingGroupComponent
+                        key={groupIndex}
+                        groupIdentifier={group[0]}
+                        listings={group[1]}
+                    />
                 ))}
             </section>
         </div>
@@ -37,3 +30,26 @@ async function GroupItems({ region }: { region: string }) {
 }
 
 export default GroupItems;
+
+function ListingGroupComponent({
+    groupIdentifier,
+    listings,
+}: {
+    groupIdentifier: string;
+    listings: Record<string, string>[];
+}) {
+    return (
+        <div>
+            <h2 className="text-3xl">{groupIdentifier}</h2>
+            {listings.map((listing) => {
+                const [listingName, listingType] = Object.entries(listing)[0];
+                return (
+                    <div className="px-4 py-0.5 *:leading-tight">
+                        <p>{listingName}</p>
+                        <p className="text-gray-500 text-sm ps-3">{listingType}</p>
+                    </div>
+                );
+            })}
+        </div>
+    );
+}
