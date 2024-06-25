@@ -2,17 +2,13 @@
 
 import { Listings } from "@/types";
 import { getRegionItems } from "./getRegionItems";
+import exchanges from "@/utils/exchanges";
 
 export async function getAllItems() {
     const errors: string[] = [];
     const data: Listings = [];
 
-    const fetches = await Promise.allSettled([
-        getRegionItems("AU"),
-        getRegionItems("SA"),
-        getRegionItems("UK"),
-        getRegionItems("US"),
-    ]);
+    const fetches = await Promise.allSettled(exchanges.map((exchange) => getRegionItems(exchange)));
 
     fetches.map((result) => {
         if (result.status === "fulfilled") {
