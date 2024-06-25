@@ -1,0 +1,3147 @@
+[
+  {
+    "Instrument Name": "88 Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "88E"
+  },
+  {
+    "Instrument Name": "Abacus Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "ABG"
+  },
+  {
+    "Instrument Name": "Abacus Property Group Units/ Stapled Securities",
+    "Exchange": "AUS Equities",
+    "Ticker": "ABP"
+  },
+  {
+    "Instrument Name": "Abacus Storage King",
+    "Exchange": "AUS Equities",
+    "Ticker": "ASK"
+  },
+  {
+    "Instrument Name": "Accent Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AX1"
+  },
+  {
+    "Instrument Name": "Adavale Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ADD"
+  },
+  {
+    "Instrument Name": "Adelaide Brighton",
+    "Exchange": "AUS Equities",
+    "Ticker": "ABC"
+  },
+  {
+    "Instrument Name": "Advanced Human Imaging Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AHI"
+  },
+  {
+    "Instrument Name": "AGL Energy Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "AGL"
+  },
+  {
+    "Instrument Name": "Airtasker Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ART"
+  },
+  {
+    "Instrument Name": "Aldoro Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ARN"
+  },
+  {
+    "Instrument Name": "Alexium International Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AJX"
+  },
+  {
+    "Instrument Name": "Alkane Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ALK"
+  },
+  {
+    "Instrument Name": "Alligator Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AGE"
+  },
+  {
+    "Instrument Name": "Allkem Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AKE"
+  },
+  {
+    "Instrument Name": "Als Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "ALQ"
+  },
+  {
+    "Instrument Name": "Altium Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "ALU"
+  },
+  {
+    "Instrument Name": "Alumina Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "AWC"
+  },
+  {
+    "Instrument Name": "Alvo Minerals ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ALV"
+  },
+  {
+    "Instrument Name": "AMA Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AMA"
+  },
+  {
+    "Instrument Name": "Amcor Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "AMC"
+  },
+  {
+    "Instrument Name": "American Rare Earths Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ARR"
+  },
+  {
+    "Instrument Name": "AMP Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "AMP"
+  },
+  {
+    "Instrument Name": "Ampol Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ALD"
+  },
+  {
+    "Instrument Name": "Ansarada Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AND"
+  },
+  {
+    "Instrument Name": "Ansell Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "ANN"
+  },
+  {
+    "Instrument Name": "Anson Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ASN"
+  },
+  {
+    "Instrument Name": "ANZ Banking Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "ANZ"
+  },
+  {
+    "Instrument Name": "AP Eagers Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "APE"
+  },
+  {
+    "Instrument Name": "APA Group Units FP Stapled Securities",
+    "Exchange": "AUS Equities",
+    "Ticker": "APA"
+  },
+  {
+    "Instrument Name": "Appen Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "APX"
+  },
+  {
+    "Instrument Name": "Arafura Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ARU"
+  },
+  {
+    "Instrument Name": "ARB Corporation",
+    "Exchange": "AUS Equities",
+    "Ticker": "ARB"
+  },
+  {
+    "Instrument Name": "Arcadia Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AM7"
+  },
+  {
+    "Instrument Name": "Arcadium Lithium PLC - CDI",
+    "Exchange": "AUS Equities",
+    "Ticker": "LTM"
+  },
+  {
+    "Instrument Name": "Archer Materials Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AXE"
+  },
+  {
+    "Instrument Name": "Ardent Leisure Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ALG"
+  },
+  {
+    "Instrument Name": "Arena REIT",
+    "Exchange": "AUS Equities",
+    "Ticker": "ARF"
+  },
+  {
+    "Instrument Name": "Aristocrat Leisure",
+    "Exchange": "AUS Equities",
+    "Ticker": "ALL"
+  },
+  {
+    "Instrument Name": "Arizona Lithium Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AZL"
+  },
+  {
+    "Instrument Name": "Armada Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AMM"
+  },
+  {
+    "Instrument Name": "ARN Media Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "A1N"
+  },
+  {
+    "Instrument Name": "Arovella Therapeutics Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ALA"
+  },
+  {
+    "Instrument Name": "Artemis Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ARV"
+  },
+  {
+    "Instrument Name": "Articore Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ATG"
+  },
+  {
+    "Instrument Name": "Asara Resources Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "AS1"
+  },
+  {
+    "Instrument Name": "Asra Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ASR"
+  },
+  {
+    "Instrument Name": "ASX Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "ASX"
+  },
+  {
+    "Instrument Name": "Atlas Arteria",
+    "Exchange": "AUS Equities",
+    "Ticker": "ALX"
+  },
+  {
+    "Instrument Name": "AUB Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AUB"
+  },
+  {
+    "Instrument Name": "Auckland International Airport Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AIA"
+  },
+  {
+    "Instrument Name": "Audinate Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AD8"
+  },
+  {
+    "Instrument Name": "Auking Mining Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AKN"
+  },
+  {
+    "Instrument Name": "Aura Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AEE"
+  },
+  {
+    "Instrument Name": "Aurelia Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AMI"
+  },
+  {
+    "Instrument Name": "Aurizon Holdings Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "AZJ"
+  },
+  {
+    "Instrument Name": "Auroch Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AOU"
+  },
+  {
+    "Instrument Name": "Austal Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ASB"
+  },
+  {
+    "Instrument Name": "Austral Resources Australia Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AR1"
+  },
+  {
+    "Instrument Name": "Australian Agricult",
+    "Exchange": "AUS Equities",
+    "Ticker": "AAC"
+  },
+  {
+    "Instrument Name": "Australian Ethical Investment Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AEF"
+  },
+  {
+    "Instrument Name": "Australian Finance Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AFG"
+  },
+  {
+    "Instrument Name": "Australian Mines Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AUZ"
+  },
+  {
+    "Instrument Name": "Australian Pharm",
+    "Exchange": "AUS Equities",
+    "Ticker": "API"
+  },
+  {
+    "Instrument Name": "Australian Potash Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "APC"
+  },
+  {
+    "Instrument Name": "Australian Strategic Materials Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ASM"
+  },
+  {
+    "Instrument Name": "Australian Vanadium Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AVL"
+  },
+  {
+    "Instrument Name": "Australian Vintage Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AVG"
+  },
+  {
+    "Instrument Name": "Aventus Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "AVN"
+  },
+  {
+    "Instrument Name": "Avita Medical Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AVH"
+  },
+  {
+    "Instrument Name": "AVZ Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AVZ"
+  },
+  {
+    "Instrument Name": "Azure Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "AZS"
+  },
+  {
+    "Instrument Name": "Baby Bunting Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BBN"
+  },
+  {
+    "Instrument Name": "Bailador Technology Investments Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BTI"
+  },
+  {
+    "Instrument Name": "Bank of Queensland",
+    "Exchange": "AUS Equities",
+    "Ticker": "BOQ"
+  },
+  {
+    "Instrument Name": "Bannerman Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BMN"
+  },
+  {
+    "Instrument Name": "Bapcor Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "BAP"
+  },
+  {
+    "Instrument Name": "Battery Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BAT"
+  },
+  {
+    "Instrument Name": "Beach Energy Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "BPT"
+  },
+  {
+    "Instrument Name": "Bega Cheese Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "BGA"
+  },
+  {
+    "Instrument Name": "Bellevue Gold Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BGL"
+  },
+  {
+    "Instrument Name": "Bendigo and Adelaide",
+    "Exchange": "AUS Equities",
+    "Ticker": "BEN"
+  },
+  {
+    "Instrument Name": "Berkeley Energia Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BKY"
+  },
+  {
+    "Instrument Name": "BetaShares Active Australian Hybrids Fund",
+    "Exchange": "AUS ETF",
+    "Ticker": "HBRD"
+  },
+  {
+    "Instrument Name": "BetaShares Asia Technology Tigers ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "ASIA"
+  },
+  {
+    "Instrument Name": "BetaShares Australia 200 ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "A200"
+  },
+  {
+    "Instrument Name": "BetaShares Australian Bank Senior Floating Rate Bond ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "QPON"
+  },
+  {
+    "Instrument Name": "BetaShares Australian Ex-20 Portfolio Diversifier ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "EX20"
+  },
+  {
+    "Instrument Name": "BetaShares Australian High Interest Cash ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "AAA"
+  },
+  {
+    "Instrument Name": "Betashares Australian Investment Grade Corporate Bond Etf",
+    "Exchange": "AUS ETF",
+    "Ticker": "CRED"
+  },
+  {
+    "Instrument Name": "BetaShares Australian Sustainability Leaders ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "FAIR"
+  },
+  {
+    "Instrument Name": "BetaShares Australian Top 20 Equity Yield Maximiser Fund",
+    "Exchange": "AUS ETF",
+    "Ticker": "YMAX"
+  },
+  {
+    "Instrument Name": "BetaShares Cloud Computing ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "CLDD"
+  },
+  {
+    "Instrument Name": "Betashares Crypto Innovators Etf",
+    "Exchange": "AUS ETF",
+    "Ticker": "CRYP"
+  },
+  {
+    "Instrument Name": "Betashares FTSE 100 ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "F100"
+  },
+  {
+    "Instrument Name": "BetaShares FTSE RAFI Australia 200 ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "QOZ"
+  },
+  {
+    "Instrument Name": "BetaShares Global Cybersecurity ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "HACK"
+  },
+  {
+    "Instrument Name": "BetaShares Global Quality Leaders ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "QLTY"
+  },
+  {
+    "Instrument Name": "BetaShares Global Sustainability Leaders ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "ETHI"
+  },
+  {
+    "Instrument Name": "BetaShares NASDAQ 100 ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "NDQ"
+  },
+  {
+    "Instrument Name": "BetaShares S&P/ASX Australian Technology ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "ATEC"
+  },
+  {
+    "Instrument Name": "BetaShares US Dollar ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "USD"
+  },
+  {
+    "Instrument Name": "BHP Billiton Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "BHP"
+  },
+  {
+    "Instrument Name": "Bigtincan Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BTH"
+  },
+  {
+    "Instrument Name": "Bikeexchange Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BEX"
+  },
+  {
+    "Instrument Name": "Bingo Industries Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BIN"
+  },
+  {
+    "Instrument Name": "Bitcoin AUD",
+    "Exchange": "AUS Equities",
+    "Ticker": "BTCAUD"
+  },
+  {
+    "Instrument Name": "Black Mountain Energy ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BME"
+  },
+  {
+    "Instrument Name": "Blackearth Minerals NL",
+    "Exchange": "AUS Equities",
+    "Ticker": "BEM"
+  },
+  {
+    "Instrument Name": "Blackmores Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "BKL"
+  },
+  {
+    "Instrument Name": "Blaze Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BLZ"
+  },
+  {
+    "Instrument Name": "Block Inc",
+    "Exchange": "AUS Equities",
+    "Ticker": "SQ2"
+  },
+  {
+    "Instrument Name": "Blue Star Helium Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BNL"
+  },
+  {
+    "Instrument Name": "Bluescope Steel Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "BSL"
+  },
+  {
+    "Instrument Name": "BOD Australia Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BOD"
+  },
+  {
+    "Instrument Name": "Boral Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "BLD"
+  },
+  {
+    "Instrument Name": "Boss Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BOE"
+  },
+  {
+    "Instrument Name": "BPM Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BPM"
+  },
+  {
+    "Instrument Name": "BrainChip Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BRN"
+  },
+  {
+    "Instrument Name": "Brambles Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "BXB"
+  },
+  {
+    "Instrument Name": "Bravura Solutions Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BVS"
+  },
+  {
+    "Instrument Name": "Breville Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "BRG"
+  },
+  {
+    "Instrument Name": "Brickworks Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "BKW"
+  },
+  {
+    "Instrument Name": "Bubs Australia Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BUB"
+  },
+  {
+    "Instrument Name": "Burgundy Diamond Mines Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BDM"
+  },
+  {
+    "Instrument Name": "BWP Trust Ordinary Units FP",
+    "Exchange": "AUS Equities",
+    "Ticker": "BWP"
+  },
+  {
+    "Instrument Name": "BWX Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "BWX"
+  },
+  {
+    "Instrument Name": "Cadoux Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CCM"
+  },
+  {
+    "Instrument Name": "Canyon Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CAY"
+  },
+  {
+    "Instrument Name": "Capricorn Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CMM"
+  },
+  {
+    "Instrument Name": "CAR Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "CAR"
+  },
+  {
+    "Instrument Name": "Cardno Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CDD"
+  },
+  {
+    "Instrument Name": "Carnarvon Petroleum Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CVN"
+  },
+  {
+    "Instrument Name": "Castle Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CDT"
+  },
+  {
+    "Instrument Name": "Catapult Group International Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CAT"
+  },
+  {
+    "Instrument Name": "Cedar Woods Properties Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CWP"
+  },
+  {
+    "Instrument Name": "Centaurus Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CTM"
+  },
+  {
+    "Instrument Name": "Centuria Capital Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "CNI"
+  },
+  {
+    "Instrument Name": "Centuria Industrial REIT",
+    "Exchange": "AUS Equities",
+    "Ticker": "CIP"
+  },
+  {
+    "Instrument Name": "Centuria Office REIT",
+    "Exchange": "AUS Equities",
+    "Ticker": "COF"
+  },
+  {
+    "Instrument Name": "Cettire Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CTT"
+  },
+  {
+    "Instrument Name": "Chalice Mining Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CHN"
+  },
+  {
+    "Instrument Name": "Challenger Exploration Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CEL"
+  },
+  {
+    "Instrument Name": "Challenger Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "CGF"
+  },
+  {
+    "Instrument Name": "Champion Iron Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CIA"
+  },
+  {
+    "Instrument Name": "Charter Hall Group Stapled Securities US Prohibited",
+    "Exchange": "AUS Equities",
+    "Ticker": "CHC"
+  },
+  {
+    "Instrument Name": "Charter Hall Retail Units FP",
+    "Exchange": "AUS Equities",
+    "Ticker": "CQR"
+  },
+  {
+    "Instrument Name": "Charter Hall Social Infrastructure REIT",
+    "Exchange": "AUS Equities",
+    "Ticker": "CQE"
+  },
+  {
+    "Instrument Name": "Chorus Limited Foreign Exempt NZX",
+    "Exchange": "AUS Equities",
+    "Ticker": "CNU"
+  },
+  {
+    "Instrument Name": "CHTR H LWR Stapled Securities",
+    "Exchange": "AUS Equities",
+    "Ticker": "CLW"
+  },
+  {
+    "Instrument Name": "City Chic Collective Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CCX"
+  },
+  {
+    "Instrument Name": "Cleanaway Waste Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "CWY"
+  },
+  {
+    "Instrument Name": "Clinuvel Pharmaceuticals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CUV"
+  },
+  {
+    "Instrument Name": "Cluey Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CLU"
+  },
+  {
+    "Instrument Name": "Coast Entertainment Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CEH"
+  },
+  {
+    "Instrument Name": "Cobalt Blue Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "COB"
+  },
+  {
+    "Instrument Name": "Cobre Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CBE"
+  },
+  {
+    "Instrument Name": "Cochlear Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "COH"
+  },
+  {
+    "Instrument Name": "Codan Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CDA"
+  },
+  {
+    "Instrument Name": "Coles Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "COL"
+  },
+  {
+    "Instrument Name": "Collins Foods Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CKF"
+  },
+  {
+    "Instrument Name": "Commonwealth Bank",
+    "Exchange": "AUS Equities",
+    "Ticker": "CBA"
+  },
+  {
+    "Instrument Name": "Computershare Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "CPU"
+  },
+  {
+    "Instrument Name": "Conico Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CNJ"
+  },
+  {
+    "Instrument Name": "Cooper Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "COE"
+  },
+  {
+    "Instrument Name": "Copper Mountain Mining Corp",
+    "Exchange": "AUS Equities",
+    "Ticker": "C6C"
+  },
+  {
+    "Instrument Name": "Corazon Mining Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CZN"
+  },
+  {
+    "Instrument Name": "Core Lithium Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CXO"
+  },
+  {
+    "Instrument Name": "Coronado Global Resources Inc",
+    "Exchange": "AUS Equities",
+    "Ticker": "CRN"
+  },
+  {
+    "Instrument Name": "Corp Travel Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "CTD"
+  },
+  {
+    "Instrument Name": "Costa Group Holdings",
+    "Exchange": "AUS Equities",
+    "Ticker": "CGC"
+  },
+  {
+    "Instrument Name": "Credit Corp Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "CCP"
+  },
+  {
+    "Instrument Name": "Creso Pharma Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CPH"
+  },
+  {
+    "Instrument Name": "Critical Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CRR"
+  },
+  {
+    "Instrument Name": "Cromwell Prop Ordinary/Units FP Stapled Securities",
+    "Exchange": "AUS Equities",
+    "Ticker": "CMW"
+  },
+  {
+    "Instrument Name": "Crown Resorts Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "CWN"
+  },
+  {
+    "Instrument Name": "CSL Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "CSL"
+  },
+  {
+    "Instrument Name": "CSR Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "CSR"
+  },
+  {
+    "Instrument Name": "CZR Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "CZR"
+  },
+  {
+    "Instrument Name": "Dacian Gold Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "DCN"
+  },
+  {
+    "Instrument Name": "Data#3 Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "DTL"
+  },
+  {
+    "Instrument Name": "De Grey Mining Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "DEG"
+  },
+  {
+    "Instrument Name": "Deep Yellow Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "DYL"
+  },
+  {
+    "Instrument Name": "Deterra Royalties Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "DRR"
+  },
+  {
+    "Instrument Name": "Develop Global Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "DVP"
+  },
+  {
+    "Instrument Name": "Dexus Industria Reit",
+    "Exchange": "AUS Equities",
+    "Ticker": "DXI"
+  },
+  {
+    "Instrument Name": "Dexus Units FP Stapled",
+    "Exchange": "AUS Equities",
+    "Ticker": "DXS"
+  },
+  {
+    "Instrument Name": "Dicker Data Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "DDR"
+  },
+  {
+    "Instrument Name": "Dimerix Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "DXB"
+  },
+  {
+    "Instrument Name": "Domain Holdings Aus",
+    "Exchange": "AUS Equities",
+    "Ticker": "DHG"
+  },
+  {
+    "Instrument Name": "Domino PIZZA Enterpr",
+    "Exchange": "AUS Equities",
+    "Ticker": "DMP"
+  },
+  {
+    "Instrument Name": "Douugh Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "DOU"
+  },
+  {
+    "Instrument Name": "Downer Edi Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "DOW"
+  },
+  {
+    "Instrument Name": "DroneShield Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "DRO"
+  },
+  {
+    "Instrument Name": "Dusk Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "DSK"
+  },
+  {
+    "Instrument Name": "DW8  Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "DW8"
+  },
+  {
+    "Instrument Name": "E2 Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "E2M"
+  },
+  {
+    "Instrument Name": "Eclipx Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "ECX"
+  },
+  {
+    "Instrument Name": "Ecograf Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EGR"
+  },
+  {
+    "Instrument Name": "Elders Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ELD"
+  },
+  {
+    "Instrument Name": "Electro Optic Systems Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EOS"
+  },
+  {
+    "Instrument Name": "Element 25 Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "E25"
+  },
+  {
+    "Instrument Name": "Elevate Uranium Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "EL8"
+  },
+  {
+    "Instrument Name": "Elixir Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EXR"
+  },
+  {
+    "Instrument Name": "Elmo Software Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ELO"
+  },
+  {
+    "Instrument Name": "Emeco Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EHL"
+  },
+  {
+    "Instrument Name": "Emerald Resources NL",
+    "Exchange": "AUS Equities",
+    "Ticker": "EMR"
+  },
+  {
+    "Instrument Name": "EML Payments Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EML"
+  },
+  {
+    "Instrument Name": "Endeavour Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EDV"
+  },
+  {
+    "Instrument Name": "Enterprise Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ENT"
+  },
+  {
+    "Instrument Name": "Environmental Group Ltd/The",
+    "Exchange": "AUS Equities",
+    "Ticker": "EGL"
+  },
+  {
+    "Instrument Name": "Estia Health Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "EHE"
+  },
+  {
+    "Instrument Name": "ETFS FANG+ ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "FANG"
+  },
+  {
+    "Instrument Name": "ETFS Metal Securities Australia Ltd - ETFS Physical Gold",
+    "Exchange": "AUS ETF",
+    "Ticker": "GOLD"
+  },
+  {
+    "Instrument Name": "Euro Manganese Inc",
+    "Exchange": "AUS Equities",
+    "Ticker": "EMN"
+  },
+  {
+    "Instrument Name": "European Lithium Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EUR"
+  },
+  {
+    "Instrument Name": "European Metals Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EMH"
+  },
+  {
+    "Instrument Name": "EV Resources Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "EVR"
+  },
+  {
+    "Instrument Name": "EVENT Hospitality and Entertainment Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EVT"
+  },
+  {
+    "Instrument Name": "EVION Group NL",
+    "Exchange": "AUS Equities",
+    "Ticker": "EVG"
+  },
+  {
+    "Instrument Name": "Evolution Energy Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EV1"
+  },
+  {
+    "Instrument Name": "Evolution Mining Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "EVN"
+  },
+  {
+    "Instrument Name": "Ezz Life Science Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "EZZ"
+  },
+  {
+    "Instrument Name": "Falcon Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "FAL"
+  },
+  {
+    "Instrument Name": "FAR Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "FAR"
+  },
+  {
+    "Instrument Name": "Fenix Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "FEX"
+  },
+  {
+    "Instrument Name": "Firefinch Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "FFX"
+  },
+  {
+    "Instrument Name": "Fisher & Paykel H Foreign Exempt NZX",
+    "Exchange": "AUS Equities",
+    "Ticker": "FPH"
+  },
+  {
+    "Instrument Name": "FleetPartners Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "FPR"
+  },
+  {
+    "Instrument Name": "Fletcher Building Foreign Exempt NZX",
+    "Exchange": "AUS Equities",
+    "Ticker": "FBU"
+  },
+  {
+    "Instrument Name": "Flight Centre Travel",
+    "Exchange": "AUS Equities",
+    "Ticker": "FLT"
+  },
+  {
+    "Instrument Name": "Fortescue Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "FMG"
+  },
+  {
+    "Instrument Name": "Frugl Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "FGL"
+  },
+  {
+    "Instrument Name": "Future Battery Minerals Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "FBM"
+  },
+  {
+    "Instrument Name": "FYI Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "FYI"
+  },
+  {
+    "Instrument Name": "G.U.D. Holdings",
+    "Exchange": "AUS Equities",
+    "Ticker": "GUD"
+  },
+  {
+    "Instrument Name": "G8 Education Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "GEM"
+  },
+  {
+    "Instrument Name": "Galan Lithium Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GLN"
+  },
+  {
+    "Instrument Name": "Galileo Mining Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GAL"
+  },
+  {
+    "Instrument Name": "GDI Property Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "GDI"
+  },
+  {
+    "Instrument Name": "Genesis Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GMD"
+  },
+  {
+    "Instrument Name": "Genetic Signatures Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GSS"
+  },
+  {
+    "Instrument Name": "Genex Power Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GNX"
+  },
+  {
+    "Instrument Name": "Global Oil &  Gas Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GLV"
+  },
+  {
+    "Instrument Name": "Global Uranium and Enrichment Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "GUE"
+  },
+  {
+    "Instrument Name": "Gold Road Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GOR"
+  },
+  {
+    "Instrument Name": "Golden Deeps Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GED"
+  },
+  {
+    "Instrument Name": "Golden Rim Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GMR"
+  },
+  {
+    "Instrument Name": "Golden State Mining Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GSM"
+  },
+  {
+    "Instrument Name": "Goodman Group Stapled Securities FP",
+    "Exchange": "AUS Equities",
+    "Ticker": "GMG"
+  },
+  {
+    "Instrument Name": "GPT Group Stapled Securities FP",
+    "Exchange": "AUS Equities",
+    "Ticker": "GPT"
+  },
+  {
+    "Instrument Name": "Graincorp Limited Class A",
+    "Exchange": "AUS Equities",
+    "Ticker": "GNC"
+  },
+  {
+    "Instrument Name": "Grand Gulf Energy Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "GGE"
+  },
+  {
+    "Instrument Name": "Gratifii Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GTI"
+  },
+  {
+    "Instrument Name": "Great Northern Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GNM"
+  },
+  {
+    "Instrument Name": "Greenwing Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GW1"
+  },
+  {
+    "Instrument Name": "Growthpoint Property Unit/ Stapled Securities",
+    "Exchange": "AUS Equities",
+    "Ticker": "GOZ"
+  },
+  {
+    "Instrument Name": "GTI Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "GTR"
+  },
+  {
+    "Instrument Name": "GWA Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "GWA"
+  },
+  {
+    "Instrument Name": "Hansen Technologies Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "HSN"
+  },
+  {
+    "Instrument Name": "Harvey Norman",
+    "Exchange": "AUS Equities",
+    "Ticker": "HVN"
+  },
+  {
+    "Instrument Name": "Hastings Technology Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "HAS"
+  },
+  {
+    "Instrument Name": "Hawsons Iron Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "HIO"
+  },
+  {
+    "Instrument Name": "Healius Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "HLS"
+  },
+  {
+    "Instrument Name": "Healthia Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "HLA"
+  },
+  {
+    "Instrument Name": "Helia Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "HLI"
+  },
+  {
+    "Instrument Name": "Hipages Group Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "HPG"
+  },
+  {
+    "Instrument Name": "HomeCo Daily Needs REIT",
+    "Exchange": "AUS Equities",
+    "Ticker": "HDN"
+  },
+  {
+    "Instrument Name": "Hot Chili Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "HCH"
+  },
+  {
+    "Instrument Name": "Hotel Property Investments",
+    "Exchange": "AUS Equities",
+    "Ticker": "HPI"
+  },
+  {
+    "Instrument Name": "HT&E Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "HT1"
+  },
+  {
+    "Instrument Name": "HUB24 Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "HUB"
+  },
+  {
+    "Instrument Name": "Humm Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "HUM"
+  },
+  {
+    "Instrument Name": "Idp Education Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IEL"
+  },
+  {
+    "Instrument Name": "IGO Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "IGO"
+  },
+  {
+    "Instrument Name": "Iluka Resources",
+    "Exchange": "AUS Equities",
+    "Ticker": "ILU"
+  },
+  {
+    "Instrument Name": "Imagion Biosystems Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IBX"
+  },
+  {
+    "Instrument Name": "IMDEX Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IMD"
+  },
+  {
+    "Instrument Name": "Imricor Medical Systems Inc",
+    "Exchange": "AUS Equities",
+    "Ticker": "IMR"
+  },
+  {
+    "Instrument Name": "Imugene Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IMU"
+  },
+  {
+    "Instrument Name": "Incitec Pivot",
+    "Exchange": "AUS Equities",
+    "Ticker": "IPL"
+  },
+  {
+    "Instrument Name": "Infinity Lithium Corp Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "INF"
+  },
+  {
+    "Instrument Name": "Infomedia Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IFM"
+  },
+  {
+    "Instrument Name": "Ingenia Communities Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "INA"
+  },
+  {
+    "Instrument Name": "Inghams Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ING"
+  },
+  {
+    "Instrument Name": "Insurance Australia",
+    "Exchange": "AUS Equities",
+    "Ticker": "IAG"
+  },
+  {
+    "Instrument Name": "Integral Diagnostics Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IDX"
+  },
+  {
+    "Instrument Name": "Integrated Research Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IRI"
+  },
+  {
+    "Instrument Name": "International Graphite Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IG6"
+  },
+  {
+    "Instrument Name": "Invictus Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IVZ"
+  },
+  {
+    "Instrument Name": "Invocare Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "IVC"
+  },
+  {
+    "Instrument Name": "Ioneer Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "INR"
+  },
+  {
+    "Instrument Name": "Ionic Rare Earths Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IXR"
+  },
+  {
+    "Instrument Name": "IOOF Holdings Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "IFL"
+  },
+  {
+    "Instrument Name": "IOUpay Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IOU"
+  },
+  {
+    "Instrument Name": "IperionX Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IPX"
+  },
+  {
+    "Instrument Name": "IPH Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "IPH"
+  },
+  {
+    "Instrument Name": "Iress Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "IRE"
+  },
+  {
+    "Instrument Name": "Iron Road Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IRD"
+  },
+  {
+    "Instrument Name": "Irongate Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "IAP"
+  },
+  {
+    "Instrument Name": "iShares Asia 50 ETF/AU",
+    "Exchange": "AUS ETF",
+    "Ticker": "IAA"
+  },
+  {
+    "Instrument Name": "iShares Core Cash ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "BILL"
+  },
+  {
+    "Instrument Name": "iShares CORE Composite Bond ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "IAF"
+  },
+  {
+    "Instrument Name": "iShares Core Global Corporate Bond AUD Hedged ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "IHCB"
+  },
+  {
+    "Instrument Name": "iShares Core S&P 500 ETF/Australia",
+    "Exchange": "AUS ETF",
+    "Ticker": "IVV"
+  },
+  {
+    "Instrument Name": "iShares CORE S&P/ASX 200 ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "IOZ"
+  },
+  {
+    "Instrument Name": "iShares Edge MSCI World Multifactor ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "WDMF"
+  },
+  {
+    "Instrument Name": "iShares Europe ETF/AU",
+    "Exchange": "AUS ETF",
+    "Ticker": "IEU"
+  },
+  {
+    "Instrument Name": "iShares Global 100 ETF/AU",
+    "Exchange": "AUS ETF",
+    "Ticker": "IOO"
+  },
+  {
+    "Instrument Name": "iShares Global Healthcare ETF/AU",
+    "Exchange": "AUS ETF",
+    "Ticker": "IXJ"
+  },
+  {
+    "Instrument Name": "Ishares Global High Yield Bond (Aud Hedged) ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "IHHY"
+  },
+  {
+    "Instrument Name": "Ishares JP Morgan Usd Emerging MKT BND Aud HDG ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "IHEB"
+  },
+  {
+    "Instrument Name": "iShares MSCI EAFE ETF/AU",
+    "Exchange": "AUS ETF",
+    "Ticker": "IVE"
+  },
+  {
+    "Instrument Name": "iShares MSCI Emerging Markets ETF/AU",
+    "Exchange": "AUS ETF",
+    "Ticker": "IEM"
+  },
+  {
+    "Instrument Name": "iShares MSCI Japan ETF/AU",
+    "Exchange": "AUS ETF",
+    "Ticker": "IJP"
+  },
+  {
+    "Instrument Name": "iShares S&P 500 AUD Hedged ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "IHVV"
+  },
+  {
+    "Instrument Name": "iShares S&P/ASX 20 ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "ILC"
+  },
+  {
+    "Instrument Name": "iShares S&P/ASX Dividend Opportunities ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "IHD"
+  },
+  {
+    "Instrument Name": "Ive Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "IGL"
+  },
+  {
+    "Instrument Name": "James Hardie Indust Chess Depositary Interests 1:1",
+    "Exchange": "AUS Equities",
+    "Ticker": "JHX"
+  },
+  {
+    "Instrument Name": "Janison Education Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "JAN"
+  },
+  {
+    "Instrument Name": "Janus Henderson Chess Depositary Interests",
+    "Exchange": "AUS Equities",
+    "Ticker": "JHG"
+  },
+  {
+    "Instrument Name": "JB Hi-Fi Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "JBH"
+  },
+  {
+    "Instrument Name": "Jervois Global Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "JRV"
+  },
+  {
+    "Instrument Name": "Jumbo Interactive Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "JIN"
+  },
+  {
+    "Instrument Name": "Juno Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "JNO"
+  },
+  {
+    "Instrument Name": "Jupiter Mines Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "JMS"
+  },
+  {
+    "Instrument Name": "Kaddy Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "KDY"
+  },
+  {
+    "Instrument Name": "Kalamazoo Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "KZR"
+  },
+  {
+    "Instrument Name": "Kali Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "KM1"
+  },
+  {
+    "Instrument Name": "Karoon Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "KAR"
+  },
+  {
+    "Instrument Name": "Kathmandu Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "KMD"
+  },
+  {
+    "Instrument Name": "Kelly Partners Group Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "KPG"
+  },
+  {
+    "Instrument Name": "Kelsian Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "KLS"
+  },
+  {
+    "Instrument Name": "Kinetiko Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "KKO"
+  },
+  {
+    "Instrument Name": "Kogan.com Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "KGN"
+  },
+  {
+    "Instrument Name": "Kuniko Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "KNI"
+  },
+  {
+    "Instrument Name": "L1 Long Short Fund Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "LSF"
+  },
+  {
+    "Instrument Name": "Lake Resources NL",
+    "Exchange": "AUS Equities",
+    "Ticker": "LKE"
+  },
+  {
+    "Instrument Name": "Lanthanein Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "LNR"
+  },
+  {
+    "Instrument Name": "Latin Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "LRS"
+  },
+  {
+    "Instrument Name": "LCL Resources Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "LCL"
+  },
+  {
+    "Instrument Name": "Lendlease Group Unit/ Stapled Securities",
+    "Exchange": "AUS Equities",
+    "Ticker": "LLC"
+  },
+  {
+    "Instrument Name": "Leo Lithium Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "LLL"
+  },
+  {
+    "Instrument Name": "Lepidico Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "LPD"
+  },
+  {
+    "Instrument Name": "Lifestyle Communities Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "LIC"
+  },
+  {
+    "Instrument Name": "Link Admin HLDG",
+    "Exchange": "AUS Equities",
+    "Ticker": "LNK"
+  },
+  {
+    "Instrument Name": "Liontown Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "LTR"
+  },
+  {
+    "Instrument Name": "Lithium Australia NL",
+    "Exchange": "AUS Equities",
+    "Ticker": "LIT"
+  },
+  {
+    "Instrument Name": "Lithium Power International Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "LPI"
+  },
+  {
+    "Instrument Name": "Lotus Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "LOT"
+  },
+  {
+    "Instrument Name": "Lovisa Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "LOV"
+  },
+  {
+    "Instrument Name": "Lycaon Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "LYN"
+  },
+  {
+    "Instrument Name": "Lynas Corporation",
+    "Exchange": "AUS Equities",
+    "Ticker": "LYC"
+  },
+  {
+    "Instrument Name": "Maca Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MLD"
+  },
+  {
+    "Instrument Name": "Macmahon Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MAH"
+  },
+  {
+    "Instrument Name": "Macquarie Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "MQG"
+  },
+  {
+    "Instrument Name": "Magellan Fin Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "MFG"
+  },
+  {
+    "Instrument Name": "Magellan Infrastructure Fund - Currency Hedged",
+    "Exchange": "AUS ETF",
+    "Ticker": "MICH"
+  },
+  {
+    "Instrument Name": "Magnis Energy Technologies Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MNS"
+  },
+  {
+    "Instrument Name": "Mandrake Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MAN"
+  },
+  {
+    "Instrument Name": "Mantle Minerals Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "MTL"
+  },
+  {
+    "Instrument Name": "Mayne Pharma Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "MYX"
+  },
+  {
+    "Instrument Name": "Mcmillan Shakespeare",
+    "Exchange": "AUS Equities",
+    "Ticker": "MMS"
+  },
+  {
+    "Instrument Name": "McPherson's Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MCP"
+  },
+  {
+    "Instrument Name": "Medibank Private Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "MPL"
+  },
+  {
+    "Instrument Name": "Medical Developments International Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MVP"
+  },
+  {
+    "Instrument Name": "Megaport Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MP1"
+  },
+  {
+    "Instrument Name": "Melodiol Global Health Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ME1"
+  },
+  {
+    "Instrument Name": "Mesoblast Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MSB"
+  },
+  {
+    "Instrument Name": "Metals X Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MLX"
+  },
+  {
+    "Instrument Name": "Metcash Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "MTS"
+  },
+  {
+    "Instrument Name": "MFF Capital Investments Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MFF"
+  },
+  {
+    "Instrument Name": "MGC Pharmaceuticals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MXC"
+  },
+  {
+    "Instrument Name": "Michael Hill International Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MHJ"
+  },
+  {
+    "Instrument Name": "Minbos Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MNB"
+  },
+  {
+    "Instrument Name": "Mineral Commodities Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MRC"
+  },
+  {
+    "Instrument Name": "Mineral Resources",
+    "Exchange": "AUS Equities",
+    "Ticker": "MIN"
+  },
+  {
+    "Instrument Name": "Mirvac Group Stapled Securities",
+    "Exchange": "AUS Equities",
+    "Ticker": "MGR"
+  },
+  {
+    "Instrument Name": "MLG OZ Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MLG"
+  },
+  {
+    "Instrument Name": "MMA Offshore Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MRM"
+  },
+  {
+    "Instrument Name": "Monadelphous Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "MND"
+  },
+  {
+    "Instrument Name": "Monash Ivf Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MVF"
+  },
+  {
+    "Instrument Name": "Montem Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MR1"
+  },
+  {
+    "Instrument Name": "Mount Gibson Iron Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MGX"
+  },
+  {
+    "Instrument Name": "Myer Holdings Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "MYR"
+  },
+  {
+    "Instrument Name": "Mystate Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "MYS"
+  },
+  {
+    "Instrument Name": "Nagambie Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NAG"
+  },
+  {
+    "Instrument Name": "Nanosonics Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "NAN"
+  },
+  {
+    "Instrument Name": "National Aust. Bank",
+    "Exchange": "AUS Equities",
+    "Ticker": "NAB"
+  },
+  {
+    "Instrument Name": "National Storage Stapled Security FP",
+    "Exchange": "AUS Equities",
+    "Ticker": "NSR"
+  },
+  {
+    "Instrument Name": "Navigator Global Investments Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NGI"
+  },
+  {
+    "Instrument Name": "Nearmap Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NEA"
+  },
+  {
+    "Instrument Name": "Nelson Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NES"
+  },
+  {
+    "Instrument Name": "Neometals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NMT"
+  },
+  {
+    "Instrument Name": "Netwealth Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NWL"
+  },
+  {
+    "Instrument Name": "Neurotech International Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NTI"
+  },
+  {
+    "Instrument Name": "New Century Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NCZ"
+  },
+  {
+    "Instrument Name": "New Hope Corporation Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NHC"
+  },
+  {
+    "Instrument Name": "Newcrest Mining",
+    "Exchange": "AUS Equities",
+    "Ticker": "NCM"
+  },
+  {
+    "Instrument Name": "Newmont Corp - CDI",
+    "Exchange": "AUS Equities",
+    "Ticker": "NEM"
+  },
+  {
+    "Instrument Name": "News Corp Class B Voting Common Stock-Cdi",
+    "Exchange": "AUS Equities",
+    "Ticker": "NWS"
+  },
+  {
+    "Instrument Name": "NEXTDC Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "NXT"
+  },
+  {
+    "Instrument Name": "Nib Holdings Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "NHF"
+  },
+  {
+    "Instrument Name": "Nick Scali Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NCK"
+  },
+  {
+    "Instrument Name": "Nickel Mines Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NIC"
+  },
+  {
+    "Instrument Name": "NickelSearch ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NIS"
+  },
+  {
+    "Instrument Name": "Nine Entertainment",
+    "Exchange": "AUS Equities",
+    "Ticker": "NEC"
+  },
+  {
+    "Instrument Name": "Noble Helium Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NHE"
+  },
+  {
+    "Instrument Name": "Nordic Nickel Ltd/Australia",
+    "Exchange": "AUS Equities",
+    "Ticker": "NNL"
+  },
+  {
+    "Instrument Name": "Northern Minerals Ltd/Australia",
+    "Exchange": "AUS Equities",
+    "Ticker": "NTU"
+  },
+  {
+    "Instrument Name": "Northern Star",
+    "Exchange": "AUS Equities",
+    "Ticker": "NST"
+  },
+  {
+    "Instrument Name": "Noumi Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NOU"
+  },
+  {
+    "Instrument Name": "Novonix Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NVX"
+  },
+  {
+    "Instrument Name": "NRW Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NWH"
+  },
+  {
+    "Instrument Name": "Nufarm Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "NUF"
+  },
+  {
+    "Instrument Name": "Nuix Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "NXL"
+  },
+  {
+    "Instrument Name": "Oceanagold Corporation",
+    "Exchange": "AUS Equities",
+    "Ticker": "OGC"
+  },
+  {
+    "Instrument Name": "OFX Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "OFX"
+  },
+  {
+    "Instrument Name": "Okapi Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "OKR"
+  },
+  {
+    "Instrument Name": "Omni Bridgeway Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "OBL"
+  },
+  {
+    "Instrument Name": "Oneview Healthcare PLC",
+    "Exchange": "AUS Equities",
+    "Ticker": "ONE"
+  },
+  {
+    "Instrument Name": "Ooh!Media Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "OML"
+  },
+  {
+    "Instrument Name": "Opthea Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "OPT"
+  },
+  {
+    "Instrument Name": "Orica Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "ORI"
+  },
+  {
+    "Instrument Name": "Origin Energy",
+    "Exchange": "AUS Equities",
+    "Ticker": "ORG"
+  },
+  {
+    "Instrument Name": "Orora Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "ORA"
+  },
+  {
+    "Instrument Name": "OZ Minerals",
+    "Exchange": "AUS Equities",
+    "Ticker": "OZL"
+  },
+  {
+    "Instrument Name": "Pacific Nickel Mines Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PNM"
+  },
+  {
+    "Instrument Name": "Pact Group Holdings Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "PGH"
+  },
+  {
+    "Instrument Name": "Paladin Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PDN"
+  },
+  {
+    "Instrument Name": "Pan Asia Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PAM"
+  },
+  {
+    "Instrument Name": "Pantera Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PFE"
+  },
+  {
+    "Instrument Name": "Paradigm Biopharmaceuticals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PAR"
+  },
+  {
+    "Instrument Name": "Peak Rare Earths Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PEK"
+  },
+  {
+    "Instrument Name": "Pendal Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PDL"
+  },
+  {
+    "Instrument Name": "Peoplein Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "PPE"
+  },
+  {
+    "Instrument Name": "Perenti Global Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PRN"
+  },
+  {
+    "Instrument Name": "Perpetual Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "PPT"
+  },
+  {
+    "Instrument Name": "Perseus Mining Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PRU"
+  },
+  {
+    "Instrument Name": "PERTH MINT GOLD",
+    "Exchange": "AUS ETF",
+    "Ticker": "PMGOLD"
+  },
+  {
+    "Instrument Name": "PEXA Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PXA"
+  },
+  {
+    "Instrument Name": "Phoslock Environmental Technologies Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PET"
+  },
+  {
+    "Instrument Name": "Piedmont Lithium Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PLL"
+  },
+  {
+    "Instrument Name": "Pilbara Min Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "PLS"
+  },
+  {
+    "Instrument Name": "Pinnacle Investment Management Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PNI"
+  },
+  {
+    "Instrument Name": "Platinum Asset",
+    "Exchange": "AUS Equities",
+    "Ticker": "PTM"
+  },
+  {
+    "Instrument Name": "Platinum International Fund ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "PIXX"
+  },
+  {
+    "Instrument Name": "Playside Studios Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PLY"
+  },
+  {
+    "Instrument Name": "Pointerra Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "3DP"
+  },
+  {
+    "Instrument Name": "PointsBet Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PBH"
+  },
+  {
+    "Instrument Name": "Polynovo Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PNV"
+  },
+  {
+    "Instrument Name": "Poseidon Nickel Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "POS"
+  },
+  {
+    "Instrument Name": "Predictive Discovery Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PDI"
+  },
+  {
+    "Instrument Name": "Premier Investments",
+    "Exchange": "AUS Equities",
+    "Ticker": "PMV"
+  },
+  {
+    "Instrument Name": "Pro Medicus Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PME"
+  },
+  {
+    "Instrument Name": "Prominence Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PRM"
+  },
+  {
+    "Instrument Name": "Prospect Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PSC"
+  },
+  {
+    "Instrument Name": "Provaris Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PV1"
+  },
+  {
+    "Instrument Name": "Province Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PRL"
+  },
+  {
+    "Instrument Name": "Pursuit Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PUR"
+  },
+  {
+    "Instrument Name": "Pushpay Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "PPH"
+  },
+  {
+    "Instrument Name": "Qantas Airways",
+    "Exchange": "AUS Equities",
+    "Ticker": "QAN"
+  },
+  {
+    "Instrument Name": "QBE Insurance Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "QBE"
+  },
+  {
+    "Instrument Name": "QUBE Holdings Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "QUB"
+  },
+  {
+    "Instrument Name": "Queensland Pacific Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "QPM"
+  },
+  {
+    "Instrument Name": "Race Oncology Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "RAC"
+  },
+  {
+    "Instrument Name": "Ragusa Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "RAS"
+  },
+  {
+    "Instrument Name": "Ramelius Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "RMS"
+  },
+  {
+    "Instrument Name": "Ramsay Health Care",
+    "Exchange": "AUS Equities",
+    "Ticker": "RHC"
+  },
+  {
+    "Instrument Name": "Rarex Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "REE"
+  },
+  {
+    "Instrument Name": "REA Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "REA"
+  },
+  {
+    "Instrument Name": "Recharge Metals ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "REC"
+  },
+  {
+    "Instrument Name": "Red 5 Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "RED"
+  },
+  {
+    "Instrument Name": "Red Mountain Mining Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "RMX"
+  },
+  {
+    "Instrument Name": "Red River Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "RVR"
+  },
+  {
+    "Instrument Name": "Redbubble Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "RBL"
+  },
+  {
+    "Instrument Name": "Reece Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "REH"
+  },
+  {
+    "Instrument Name": "Regal Investment Fund",
+    "Exchange": "AUS Equities",
+    "Ticker": "RF1"
+  },
+  {
+    "Instrument Name": "Region Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "RGN"
+  },
+  {
+    "Instrument Name": "Regis Healthcare Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "REG"
+  },
+  {
+    "Instrument Name": "Regis Resources",
+    "Exchange": "AUS Equities",
+    "Ticker": "RRL"
+  },
+  {
+    "Instrument Name": "Reliance Worldwide",
+    "Exchange": "AUS Equities",
+    "Ticker": "RWC"
+  },
+  {
+    "Instrument Name": "Renascor Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "RNU"
+  },
+  {
+    "Instrument Name": "Renergen Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "RLT"
+  },
+  {
+    "Instrument Name": "Resmed Inc Cdi 10:1 Foreign Exempt NYSE",
+    "Exchange": "AUS Equities",
+    "Ticker": "RMD"
+  },
+  {
+    "Instrument Name": "Resolute Mining",
+    "Exchange": "AUS Equities",
+    "Ticker": "RSG"
+  },
+  {
+    "Instrument Name": "RIO Tinto Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "RIO"
+  },
+  {
+    "Instrument Name": "Rumble Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "RTR"
+  },
+  {
+    "Instrument Name": "Rural Funds Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "RFF"
+  },
+  {
+    "Instrument Name": "Russell Invest Aust Select Corp Bond ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "RCB"
+  },
+  {
+    "Instrument Name": "Russell Invest High Div Aust Shares ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "RDV"
+  },
+  {
+    "Instrument Name": "Russell Investments Australian Responsible Investment ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "RARI"
+  },
+  {
+    "Instrument Name": "SACGASCO Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SGC"
+  },
+  {
+    "Instrument Name": "Sandfire Resources",
+    "Exchange": "AUS Equities",
+    "Ticker": "SFR"
+  },
+  {
+    "Instrument Name": "Santos Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "STO"
+  },
+  {
+    "Instrument Name": "Sarytogan Graphite Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SGA"
+  },
+  {
+    "Instrument Name": "Saturn Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "STN"
+  },
+  {
+    "Instrument Name": "Sayona Mining Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SYA"
+  },
+  {
+    "Instrument Name": "Scentre Group Stapled Securities",
+    "Exchange": "AUS Equities",
+    "Ticker": "SCG"
+  },
+  {
+    "Instrument Name": "Seek Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SEK"
+  },
+  {
+    "Instrument Name": "Select Harvests Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SHV"
+  },
+  {
+    "Instrument Name": "Service Stream Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SSM"
+  },
+  {
+    "Instrument Name": "Seven Group Holdings",
+    "Exchange": "AUS Equities",
+    "Ticker": "SVW"
+  },
+  {
+    "Instrument Name": "Seven West Media Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SWM"
+  },
+  {
+    "Instrument Name": "SG Fleet Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SGF"
+  },
+  {
+    "Instrument Name": "Shopping Centres Australasia Property Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "SCP"
+  },
+  {
+    "Instrument Name": "SI6 Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SI6"
+  },
+  {
+    "Instrument Name": "Sierra Rutile Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SRX"
+  },
+  {
+    "Instrument Name": "Sigma Health Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SIG"
+  },
+  {
+    "Instrument Name": "Silver Lake Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SLR"
+  },
+  {
+    "Instrument Name": "Sims Metal MGMT Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SGM"
+  },
+  {
+    "Instrument Name": "Skycity Ent Group Limited Foreign Exempt NZX",
+    "Exchange": "AUS Equities",
+    "Ticker": "SKC"
+  },
+  {
+    "Instrument Name": "Smartgroup Corporation Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SIQ"
+  },
+  {
+    "Instrument Name": "Solis Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SLM"
+  },
+  {
+    "Instrument Name": "SOLVAR LTD",
+    "Exchange": "AUS Equities",
+    "Ticker": "SVR"
+  },
+  {
+    "Instrument Name": "Sonic Healthcare",
+    "Exchange": "AUS Equities",
+    "Ticker": "SHL"
+  },
+  {
+    "Instrument Name": "Soul Pattinson (W.H)",
+    "Exchange": "AUS Equities",
+    "Ticker": "SOL"
+  },
+  {
+    "Instrument Name": "SOUTH32 Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "S32"
+  },
+  {
+    "Instrument Name": "Southern Cross Gold Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SXG"
+  },
+  {
+    "Instrument Name": "Southern Palladium Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SPD"
+  },
+  {
+    "Instrument Name": "Sovereign Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SVM"
+  },
+  {
+    "Instrument Name": "Spark New Zealand Foreign Exempt NZX",
+    "Exchange": "AUS Equities",
+    "Ticker": "SPK"
+  },
+  {
+    "Instrument Name": "SPDR Dow Jones Global Real Estate Fund",
+    "Exchange": "AUS ETF",
+    "Ticker": "DJRE"
+  },
+  {
+    "Instrument Name": "SPDR MSCI Australia Select High Dividend Yield",
+    "Exchange": "AUS ETF",
+    "Ticker": "SYI"
+  },
+  {
+    "Instrument Name": "SPDR S&P Global Dividend Fund",
+    "Exchange": "AUS ETF",
+    "Ticker": "WDIV"
+  },
+  {
+    "Instrument Name": "SPDR S&P/ASX 200 Fund",
+    "Exchange": "AUS ETF",
+    "Ticker": "STW"
+  },
+  {
+    "Instrument Name": "SPDR S&P/ASX 200 Listed Property Fund",
+    "Exchange": "AUS ETF",
+    "Ticker": "SLF"
+  },
+  {
+    "Instrument Name": "SPDR S&P/ASX 50 Fund",
+    "Exchange": "AUS ETF",
+    "Ticker": "SFY"
+  },
+  {
+    "Instrument Name": "Spenda Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SPX"
+  },
+  {
+    "Instrument Name": "SSR Mining CDIs",
+    "Exchange": "AUS Equities",
+    "Ticker": "SSR"
+  },
+  {
+    "Instrument Name": "ST Barbara Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SBM"
+  },
+  {
+    "Instrument Name": "Starpharma Holdings Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SPL"
+  },
+  {
+    "Instrument Name": "Steadfast Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SDF"
+  },
+  {
+    "Instrument Name": "Stelar Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SLB"
+  },
+  {
+    "Instrument Name": "STHN Cross Media",
+    "Exchange": "AUS Equities",
+    "Ticker": "SXL"
+  },
+  {
+    "Instrument Name": "Stockland Units/ Stapled Securities",
+    "Exchange": "AUS Equities",
+    "Ticker": "SGP"
+  },
+  {
+    "Instrument Name": "Straker Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "STG"
+  },
+  {
+    "Instrument Name": "Strike Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "STX"
+  },
+  {
+    "Instrument Name": "Strike Resources Ltd/Australia",
+    "Exchange": "AUS Equities",
+    "Ticker": "SRK"
+  },
+  {
+    "Instrument Name": "Summit Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SUM"
+  },
+  {
+    "Instrument Name": "Suncorp Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SUN"
+  },
+  {
+    "Instrument Name": "Super Ret Rep Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SUL"
+  },
+  {
+    "Instrument Name": "Superloop Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SLC"
+  },
+  {
+    "Instrument Name": "Surefire Resources NL",
+    "Exchange": "AUS Equities",
+    "Ticker": "SRN"
+  },
+  {
+    "Instrument Name": "SYD Airport FP Stapled Securities US Prohibited",
+    "Exchange": "AUS Equities",
+    "Ticker": "SYD"
+  },
+  {
+    "Instrument Name": "Synlait Milk Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "SM1"
+  },
+  {
+    "Instrument Name": "Syrah Resources",
+    "Exchange": "AUS Equities",
+    "Ticker": "SYR"
+  },
+  {
+    "Instrument Name": "Tabcorp Holdings Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "TAH"
+  },
+  {
+    "Instrument Name": "Talga Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TLG"
+  },
+  {
+    "Instrument Name": "Tassal Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "TGR"
+  },
+  {
+    "Instrument Name": "TechGen Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TG1"
+  },
+  {
+    "Instrument Name": "Technology One",
+    "Exchange": "AUS Equities",
+    "Ticker": "TNE"
+  },
+  {
+    "Instrument Name": "Telix Pharmaceuticals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TLX"
+  },
+  {
+    "Instrument Name": "Telstra Corporation",
+    "Exchange": "AUS Equities",
+    "Ticker": "TLS"
+  },
+  {
+    "Instrument Name": "Temple & Webster Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TPW"
+  },
+  {
+    "Instrument Name": "Tempus Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TMR"
+  },
+  {
+    "Instrument Name": "The a2 Milk Company",
+    "Exchange": "AUS Equities",
+    "Ticker": "A2M"
+  },
+  {
+    "Instrument Name": "The Lottery Corporation Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TLC"
+  },
+  {
+    "Instrument Name": "The Star Ent Group",
+    "Exchange": "AUS Equities",
+    "Ticker": "SGR"
+  },
+  {
+    "Instrument Name": "Thomson Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TMZ"
+  },
+  {
+    "Instrument Name": "Tietto Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TIE"
+  },
+  {
+    "Instrument Name": "Titan Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TTM"
+  },
+  {
+    "Instrument Name": "Tivan Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "TVN"
+  },
+  {
+    "Instrument Name": "TNG Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TNG"
+  },
+  {
+    "Instrument Name": "Top End Energy Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TEE"
+  },
+  {
+    "Instrument Name": "TPG Telecom Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TPG"
+  },
+  {
+    "Instrument Name": "Traka Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TKL"
+  },
+  {
+    "Instrument Name": "Transurban Group Ordinary Shares/Units FP Triple Stapled",
+    "Exchange": "AUS Equities",
+    "Ticker": "TCL"
+  },
+  {
+    "Instrument Name": "Treasury Wine Estate",
+    "Exchange": "AUS Equities",
+    "Ticker": "TWE"
+  },
+  {
+    "Instrument Name": "Triton Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TON"
+  },
+  {
+    "Instrument Name": "Turaco Gold Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TCG"
+  },
+  {
+    "Instrument Name": "Tyranna Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TYX"
+  },
+  {
+    "Instrument Name": "Tyro Payments Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TYR"
+  },
+  {
+    "Instrument Name": "TZ Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "TZL"
+  },
+  {
+    "Instrument Name": "Unibail-Rodamco-Westfield",
+    "Exchange": "AUS Equities",
+    "Ticker": "URW"
+  },
+  {
+    "Instrument Name": "Unico Silver Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "USL"
+  },
+  {
+    "Instrument Name": "United Malt Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "UMG"
+  },
+  {
+    "Instrument Name": "Valor Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "VAL"
+  },
+  {
+    "Instrument Name": "VanEck Vectors Aus Equal Weight ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "MVW"
+  },
+  {
+    "Instrument Name": "VanEck Vectors Australian Corporate Bond Plus ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "PLUS"
+  },
+  {
+    "Instrument Name": "VanEck Vectors Australian Floating Rate ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "FLOT"
+  },
+  {
+    "Instrument Name": "Vaneck Vectors China New Economy ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "CNEW"
+  },
+  {
+    "Instrument Name": "VanEck Vectors FTSE Global Infrastructure Hedged ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "IFRA"
+  },
+  {
+    "Instrument Name": "Vaneck Vectors MSCI World ex Australia Quality ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "QUAL"
+  },
+  {
+    "Instrument Name": "VanEck Vectors Video Gaming and eSports ETF/AU",
+    "Exchange": "AUS ETF",
+    "Ticker": "ESPO"
+  },
+  {
+    "Instrument Name": "Vanguard Australian Corporate Fixed Interest Index ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VACF"
+  },
+  {
+    "Instrument Name": "Vanguard Australian Fixed Interest Index ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VAF"
+  },
+  {
+    "Instrument Name": "Vanguard Australian Government Bond Index ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VGB"
+  },
+  {
+    "Instrument Name": "Vanguard Australian Property Securities Index ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VAP"
+  },
+  {
+    "Instrument Name": "Vanguard Australian Shares High Yield ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VHY"
+  },
+  {
+    "Instrument Name": "Vanguard Australian Shares Index ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VAS"
+  },
+  {
+    "Instrument Name": "Vanguard Diversified Balanced Index ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VDBA"
+  },
+  {
+    "Instrument Name": "Vanguard Diversified High Growth Index ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VDHG"
+  },
+  {
+    "Instrument Name": "Vanguard FTSE All-World ex-US ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VEU"
+  },
+  {
+    "Instrument Name": "Vanguard FTSE Emerging Markets ETF/Australia",
+    "Exchange": "AUS ETF",
+    "Ticker": "VGE"
+  },
+  {
+    "Instrument Name": "Vanguard FTSE Europe Shares ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VEQ"
+  },
+  {
+    "Instrument Name": "Vanguard International Fixed Interest Index Hedged ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VIF"
+  },
+  {
+    "Instrument Name": "Vanguard MSCI Australian Small Companies ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VSO"
+  },
+  {
+    "Instrument Name": "Vanguard MSCI Index International Shares ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VGS"
+  },
+  {
+    "Instrument Name": "Vanguard MSCI Index International Shares Hedged ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VGAD"
+  },
+  {
+    "Instrument Name": "Vanguard Total Stock Market ETF",
+    "Exchange": "AUS ETF",
+    "Ticker": "VTS"
+  },
+  {
+    "Instrument Name": "Vicinity Centres Ordinary/Units FP Stapled Securities",
+    "Exchange": "AUS Equities",
+    "Ticker": "VCX"
+  },
+  {
+    "Instrument Name": "Virgin Money Uk Plc",
+    "Exchange": "AUS Equities",
+    "Ticker": "VUK"
+  },
+  {
+    "Instrument Name": "Vital Metals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "VML"
+  },
+  {
+    "Instrument Name": "Viva Energy Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "VEA"
+  },
+  {
+    "Instrument Name": "Volt Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "VRC"
+  },
+  {
+    "Instrument Name": "Vonex Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "VN8"
+  },
+  {
+    "Instrument Name": "Vulcan Energy Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "VUL"
+  },
+  {
+    "Instrument Name": "Walkabout Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "WKT"
+  },
+  {
+    "Instrument Name": "Waratah Minerals Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "WTM"
+  },
+  {
+    "Instrument Name": "Waypoint REIT",
+    "Exchange": "AUS Equities",
+    "Ticker": "WPR"
+  },
+  {
+    "Instrument Name": "Webjet Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "WEB"
+  },
+  {
+    "Instrument Name": "Weebit Nano Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "WBT"
+  },
+  {
+    "Instrument Name": "Wesfarmers Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "WES"
+  },
+  {
+    "Instrument Name": "West African Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "WAF"
+  },
+  {
+    "Instrument Name": "Westgold Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "WGX"
+  },
+  {
+    "Instrument Name": "Westpac Banking Corp",
+    "Exchange": "AUS Equities",
+    "Ticker": "WBC"
+  },
+  {
+    "Instrument Name": "Whitehaven Coal",
+    "Exchange": "AUS Equities",
+    "Ticker": "WHC"
+  },
+  {
+    "Instrument Name": "WhiteHawk Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "WHK"
+  },
+  {
+    "Instrument Name": "Winsome Resources Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "WR1"
+  },
+  {
+    "Instrument Name": "Wisetech Global Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "WTC"
+  },
+  {
+    "Instrument Name": "Wisr Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "WZR"
+  },
+  {
+    "Instrument Name": "Woodside Energy Group Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "WDS"
+  },
+  {
+    "Instrument Name": "Woodside Petroleum",
+    "Exchange": "AUS Equities",
+    "Ticker": "WPL"
+  },
+  {
+    "Instrument Name": "Woolworths Group Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "WOW"
+  },
+  {
+    "Instrument Name": "Worleyparsons Limited",
+    "Exchange": "AUS Equities",
+    "Ticker": "WOR"
+  },
+  {
+    "Instrument Name": "Xero Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "XRO"
+  },
+  {
+    "Instrument Name": "ZIP Co Ltd",
+    "Exchange": "AUS Equities",
+    "Ticker": "ZIP"
+  }
+]

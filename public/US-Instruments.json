@@ -1,0 +1,5082 @@
+[
+  {
+    "Instrument Name": "10X Genomics Inc",
+    "Exchange": "US",
+    "Ticker": "TXG"
+  },
+  {
+    "Instrument Name": "21Vianet Group Inc",
+    "Exchange": "US",
+    "Ticker": "VNET"
+  },
+  {
+    "Instrument Name": "2U Inc",
+    "Exchange": "US",
+    "Ticker": "TWOU"
+  },
+  {
+    "Instrument Name": "3D Systems Inc",
+    "Exchange": "US",
+    "Ticker": "DDD"
+  },
+  {
+    "Instrument Name": "3M Co",
+    "Exchange": "US",
+    "Ticker": "MMM"
+  },
+  {
+    "Instrument Name": "51Talk Online Education Group",
+    "Exchange": "US",
+    "Ticker": "COE"
+  },
+  {
+    "Instrument Name": "AAON Inc",
+    "Exchange": "US",
+    "Ticker": "AAON"
+  },
+  {
+    "Instrument Name": "Abbott Laboratories",
+    "Exchange": "US",
+    "Ticker": "ABT"
+  },
+  {
+    "Instrument Name": "Abbvie Inc",
+    "Exchange": "US",
+    "Ticker": "ABBV"
+  },
+  {
+    "Instrument Name": "Aberdeen Standard Physical Palladium Shares ETF",
+    "Exchange": "US",
+    "Ticker": "PALL"
+  },
+  {
+    "Instrument Name": "Aberdeen Standard Physical Platinum Shares ETF",
+    "Exchange": "US",
+    "Ticker": "PPLT"
+  },
+  {
+    "Instrument Name": "Accenture Plc-Cl A",
+    "Exchange": "US",
+    "Ticker": "ACN"
+  },
+  {
+    "Instrument Name": "ACE Convergence Acquisition Corp",
+    "Exchange": "US",
+    "Ticker": "ACEV"
+  },
+  {
+    "Instrument Name": "Activision Blizzard Inc",
+    "Exchange": "US",
+    "Ticker": "ATVI"
+  },
+  {
+    "Instrument Name": "Adobe Systems Inc",
+    "Exchange": "US",
+    "Ticker": "ADBE"
+  },
+  {
+    "Instrument Name": "Advanced InvestmentHoldings Limited",
+    "Exchange": "US",
+    "Ticker": "ADVIHUA"
+  },
+  {
+    "Instrument Name": "Advanced Micro Devices Inc",
+    "Exchange": "US",
+    "Ticker": "AMD"
+  },
+  {
+    "Instrument Name": "AECOM",
+    "Exchange": "US",
+    "Ticker": "ACM"
+  },
+  {
+    "Instrument Name": "Aehr Test Systems",
+    "Exchange": "US",
+    "Ticker": "AEHR"
+  },
+  {
+    "Instrument Name": "AerCap Holdings NV",
+    "Exchange": "US",
+    "Ticker": "AER"
+  },
+  {
+    "Instrument Name": "AeroVironment Inc",
+    "Exchange": "US",
+    "Ticker": "AVAV"
+  },
+  {
+    "Instrument Name": "Affirm Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "AFRM"
+  },
+  {
+    "Instrument Name": "AGNC Investment Corp",
+    "Exchange": "US",
+    "Ticker": "AGNC"
+  },
+  {
+    "Instrument Name": "Agnico Eagle Mines Limited",
+    "Exchange": "US",
+    "Ticker": "AEM"
+  },
+  {
+    "Instrument Name": "Agora Inc",
+    "Exchange": "US",
+    "Ticker": "API"
+  },
+  {
+    "Instrument Name": "Air Products & Chemical Inc",
+    "Exchange": "US",
+    "Ticker": "APD"
+  },
+  {
+    "Instrument Name": "Airbnb Inc",
+    "Exchange": "US",
+    "Ticker": "ABNB"
+  },
+  {
+    "Instrument Name": "Akamai Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "AKAM"
+  },
+  {
+    "Instrument Name": "Albemarle Corporation",
+    "Exchange": "US",
+    "Ticker": "ALB"
+  },
+  {
+    "Instrument Name": "Alexion Pharmaceuticals Inc",
+    "Exchange": "US",
+    "Ticker": "ALXN"
+  },
+  {
+    "Instrument Name": "Alibaba Group Holding Ltd",
+    "Exchange": "US",
+    "Ticker": "BABA"
+  },
+  {
+    "Instrument Name": "ALIGN TECHNOLOGY INC",
+    "Exchange": "US",
+    "Ticker": "ALGN"
+  },
+  {
+    "Instrument Name": "Allergan Plc",
+    "Exchange": "US",
+    "Ticker": "AGN"
+  },
+  {
+    "Instrument Name": "Allstate Corp",
+    "Exchange": "US",
+    "Ticker": "ALL"
+  },
+  {
+    "Instrument Name": "Alnylam Pharmaceuticals",
+    "Exchange": "US",
+    "Ticker": "ALNY"
+  },
+  {
+    "Instrument Name": "Alphabet Inc-Cl A",
+    "Exchange": "US",
+    "Ticker": "GOOGL"
+  },
+  {
+    "Instrument Name": "Alphabet Inc-Cl C",
+    "Exchange": "US",
+    "Ticker": "GOOG"
+  },
+  {
+    "Instrument Name": "Altaba Inc",
+    "Exchange": "US",
+    "Ticker": "AABA"
+  },
+  {
+    "Instrument Name": "Alteryx Inc",
+    "Exchange": "US",
+    "Ticker": "AYX"
+  },
+  {
+    "Instrument Name": "Altria Group Inc",
+    "Exchange": "US",
+    "Ticker": "MO"
+  },
+  {
+    "Instrument Name": "Amazon.Com Inc",
+    "Exchange": "US",
+    "Ticker": "AMZN"
+  },
+  {
+    "Instrument Name": "Ambarella Inc.",
+    "Exchange": "US",
+    "Ticker": "AMBA"
+  },
+  {
+    "Instrument Name": "American Airlines Group Inc",
+    "Exchange": "US",
+    "Ticker": "AAL"
+  },
+  {
+    "Instrument Name": "American Express Co",
+    "Exchange": "US",
+    "Ticker": "AXP"
+  },
+  {
+    "Instrument Name": "American International Group",
+    "Exchange": "US",
+    "Ticker": "AIG"
+  },
+  {
+    "Instrument Name": "American Tower Corp",
+    "Exchange": "US",
+    "Ticker": "AMT"
+  },
+  {
+    "Instrument Name": "American Water Works Co Inc",
+    "Exchange": "US",
+    "Ticker": "AWK"
+  },
+  {
+    "Instrument Name": "AMETEK Inc",
+    "Exchange": "US",
+    "Ticker": "AME"
+  },
+  {
+    "Instrument Name": "Amgen Inc",
+    "Exchange": "US",
+    "Ticker": "AMGN"
+  },
+  {
+    "Instrument Name": "Amplify Seymour Cannabis ETF",
+    "Exchange": "US",
+    "Ticker": "CNBS"
+  },
+  {
+    "Instrument Name": "Amplify Transformational Data Sharing ETF",
+    "Exchange": "US",
+    "Ticker": "BLOK"
+  },
+  {
+    "Instrument Name": "Amyris Inc",
+    "Exchange": "US",
+    "Ticker": "AMRS"
+  },
+  {
+    "Instrument Name": "Amyris Inc",
+    "Exchange": "US",
+    "Ticker": "AMRSQ"
+  },
+  {
+    "Instrument Name": "Analog Devices Inc",
+    "Exchange": "US",
+    "Ticker": "ADI"
+  },
+  {
+    "Instrument Name": "Annaly Capital Management Inc",
+    "Exchange": "US",
+    "Ticker": "NLY"
+  },
+  {
+    "Instrument Name": "Antero Midstream Corporation",
+    "Exchange": "US",
+    "Ticker": "AM"
+  },
+  {
+    "Instrument Name": "Antero Resources Corp",
+    "Exchange": "US",
+    "Ticker": "AR"
+  },
+  {
+    "Instrument Name": "AppHarvest Inc",
+    "Exchange": "US",
+    "Ticker": "APPH"
+  },
+  {
+    "Instrument Name": "AppHarvest Inc",
+    "Exchange": "US",
+    "Ticker": "APPHQ"
+  },
+  {
+    "Instrument Name": "Appian Corp",
+    "Exchange": "US",
+    "Ticker": "APPN"
+  },
+  {
+    "Instrument Name": "Apple Inc",
+    "Exchange": "US",
+    "Ticker": "AAPL"
+  },
+  {
+    "Instrument Name": "Applied Materials Inc",
+    "Exchange": "US",
+    "Ticker": "AMAT"
+  },
+  {
+    "Instrument Name": "AppLovin Corp",
+    "Exchange": "US",
+    "Ticker": "APP"
+  },
+  {
+    "Instrument Name": "Arcadium Lithium PLC",
+    "Exchange": "US",
+    "Ticker": "ALTM"
+  },
+  {
+    "Instrument Name": "ArcelorMittal SA",
+    "Exchange": "US",
+    "Ticker": "MT"
+  },
+  {
+    "Instrument Name": "Arch Resources Inc",
+    "Exchange": "US",
+    "Ticker": "ARCH"
+  },
+  {
+    "Instrument Name": "Archer-Daniels-Midland Co",
+    "Exchange": "US",
+    "Ticker": "ADM"
+  },
+  {
+    "Instrument Name": "Arista Networks Inc",
+    "Exchange": "US",
+    "Ticker": "ANET"
+  },
+  {
+    "Instrument Name": "ARK Autonomous Technology & Robotics ETF",
+    "Exchange": "US",
+    "Ticker": "ARKQ"
+  },
+  {
+    "Instrument Name": "ARK ETF TR 3D Printing",
+    "Exchange": "US",
+    "Ticker": "PRNT"
+  },
+  {
+    "Instrument Name": "ARK Fintech Innovation ETF",
+    "Exchange": "US",
+    "Ticker": "ARKF"
+  },
+  {
+    "Instrument Name": "ARK Genomic Revolution ETF",
+    "Exchange": "US",
+    "Ticker": "ARKG"
+  },
+  {
+    "Instrument Name": "ARK Innovation ETF",
+    "Exchange": "US",
+    "Ticker": "ARKK"
+  },
+  {
+    "Instrument Name": "ARK Israel Innovative Technology ETF",
+    "Exchange": "US",
+    "Ticker": "IZRL"
+  },
+  {
+    "Instrument Name": "ARK Next Generation Internet ETF",
+    "Exchange": "US",
+    "Ticker": "ARKW"
+  },
+  {
+    "Instrument Name": "ARK Space Exploration & Innovation ETF",
+    "Exchange": "US",
+    "Ticker": "ARKX"
+  },
+  {
+    "Instrument Name": "Arrival Group",
+    "Exchange": "US",
+    "Ticker": "ARVL"
+  },
+  {
+    "Instrument Name": "Asana Inc",
+    "Exchange": "US",
+    "Ticker": "ASAN"
+  },
+  {
+    "Instrument Name": "Asia Pacific Basket Limited",
+    "Exchange": "US",
+    "Ticker": "ASPBLBU"
+  },
+  {
+    "Instrument Name": "Asml Holding Nv-Ny Reg Shs",
+    "Exchange": "US",
+    "Ticker": "ASML"
+  },
+  {
+    "Instrument Name": "AstraZeneca",
+    "Exchange": "US",
+    "Ticker": "AZN"
+  },
+  {
+    "Instrument Name": "At&T Inc",
+    "Exchange": "US",
+    "Ticker": "T"
+  },
+  {
+    "Instrument Name": "Aterian Inc",
+    "Exchange": "US",
+    "Ticker": "ATER"
+  },
+  {
+    "Instrument Name": "Atlassian Corporation PLC",
+    "Exchange": "US",
+    "Ticker": "TEAM"
+  },
+  {
+    "Instrument Name": "Autodesk Inc",
+    "Exchange": "US",
+    "Ticker": "ADSK"
+  },
+  {
+    "Instrument Name": "Automatic Data Processing",
+    "Exchange": "US",
+    "Ticker": "ADP"
+  },
+  {
+    "Instrument Name": "Avalara Inc",
+    "Exchange": "US",
+    "Ticker": "AVLR"
+  },
+  {
+    "Instrument Name": "Axon Enterprise Inc",
+    "Exchange": "US",
+    "Ticker": "AXON"
+  },
+  {
+    "Instrument Name": "B2Gold Corp",
+    "Exchange": "US",
+    "Ticker": "BTG"
+  },
+  {
+    "Instrument Name": "Baidu Inc - Spon Adr",
+    "Exchange": "US",
+    "Ticker": "BIDU"
+  },
+  {
+    "Instrument Name": "Bandwidth Inc",
+    "Exchange": "US",
+    "Ticker": "BAND"
+  },
+  {
+    "Instrument Name": "Bank Of America Corp",
+    "Exchange": "US",
+    "Ticker": "BAC"
+  },
+  {
+    "Instrument Name": "Bank Of New York Mellon Corp",
+    "Exchange": "US",
+    "Ticker": "BK"
+  },
+  {
+    "Instrument Name": "Baozun Inc",
+    "Exchange": "US",
+    "Ticker": "BZUN"
+  },
+  {
+    "Instrument Name": "Barclays PLC",
+    "Exchange": "US",
+    "Ticker": "BCS"
+  },
+  {
+    "Instrument Name": "Barrick Gold Corporation",
+    "Exchange": "US",
+    "Ticker": "GOLD"
+  },
+  {
+    "Instrument Name": "Bausch Health Cos Inc",
+    "Exchange": "US",
+    "Ticker": "BHC"
+  },
+  {
+    "Instrument Name": "Beam Therapeutics Inc",
+    "Exchange": "US",
+    "Ticker": "BEAM"
+  },
+  {
+    "Instrument Name": "Bed Bath & Beyond Inc",
+    "Exchange": "US",
+    "Ticker": "BBBY"
+  },
+  {
+    "Instrument Name": "Bed Bath & Beyond Inc. OTC",
+    "Exchange": "US",
+    "Ticker": "BBBYQ"
+  },
+  {
+    "Instrument Name": "Benefytt Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "BFYT"
+  },
+  {
+    "Instrument Name": "Berkshire Hathaway Inc-Cl B",
+    "Exchange": "US",
+    "Ticker": "BRK.B"
+  },
+  {
+    "Instrument Name": "Beyond Inc",
+    "Exchange": "US",
+    "Ticker": "BYON"
+  },
+  {
+    "Instrument Name": "Beyond Meat Inc",
+    "Exchange": "US",
+    "Ticker": "BYND"
+  },
+  {
+    "Instrument Name": "BHP Group Ltd",
+    "Exchange": "US",
+    "Ticker": "BHP"
+  },
+  {
+    "Instrument Name": "BigCommerce Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "BIGC"
+  },
+  {
+    "Instrument Name": "Bilibili Inc",
+    "Exchange": "US",
+    "Ticker": "BILI"
+  },
+  {
+    "Instrument Name": "Bill.com Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "BILL"
+  },
+  {
+    "Instrument Name": "Biogen Inc",
+    "Exchange": "US",
+    "Ticker": "BIIB"
+  },
+  {
+    "Instrument Name": "Biomarin Pharmaceutical Inc",
+    "Exchange": "US",
+    "Ticker": "BMRN"
+  },
+  {
+    "Instrument Name": "Bionano Genomics Inc",
+    "Exchange": "US",
+    "Ticker": "BNGO"
+  },
+  {
+    "Instrument Name": "BioNTech",
+    "Exchange": "US",
+    "Ticker": "BNTX"
+  },
+  {
+    "Instrument Name": "BioXcel Therapeutics",
+    "Exchange": "US",
+    "Ticker": "BTAI"
+  },
+  {
+    "Instrument Name": "BIT Mining Ltd",
+    "Exchange": "US",
+    "Ticker": "BTCM"
+  },
+  {
+    "Instrument Name": "Black Diamond Therapeutics Inc",
+    "Exchange": "US",
+    "Ticker": "BDTX"
+  },
+  {
+    "Instrument Name": "BlackBerry Ltd",
+    "Exchange": "US",
+    "Ticker": "BB"
+  },
+  {
+    "Instrument Name": "Blackrock Inc",
+    "Exchange": "US",
+    "Ticker": "BLK"
+  },
+  {
+    "Instrument Name": "Blink Charging Co",
+    "Exchange": "US",
+    "Ticker": "BLNK"
+  },
+  {
+    "Instrument Name": "Block Inc",
+    "Exchange": "US",
+    "Ticker": "SQ"
+  },
+  {
+    "Instrument Name": "Boeing Co/The",
+    "Exchange": "US",
+    "Ticker": "BA"
+  },
+  {
+    "Instrument Name": "Booking Holding Inc",
+    "Exchange": "US",
+    "Ticker": "BKNG"
+  },
+  {
+    "Instrument Name": "BorgWarner Inc",
+    "Exchange": "US",
+    "Ticker": "BWA"
+  },
+  {
+    "Instrument Name": "Boston Beer Co Inc/The",
+    "Exchange": "US",
+    "Ticker": "SAM"
+  },
+  {
+    "Instrument Name": "Boston Omaha Corp",
+    "Exchange": "US",
+    "Ticker": "BOC"
+  },
+  {
+    "Instrument Name": "Boston Scientific Corp",
+    "Exchange": "US",
+    "Ticker": "BSX"
+  },
+  {
+    "Instrument Name": "Box Inc.",
+    "Exchange": "US",
+    "Ticker": "BOX"
+  },
+  {
+    "Instrument Name": "Boyd Gaming Corp",
+    "Exchange": "US",
+    "Ticker": "BYD"
+  },
+  {
+    "Instrument Name": "BP PLC",
+    "Exchange": "US",
+    "Ticker": "BP"
+  },
+  {
+    "Instrument Name": "Brighthouse Financial Inc",
+    "Exchange": "US",
+    "Ticker": "BHF"
+  },
+  {
+    "Instrument Name": "Bristol-Myers Squibb Co",
+    "Exchange": "US",
+    "Ticker": "BMY"
+  },
+  {
+    "Instrument Name": "Britannic Opportunities Limited",
+    "Exchange": "US",
+    "Ticker": "BRIOBUS"
+  },
+  {
+    "Instrument Name": "Broadcom Inc",
+    "Exchange": "US",
+    "Ticker": "AVGO"
+  },
+  {
+    "Instrument Name": "Brookfield Asset Management Ltd",
+    "Exchange": "US",
+    "Ticker": "BAM"
+  },
+  {
+    "Instrument Name": "Brookfield Corp",
+    "Exchange": "US",
+    "Ticker": "BN"
+  },
+  {
+    "Instrument Name": "Brookfield Reinsurance Ltd",
+    "Exchange": "US",
+    "Ticker": "BNRE"
+  },
+  {
+    "Instrument Name": "Brookfield Renewable Partners LP",
+    "Exchange": "US",
+    "Ticker": "BEP"
+  },
+  {
+    "Instrument Name": "Bruker Corporation",
+    "Exchange": "US",
+    "Ticker": "BRKR"
+  },
+  {
+    "Instrument Name": "Bumble Inc",
+    "Exchange": "US",
+    "Ticker": "BMBL"
+  },
+  {
+    "Instrument Name": "Bunge Ltd",
+    "Exchange": "US",
+    "Ticker": "BG"
+  },
+  {
+    "Instrument Name": "BWX Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "BWXT"
+  },
+  {
+    "Instrument Name": "C3.ai Inc",
+    "Exchange": "US",
+    "Ticker": "AI"
+  },
+  {
+    "Instrument Name": "Cadence Design Sys Inc",
+    "Exchange": "US",
+    "Ticker": "CDNS"
+  },
+  {
+    "Instrument Name": "Cameco Corp",
+    "Exchange": "US",
+    "Ticker": "CCJ"
+  },
+  {
+    "Instrument Name": "Campbell Soup",
+    "Exchange": "US",
+    "Ticker": "CPB"
+  },
+  {
+    "Instrument Name": "Camping World Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "CWH"
+  },
+  {
+    "Instrument Name": "Canadian Natural Resources Ltd",
+    "Exchange": "US",
+    "Ticker": "CNQ"
+  },
+  {
+    "Instrument Name": "Canadian Solar Inc",
+    "Exchange": "US",
+    "Ticker": "CSIQ"
+  },
+  {
+    "Instrument Name": "Canopy Growth Corporation",
+    "Exchange": "US",
+    "Ticker": "CGC"
+  },
+  {
+    "Instrument Name": "Capital One Financial Corp",
+    "Exchange": "US",
+    "Ticker": "COF"
+  },
+  {
+    "Instrument Name": "Cara Therapeutics Inc",
+    "Exchange": "US",
+    "Ticker": "CARA"
+  },
+  {
+    "Instrument Name": "Carnival Corp",
+    "Exchange": "US",
+    "Ticker": "CCL"
+  },
+  {
+    "Instrument Name": "Carrier Global Corporation",
+    "Exchange": "US",
+    "Ticker": "CARR"
+  },
+  {
+    "Instrument Name": "Carvana Co",
+    "Exchange": "US",
+    "Ticker": "CVNA"
+  },
+  {
+    "Instrument Name": "Cassava Sciences Inc",
+    "Exchange": "US",
+    "Ticker": "SAVA"
+  },
+  {
+    "Instrument Name": "Cassava Sciences Inc - Warrants",
+    "Exchange": "US",
+    "Ticker": "SAVAW"
+  },
+  {
+    "Instrument Name": "Castor Maritime Inc",
+    "Exchange": "US",
+    "Ticker": "CTRM"
+  },
+  {
+    "Instrument Name": "Caterpillar Inc",
+    "Exchange": "US",
+    "Ticker": "CAT"
+  },
+  {
+    "Instrument Name": "Celsius Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "CELH"
+  },
+  {
+    "Instrument Name": "Cenovus Energy Inc",
+    "Exchange": "US",
+    "Ticker": "CVE"
+  },
+  {
+    "Instrument Name": "Centrus Energy Corp",
+    "Exchange": "US",
+    "Ticker": "LEU"
+  },
+  {
+    "Instrument Name": "Cerence Inc",
+    "Exchange": "US",
+    "Ticker": "CRNC"
+  },
+  {
+    "Instrument Name": "Cerner Corp",
+    "Exchange": "US",
+    "Ticker": "CERN"
+  },
+  {
+    "Instrument Name": "CEVA INC",
+    "Exchange": "US",
+    "Ticker": "CEVA"
+  },
+  {
+    "Instrument Name": "ChargePoint Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "CHPT"
+  },
+  {
+    "Instrument Name": "Charter Communications Inc-A",
+    "Exchange": "US",
+    "Ticker": "CHTR"
+  },
+  {
+    "Instrument Name": "Check Point Software Tech",
+    "Exchange": "US",
+    "Ticker": "CHKP"
+  },
+  {
+    "Instrument Name": "Cheniere Energy Inc",
+    "Exchange": "US",
+    "Ticker": "LNG"
+  },
+  {
+    "Instrument Name": "Chevron Corp",
+    "Exchange": "US",
+    "Ticker": "CVX"
+  },
+  {
+    "Instrument Name": "China Mobile Ltd",
+    "Exchange": "US",
+    "Ticker": "CHL"
+  },
+  {
+    "Instrument Name": "China Seas Basket Limited",
+    "Exchange": "US",
+    "Ticker": "CHSBLBU"
+  },
+  {
+    "Instrument Name": "Chipotle Mexican Grill",
+    "Exchange": "US",
+    "Ticker": "CMG"
+  },
+  {
+    "Instrument Name": "CIIG Merger Corp",
+    "Exchange": "US",
+    "Ticker": "CIIC"
+  },
+  {
+    "Instrument Name": "Cintas Corp",
+    "Exchange": "US",
+    "Ticker": "CTAS"
+  },
+  {
+    "Instrument Name": "Cirrus Logic Inc",
+    "Exchange": "US",
+    "Ticker": "CRUS"
+  },
+  {
+    "Instrument Name": "Cisco Systems Inc",
+    "Exchange": "US",
+    "Ticker": "CSCO"
+  },
+  {
+    "Instrument Name": "Citigroup Inc",
+    "Exchange": "US",
+    "Ticker": "C"
+  },
+  {
+    "Instrument Name": "Citrix Systems Inc",
+    "Exchange": "US",
+    "Ticker": "CTXS"
+  },
+  {
+    "Instrument Name": "Clean Energy Fuels Corp",
+    "Exchange": "US",
+    "Ticker": "CLNE"
+  },
+  {
+    "Instrument Name": "ClearPoint Neuro Inc",
+    "Exchange": "US",
+    "Ticker": "CLPT"
+  },
+  {
+    "Instrument Name": "Cleveland-Cliffs Inc",
+    "Exchange": "US",
+    "Ticker": "CLF"
+  },
+  {
+    "Instrument Name": "Cloudflare Inc",
+    "Exchange": "US",
+    "Ticker": "NET"
+  },
+  {
+    "Instrument Name": "Clover Health Investments Corp",
+    "Exchange": "US",
+    "Ticker": "CLOV"
+  },
+  {
+    "Instrument Name": "CME Group",
+    "Exchange": "US",
+    "Ticker": "CME"
+  },
+  {
+    "Instrument Name": "Coca-Cola Co/The",
+    "Exchange": "US",
+    "Ticker": "KO"
+  },
+  {
+    "Instrument Name": "Cognizant Tech Solutions-A",
+    "Exchange": "US",
+    "Ticker": "CTSH"
+  },
+  {
+    "Instrument Name": "Coherent Corp",
+    "Exchange": "US",
+    "Ticker": "COHR"
+  },
+  {
+    "Instrument Name": "Coinbase Global Inc",
+    "Exchange": "US",
+    "Ticker": "COIN"
+  },
+  {
+    "Instrument Name": "Colgate-Palmolive Co",
+    "Exchange": "US",
+    "Ticker": "CL"
+  },
+  {
+    "Instrument Name": "Comcast Corp-Class A",
+    "Exchange": "US",
+    "Ticker": "CMCSA"
+  },
+  {
+    "Instrument Name": "Comerica Inc",
+    "Exchange": "US",
+    "Ticker": "CMA"
+  },
+  {
+    "Instrument Name": "CommVault Systems Inc",
+    "Exchange": "US",
+    "Ticker": "CVLT"
+  },
+  {
+    "Instrument Name": "Compass Pathways Plc",
+    "Exchange": "US",
+    "Ticker": "CMPS"
+  },
+  {
+    "Instrument Name": "Conagra Brands Inc",
+    "Exchange": "US",
+    "Ticker": "CAG"
+  },
+  {
+    "Instrument Name": "Confluent Inc",
+    "Exchange": "US",
+    "Ticker": "CFLT"
+  },
+  {
+    "Instrument Name": "Conocophillips",
+    "Exchange": "US",
+    "Ticker": "COP"
+  },
+  {
+    "Instrument Name": "Constellation Energy Corp",
+    "Exchange": "US",
+    "Ticker": "CEG"
+  },
+  {
+    "Instrument Name": "Consumer Staples Vanguard ETF",
+    "Exchange": "US",
+    "Ticker": "VDC"
+  },
+  {
+    "Instrument Name": "ContextLogic Inc",
+    "Exchange": "US",
+    "Ticker": "WISH"
+  },
+  {
+    "Instrument Name": "CoreCivic Inc",
+    "Exchange": "US",
+    "Ticker": "CXW"
+  },
+  {
+    "Instrument Name": "CORESITE REALTY CORP",
+    "Exchange": "US",
+    "Ticker": "COR"
+  },
+  {
+    "Instrument Name": "CORNING INC",
+    "Exchange": "US",
+    "Ticker": "GLW"
+  },
+  {
+    "Instrument Name": "Corsair Gaming Inc",
+    "Exchange": "US",
+    "Ticker": "CRSR"
+  },
+  {
+    "Instrument Name": "Corteva Inc",
+    "Exchange": "US",
+    "Ticker": "CTVA"
+  },
+  {
+    "Instrument Name": "Costco Wholesale Corp",
+    "Exchange": "US",
+    "Ticker": "COST"
+  },
+  {
+    "Instrument Name": "Coupang Inc",
+    "Exchange": "US",
+    "Ticker": "CPNG"
+  },
+  {
+    "Instrument Name": "Coursera Inc",
+    "Exchange": "US",
+    "Ticker": "COUR"
+  },
+  {
+    "Instrument Name": "Credit Suisse Group AG",
+    "Exchange": "US",
+    "Ticker": "CS"
+  },
+  {
+    "Instrument Name": "Cree Inc",
+    "Exchange": "US",
+    "Ticker": "CREE"
+  },
+  {
+    "Instrument Name": "Cricut Inc",
+    "Exchange": "US",
+    "Ticker": "CRCT"
+  },
+  {
+    "Instrument Name": "Crispr Therapeutics AG",
+    "Exchange": "US",
+    "Ticker": "CRSP"
+  },
+  {
+    "Instrument Name": "Crocs Inc",
+    "Exchange": "US",
+    "Ticker": "CROX"
+  },
+  {
+    "Instrument Name": "Cronos Group Inc",
+    "Exchange": "US",
+    "Ticker": "CRON"
+  },
+  {
+    "Instrument Name": "Crowdstrike Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "CRWD"
+  },
+  {
+    "Instrument Name": "Csx Corp",
+    "Exchange": "US",
+    "Ticker": "CSX"
+  },
+  {
+    "Instrument Name": "CuriosityStream Inc",
+    "Exchange": "US",
+    "Ticker": "CURI"
+  },
+  {
+    "Instrument Name": "Cvet",
+    "Exchange": "US",
+    "Ticker": "CVET"
+  },
+  {
+    "Instrument Name": "CVR Energy Inc",
+    "Exchange": "US",
+    "Ticker": "CVI"
+  },
+  {
+    "Instrument Name": "Cvs Health Corp",
+    "Exchange": "US",
+    "Ticker": "CVS"
+  },
+  {
+    "Instrument Name": "CyberArk Software, Ltd.",
+    "Exchange": "US",
+    "Ticker": "CYBR"
+  },
+  {
+    "Instrument Name": "Daily Journal Corp",
+    "Exchange": "US",
+    "Ticker": "DJCO"
+  },
+  {
+    "Instrument Name": "Danaher Corp",
+    "Exchange": "US",
+    "Ticker": "DHR"
+  },
+  {
+    "Instrument Name": "Danimer Scientific Inc",
+    "Exchange": "US",
+    "Ticker": "DNMR"
+  },
+  {
+    "Instrument Name": "Daqo New Energy Corp",
+    "Exchange": "US",
+    "Ticker": "DQ"
+  },
+  {
+    "Instrument Name": "Datadog Inc",
+    "Exchange": "US",
+    "Ticker": "DDOG"
+  },
+  {
+    "Instrument Name": "Datto Holding Corp",
+    "Exchange": "US",
+    "Ticker": "MSP"
+  },
+  {
+    "Instrument Name": "Deere & Company",
+    "Exchange": "US",
+    "Ticker": "DE"
+  },
+  {
+    "Instrument Name": "Defiance 5G Next Generation Connectivity ETF",
+    "Exchange": "US",
+    "Ticker": "FIVG"
+  },
+  {
+    "Instrument Name": "Delek US Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "DK"
+  },
+  {
+    "Instrument Name": "Dell Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "DELL"
+  },
+  {
+    "Instrument Name": "Delta Airlines Inc",
+    "Exchange": "US",
+    "Ticker": "DAL"
+  },
+  {
+    "Instrument Name": "Denison Mines Corp",
+    "Exchange": "US",
+    "Ticker": "DNN"
+  },
+  {
+    "Instrument Name": "Dentsply Sirona Inc",
+    "Exchange": "US",
+    "Ticker": "XRAY"
+  },
+  {
+    "Instrument Name": "DermTech Inc",
+    "Exchange": "US",
+    "Ticker": "DMTK"
+  },
+  {
+    "Instrument Name": "Desktop Metal Inc",
+    "Exchange": "US",
+    "Ticker": "DM"
+  },
+  {
+    "Instrument Name": "Deutsche Bank AG",
+    "Exchange": "US",
+    "Ticker": "DB"
+  },
+  {
+    "Instrument Name": "Devon Energy Corp",
+    "Exchange": "US",
+    "Ticker": "DVN"
+  },
+  {
+    "Instrument Name": "DexCom Inc",
+    "Exchange": "US",
+    "Ticker": "DXCM"
+  },
+  {
+    "Instrument Name": "Diageo PLC",
+    "Exchange": "US",
+    "Ticker": "DEO"
+  },
+  {
+    "Instrument Name": "Digital Reality Trust Inc",
+    "Exchange": "US",
+    "Ticker": "DLR"
+  },
+  {
+    "Instrument Name": "Digital Turbine Inc",
+    "Exchange": "US",
+    "Ticker": "APPS"
+  },
+  {
+    "Instrument Name": "DigitalOcean Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "DOCN"
+  },
+  {
+    "Instrument Name": "Direxion Daily Real Estate Bear 3X Shares",
+    "Exchange": "US",
+    "Ticker": "DRV"
+  },
+  {
+    "Instrument Name": "Discovery Communications-A",
+    "Exchange": "US",
+    "Ticker": "DISCA"
+  },
+  {
+    "Instrument Name": "Discovery Communications-C",
+    "Exchange": "US",
+    "Ticker": "DISCK"
+  },
+  {
+    "Instrument Name": "Dish Network Corp-A",
+    "Exchange": "US",
+    "Ticker": "DISH"
+  },
+  {
+    "Instrument Name": "Dividend Appreciation Vanguard ETF",
+    "Exchange": "US",
+    "Ticker": "VIG"
+  },
+  {
+    "Instrument Name": "DocuSign Inc",
+    "Exchange": "US",
+    "Ticker": "DOCU"
+  },
+  {
+    "Instrument Name": "Dollar Tree Inc",
+    "Exchange": "US",
+    "Ticker": "DLTR"
+  },
+  {
+    "Instrument Name": "DoorDash Inc",
+    "Exchange": "US",
+    "Ticker": "DASH"
+  },
+  {
+    "Instrument Name": "Dow Inc",
+    "Exchange": "US",
+    "Ticker": "DOW"
+  },
+  {
+    "Instrument Name": "DR Horton Inc",
+    "Exchange": "US",
+    "Ticker": "DHI"
+  },
+  {
+    "Instrument Name": "DraftKings Inc",
+    "Exchange": "US",
+    "Ticker": "DKNG"
+  },
+  {
+    "Instrument Name": "Dropbox",
+    "Exchange": "US",
+    "Ticker": "DBX"
+  },
+  {
+    "Instrument Name": "Du Pont (E.I.) De Nemours",
+    "Exchange": "US",
+    "Ticker": "DD"
+  },
+  {
+    "Instrument Name": "Duke Energy Corp",
+    "Exchange": "US",
+    "Ticker": "DUK"
+  },
+  {
+    "Instrument Name": "Dynatrace Inc",
+    "Exchange": "US",
+    "Ticker": "DT"
+  },
+  {
+    "Instrument Name": "Eagle Bulk Shipping Inc",
+    "Exchange": "US",
+    "Ticker": "EGLE"
+  },
+  {
+    "Instrument Name": "East Asian Growth Basket",
+    "Exchange": "US",
+    "Ticker": "EASGRWA"
+  },
+  {
+    "Instrument Name": "Eastman Kodak Company",
+    "Exchange": "US",
+    "Ticker": "KODK"
+  },
+  {
+    "Instrument Name": "Ebay Inc",
+    "Exchange": "US",
+    "Ticker": "EBAY"
+  },
+  {
+    "Instrument Name": "EchoStar Corporation",
+    "Exchange": "US",
+    "Ticker": "SATS"
+  },
+  {
+    "Instrument Name": "Editas Medicine Inc",
+    "Exchange": "US",
+    "Ticker": "EDIT"
+  },
+  {
+    "Instrument Name": "Elastic NV",
+    "Exchange": "US",
+    "Ticker": "ESTC"
+  },
+  {
+    "Instrument Name": "Eldorado Gold Corporation",
+    "Exchange": "US",
+    "Ticker": "EGO"
+  },
+  {
+    "Instrument Name": "Electronic Arts Inc",
+    "Exchange": "US",
+    "Ticker": "EA"
+  },
+  {
+    "Instrument Name": "Eli Lilly & Co",
+    "Exchange": "US",
+    "Ticker": "LLY"
+  },
+  {
+    "Instrument Name": "Emerson Electric Co",
+    "Exchange": "US",
+    "Ticker": "EMR"
+  },
+  {
+    "Instrument Name": "Encore Capital Group Inc",
+    "Exchange": "US",
+    "Ticker": "ECPG"
+  },
+  {
+    "Instrument Name": "Endeavor Group Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "EDR"
+  },
+  {
+    "Instrument Name": "Energy ETF Vanguard",
+    "Exchange": "US",
+    "Ticker": "VDE"
+  },
+  {
+    "Instrument Name": "Energy Fuels Inc/Canada",
+    "Exchange": "US",
+    "Ticker": "UUUU"
+  },
+  {
+    "Instrument Name": "Enphase Energy Inc",
+    "Exchange": "US",
+    "Ticker": "ENPH"
+  },
+  {
+    "Instrument Name": "Entegris Inc",
+    "Exchange": "US",
+    "Ticker": "ENTG"
+  },
+  {
+    "Instrument Name": "EPR Properties",
+    "Exchange": "US",
+    "Ticker": "EPR"
+  },
+  {
+    "Instrument Name": "EQT Corporation",
+    "Exchange": "US",
+    "Ticker": "EQT"
+  },
+  {
+    "Instrument Name": "Equinix Inc",
+    "Exchange": "US",
+    "Ticker": "EQIX"
+  },
+  {
+    "Instrument Name": "Equinor ASA",
+    "Exchange": "US",
+    "Ticker": "EQNR"
+  },
+  {
+    "Instrument Name": "Equitrans Midstream Corp",
+    "Exchange": "US",
+    "Ticker": "ETRN"
+  },
+  {
+    "Instrument Name": "ERICSSON ADR EACH REP 1 ORD'B'SEK1",
+    "Exchange": "US",
+    "Ticker": "ERIC"
+  },
+  {
+    "Instrument Name": "Estee Lauder Companies Inc",
+    "Exchange": "US",
+    "Ticker": "EL"
+  },
+  {
+    "Instrument Name": "ETFMG Alternative Harvest ETF",
+    "Exchange": "US",
+    "Ticker": "MJ"
+  },
+  {
+    "Instrument Name": "ETFMG Prime Cyber Security ETF",
+    "Exchange": "US",
+    "Ticker": "HACK"
+  },
+  {
+    "Instrument Name": "Etsy Inc",
+    "Exchange": "US",
+    "Ticker": "ETSY"
+  },
+  {
+    "Instrument Name": "Exact Sciences Corp",
+    "Exchange": "US",
+    "Ticker": "EXAS"
+  },
+  {
+    "Instrument Name": "Exelon Corp",
+    "Exchange": "US",
+    "Ticker": "EXC"
+  },
+  {
+    "Instrument Name": "Expedia Inc",
+    "Exchange": "US",
+    "Ticker": "EXPE"
+  },
+  {
+    "Instrument Name": "Exxon Mobil Corp",
+    "Exchange": "US",
+    "Ticker": "XOM"
+  },
+  {
+    "Instrument Name": "Farfetch Ltd",
+    "Exchange": "US",
+    "Ticker": "FTCH"
+  },
+  {
+    "Instrument Name": "Farfetch Ltd",
+    "Exchange": "US",
+    "Ticker": "FTCHF"
+  },
+  {
+    "Instrument Name": "FARO Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "FARO"
+  },
+  {
+    "Instrument Name": "Fastenal Co",
+    "Exchange": "US",
+    "Ticker": "FAST"
+  },
+  {
+    "Instrument Name": "Fastly Inc",
+    "Exchange": "US",
+    "Ticker": "FSLY"
+  },
+  {
+    "Instrument Name": "Fedex Corp",
+    "Exchange": "US",
+    "Ticker": "FDX"
+  },
+  {
+    "Instrument Name": "Ferrari NV",
+    "Exchange": "US",
+    "Ticker": "RACE"
+  },
+  {
+    "Instrument Name": "First Solar Inc",
+    "Exchange": "US",
+    "Ticker": "FSLR"
+  },
+  {
+    "Instrument Name": "Fiserv Inc",
+    "Exchange": "US",
+    "Ticker": "FISV"
+  },
+  {
+    "Instrument Name": "Fiserv Inc",
+    "Exchange": "US",
+    "Ticker": "FI"
+  },
+  {
+    "Instrument Name": "Fisker Inc",
+    "Exchange": "US",
+    "Ticker": "FSR"
+  },
+  {
+    "Instrument Name": "Five9 Inc",
+    "Exchange": "US",
+    "Ticker": "FIVN"
+  },
+  {
+    "Instrument Name": "Fiverr International Ltd",
+    "Exchange": "US",
+    "Ticker": "FVRR"
+  },
+  {
+    "Instrument Name": "FMC Corp",
+    "Exchange": "US",
+    "Ticker": "FMC"
+  },
+  {
+    "Instrument Name": "Ford Motor Co",
+    "Exchange": "US",
+    "Ticker": "F"
+  },
+  {
+    "Instrument Name": "Fortive Corp.",
+    "Exchange": "US",
+    "Ticker": "FTV"
+  },
+  {
+    "Instrument Name": "Fox Corp-A",
+    "Exchange": "US",
+    "Ticker": "FOXA"
+  },
+  {
+    "Instrument Name": "Fox Corp-B",
+    "Exchange": "US",
+    "Ticker": "FOX"
+  },
+  {
+    "Instrument Name": "Franco Nevada Corp",
+    "Exchange": "US",
+    "Ticker": "FNV"
+  },
+  {
+    "Instrument Name": "Freeport-McMoRan Inc",
+    "Exchange": "US",
+    "Ticker": "FCX"
+  },
+  {
+    "Instrument Name": "fuboTV Inc",
+    "Exchange": "US",
+    "Ticker": "FUBO"
+  },
+  {
+    "Instrument Name": "FuelCell Energy Inc",
+    "Exchange": "US",
+    "Ticker": "FCEL"
+  },
+  {
+    "Instrument Name": "Fulgent Genetics Inc",
+    "Exchange": "US",
+    "Ticker": "FLGT"
+  },
+  {
+    "Instrument Name": "Futu Holdings Ltd",
+    "Exchange": "US",
+    "Ticker": "FUTU"
+  },
+  {
+    "Instrument Name": "Garmin Ltd",
+    "Exchange": "US",
+    "Ticker": "GRMN"
+  },
+  {
+    "Instrument Name": "GCI Liberty Inc",
+    "Exchange": "US",
+    "Ticker": "GLIBA"
+  },
+  {
+    "Instrument Name": "GE HealthCare Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "GEHC"
+  },
+  {
+    "Instrument Name": "Gen Digital Inc",
+    "Exchange": "US",
+    "Ticker": "GEN"
+  },
+  {
+    "Instrument Name": "General Dynamics Corp",
+    "Exchange": "US",
+    "Ticker": "GD"
+  },
+  {
+    "Instrument Name": "General Electric Co",
+    "Exchange": "US",
+    "Ticker": "GE"
+  },
+  {
+    "Instrument Name": "General Mills",
+    "Exchange": "US",
+    "Ticker": "GIS"
+  },
+  {
+    "Instrument Name": "General Motors Co",
+    "Exchange": "US",
+    "Ticker": "GM"
+  },
+  {
+    "Instrument Name": "Genius Brands International Inc",
+    "Exchange": "US",
+    "Ticker": "GNUS"
+  },
+  {
+    "Instrument Name": "GEO Group Inc/The",
+    "Exchange": "US",
+    "Ticker": "GEO"
+  },
+  {
+    "Instrument Name": "Gevo Inc",
+    "Exchange": "US",
+    "Ticker": "GEVO"
+  },
+  {
+    "Instrument Name": "Gilead Sciences Inc",
+    "Exchange": "US",
+    "Ticker": "GILD"
+  },
+  {
+    "Instrument Name": "Ginkgo Bioworks Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "DNA"
+  },
+  {
+    "Instrument Name": "Gladstone Investment Corp",
+    "Exchange": "US",
+    "Ticker": "GAIN"
+  },
+  {
+    "Instrument Name": "Gladstone Land Corp",
+    "Exchange": "US",
+    "Ticker": "LAND"
+  },
+  {
+    "Instrument Name": "Global Payments Inc",
+    "Exchange": "US",
+    "Ticker": "GPN"
+  },
+  {
+    "Instrument Name": "Global X Autonomous & Electric Vehicles ETF",
+    "Exchange": "US",
+    "Ticker": "DRIV"
+  },
+  {
+    "Instrument Name": "Global X Cloud Computing ETF",
+    "Exchange": "US",
+    "Ticker": "CLOU"
+  },
+  {
+    "Instrument Name": "Global X Copper Miners ETF",
+    "Exchange": "US",
+    "Ticker": "COPX"
+  },
+  {
+    "Instrument Name": "Global X E-Commerce ETF",
+    "Exchange": "US",
+    "Ticker": "EBIZ"
+  },
+  {
+    "Instrument Name": "Global X Internet of Things ETF",
+    "Exchange": "US",
+    "Ticker": "SNSR"
+  },
+  {
+    "Instrument Name": "Global X Lithium & Battery Tech ETF",
+    "Exchange": "US",
+    "Ticker": "LIT"
+  },
+  {
+    "Instrument Name": "Global X Nasdaq 100 Covered Call ETF",
+    "Exchange": "US",
+    "Ticker": "QYLD"
+  },
+  {
+    "Instrument Name": "Global X Robotics And Artificial Intelligence ETF",
+    "Exchange": "US",
+    "Ticker": "BOTZ"
+  },
+  {
+    "Instrument Name": "Global X Silver Miners ETF",
+    "Exchange": "US",
+    "Ticker": "SIL"
+  },
+  {
+    "Instrument Name": "Global X SuperDividend ETF",
+    "Exchange": "US",
+    "Ticker": "SDIV"
+  },
+  {
+    "Instrument Name": "Global X US Infrastructure Development ETF",
+    "Exchange": "US",
+    "Ticker": "PAVE"
+  },
+  {
+    "Instrument Name": "Global X Video Games & Esports ETF",
+    "Exchange": "US",
+    "Ticker": "HERO"
+  },
+  {
+    "Instrument Name": "Global-e Online Ltd",
+    "Exchange": "US",
+    "Ticker": "GLBE"
+  },
+  {
+    "Instrument Name": "Goldman Sachs Group Inc",
+    "Exchange": "US",
+    "Ticker": "GS"
+  },
+  {
+    "Instrument Name": "Goldman Sachs JUST US Large Cap Equity ETF",
+    "Exchange": "US",
+    "Ticker": "JUST"
+  },
+  {
+    "Instrument Name": "GoodRx Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "GDRX"
+  },
+  {
+    "Instrument Name": "GoPro Inc",
+    "Exchange": "US",
+    "Ticker": "GPRO"
+  },
+  {
+    "Instrument Name": "Gores Holdings VI Inc",
+    "Exchange": "US",
+    "Ticker": "GHVI"
+  },
+  {
+    "Instrument Name": "Grand Canyon Education Inc",
+    "Exchange": "US",
+    "Ticker": "LOPE"
+  },
+  {
+    "Instrument Name": "Gravity Co Ltd",
+    "Exchange": "US",
+    "Ticker": "GRVY"
+  },
+  {
+    "Instrument Name": "Green Brick Partners Inc",
+    "Exchange": "US",
+    "Ticker": "GRBK"
+  },
+  {
+    "Instrument Name": "GrowGeneration Corp",
+    "Exchange": "US",
+    "Ticker": "GRWG"
+  },
+  {
+    "Instrument Name": "GSK PLC",
+    "Exchange": "US",
+    "Ticker": "GSK"
+  },
+  {
+    "Instrument Name": "GW Pharmaceuticals Plc",
+    "Exchange": "US",
+    "Ticker": "GWPH"
+  },
+  {
+    "Instrument Name": "GXO Logistics Inc",
+    "Exchange": "US",
+    "Ticker": "GXO"
+  },
+  {
+    "Instrument Name": "Haleon plc",
+    "Exchange": "US",
+    "Ticker": "HLN"
+  },
+  {
+    "Instrument Name": "Halliburton Co",
+    "Exchange": "US",
+    "Ticker": "HAL"
+  },
+  {
+    "Instrument Name": "Harley-Davidson Inc",
+    "Exchange": "US",
+    "Ticker": "HOG"
+  },
+  {
+    "Instrument Name": "Hasbro Inc",
+    "Exchange": "US",
+    "Ticker": "HAS"
+  },
+  {
+    "Instrument Name": "HCA Healthcare Inc",
+    "Exchange": "US",
+    "Ticker": "HCA"
+  },
+  {
+    "Instrument Name": "HDFC BANK LTD SPON ADS EACH REP 3 ORD SHS",
+    "Exchange": "US",
+    "Ticker": "HDB"
+  },
+  {
+    "Instrument Name": "Henry Schein Inc",
+    "Exchange": "US",
+    "Ticker": "HSIC"
+  },
+  {
+    "Instrument Name": "Hewlett Packard Enterprise Co",
+    "Exchange": "US",
+    "Ticker": "HPE"
+  },
+  {
+    "Instrument Name": "HF Sinclair Corporation",
+    "Exchange": "US",
+    "Ticker": "DINO"
+  },
+  {
+    "Instrument Name": "Himax Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "HIMX"
+  },
+  {
+    "Instrument Name": "Hingham Institution For Savings The",
+    "Exchange": "US",
+    "Ticker": "HIFS"
+  },
+  {
+    "Instrument Name": "Hologic Inc",
+    "Exchange": "US",
+    "Ticker": "HOLX"
+  },
+  {
+    "Instrument Name": "Home Depot Inc",
+    "Exchange": "US",
+    "Ticker": "HD"
+  },
+  {
+    "Instrument Name": "Honda Motor Co Ltd",
+    "Exchange": "US",
+    "Ticker": "HMC"
+  },
+  {
+    "Instrument Name": "Honest Co Inc/The",
+    "Exchange": "US",
+    "Ticker": "HNST"
+  },
+  {
+    "Instrument Name": "Honeywell International Inc",
+    "Exchange": "US",
+    "Ticker": "HON"
+  },
+  {
+    "Instrument Name": "Horizon Therapeutics Plc",
+    "Exchange": "US",
+    "Ticker": "HZNP"
+  },
+  {
+    "Instrument Name": "HubSpot Inc",
+    "Exchange": "US",
+    "Ticker": "HUBS"
+  },
+  {
+    "Instrument Name": "Hutchison China MediTech Ltd",
+    "Exchange": "US",
+    "Ticker": "HCM"
+  },
+  {
+    "Instrument Name": "HUYA Inc",
+    "Exchange": "US",
+    "Ticker": "HUYA"
+  },
+  {
+    "Instrument Name": "ICL Group Ltd",
+    "Exchange": "US",
+    "Ticker": "ICL"
+  },
+  {
+    "Instrument Name": "IDEXX Laboratories Inc",
+    "Exchange": "US",
+    "Ticker": "IDXX"
+  },
+  {
+    "Instrument Name": "IHS Holding Ltd",
+    "Exchange": "US",
+    "Ticker": "IHS"
+  },
+  {
+    "Instrument Name": "Illinois Tool Works",
+    "Exchange": "US",
+    "Ticker": "ITW"
+  },
+  {
+    "Instrument Name": "Illumina Inc",
+    "Exchange": "US",
+    "Ticker": "ILMN"
+  },
+  {
+    "Instrument Name": "ImmunityBio Inc",
+    "Exchange": "US",
+    "Ticker": "IBRX"
+  },
+  {
+    "Instrument Name": "Imperial Oil Ltd",
+    "Exchange": "US",
+    "Ticker": "IMO"
+  },
+  {
+    "Instrument Name": "Incyte Corp",
+    "Exchange": "US",
+    "Ticker": "INCY"
+  },
+  {
+    "Instrument Name": "Inmode Ltd",
+    "Exchange": "US",
+    "Ticker": "INMD"
+  },
+  {
+    "Instrument Name": "Innovative Industrial Properties Inc",
+    "Exchange": "US",
+    "Ticker": "IIPR"
+  },
+  {
+    "Instrument Name": "Inovio Pharmaceuticals",
+    "Exchange": "US",
+    "Ticker": "INO"
+  },
+  {
+    "Instrument Name": "Inseego Corp",
+    "Exchange": "US",
+    "Ticker": "INSG"
+  },
+  {
+    "Instrument Name": "Intel Corp",
+    "Exchange": "US",
+    "Ticker": "INTC"
+  },
+  {
+    "Instrument Name": "Intellia Therapeutics Inc",
+    "Exchange": "US",
+    "Ticker": "NTLA"
+  },
+  {
+    "Instrument Name": "Interactive Brokers Group Inc",
+    "Exchange": "US",
+    "Ticker": "IBKR"
+  },
+  {
+    "Instrument Name": "Intercontinental Exchange",
+    "Exchange": "US",
+    "Ticker": "ICE"
+  },
+  {
+    "Instrument Name": "International Flavors & Fragrances Inc",
+    "Exchange": "US",
+    "Ticker": "IFF"
+  },
+  {
+    "Instrument Name": "International Titans Basket Limited",
+    "Exchange": "US",
+    "Ticker": "INTBSUA"
+  },
+  {
+    "Instrument Name": "Intl Business Machines Corp",
+    "Exchange": "US",
+    "Ticker": "IBM"
+  },
+  {
+    "Instrument Name": "Intrusion Inc",
+    "Exchange": "US",
+    "Ticker": "INTZ"
+  },
+  {
+    "Instrument Name": "Intuit Inc",
+    "Exchange": "US",
+    "Ticker": "INTU"
+  },
+  {
+    "Instrument Name": "Intuitive Surgical Inc",
+    "Exchange": "US",
+    "Ticker": "ISRG"
+  },
+  {
+    "Instrument Name": "Invesco Aerospace & Defense ETF",
+    "Exchange": "US",
+    "Ticker": "PPA"
+  },
+  {
+    "Instrument Name": "Invesco DB Agriculture Fund",
+    "Exchange": "US",
+    "Ticker": "DBA"
+  },
+  {
+    "Instrument Name": "Invesco DB US Dollar Index Bearish Fund",
+    "Exchange": "US",
+    "Ticker": "UDN"
+  },
+  {
+    "Instrument Name": "Invesco KBW Bank ETF",
+    "Exchange": "US",
+    "Ticker": "KBWB"
+  },
+  {
+    "Instrument Name": "Invesco KBW Premium Yield Equity REIT ETF",
+    "Exchange": "US",
+    "Ticker": "KBWY"
+  },
+  {
+    "Instrument Name": "Invesco Mortgage Capital Inc",
+    "Exchange": "US",
+    "Ticker": "IVR"
+  },
+  {
+    "Instrument Name": "Invesco Nasdaq Next Gen 100 ETF",
+    "Exchange": "US",
+    "Ticker": "QQQJ"
+  },
+  {
+    "Instrument Name": "Invesco QQQ Trust",
+    "Exchange": "US",
+    "Ticker": "QQQ"
+  },
+  {
+    "Instrument Name": "Invesco S&P 500 Equal Weight ETF",
+    "Exchange": "US",
+    "Ticker": "RSP"
+  },
+  {
+    "Instrument Name": "Invesco S&P 500 Quality ETF",
+    "Exchange": "US",
+    "Ticker": "SPHQ"
+  },
+  {
+    "Instrument Name": "Invesco Short Term Treasury ETF",
+    "Exchange": "US",
+    "Ticker": "TBLL"
+  },
+  {
+    "Instrument Name": "Invesco Solar ETF",
+    "Exchange": "US",
+    "Ticker": "TAN"
+  },
+  {
+    "Instrument Name": "Invesco Treasury Collateral ETF",
+    "Exchange": "US",
+    "Ticker": "CLTL"
+  },
+  {
+    "Instrument Name": "Invesco Ultra Short Duration ETF",
+    "Exchange": "US",
+    "Ticker": "GSY"
+  },
+  {
+    "Instrument Name": "Invesco WilderHill Clean Energy ETF",
+    "Exchange": "US",
+    "Ticker": "PBW"
+  },
+  {
+    "Instrument Name": "Invitae Corp",
+    "Exchange": "US",
+    "Ticker": "NVTA"
+  },
+  {
+    "Instrument Name": "Ipath S&P 500 Vix ST Future ETN",
+    "Exchange": "US",
+    "Ticker": "VXX"
+  },
+  {
+    "Instrument Name": "iQIYI Inc",
+    "Exchange": "US",
+    "Ticker": "IQ"
+  },
+  {
+    "Instrument Name": "IQVIA HOLDINGS INC",
+    "Exchange": "US",
+    "Ticker": "IQV"
+  },
+  {
+    "Instrument Name": "Iridium Communications Inc",
+    "Exchange": "US",
+    "Ticker": "IRDM"
+  },
+  {
+    "Instrument Name": "Iris Energy Ltd",
+    "Exchange": "US",
+    "Ticker": "IREN"
+  },
+  {
+    "Instrument Name": "iRobot Corp",
+    "Exchange": "US",
+    "Ticker": "IRBT"
+  },
+  {
+    "Instrument Name": "Iron Mountain Inc",
+    "Exchange": "US",
+    "Ticker": "IRM"
+  },
+  {
+    "Instrument Name": "iShares 0-3 Month Treasury Bond ETF",
+    "Exchange": "US",
+    "Ticker": "SGOV"
+  },
+  {
+    "Instrument Name": "iShares 1-3 Year Treasury Bond ETF",
+    "Exchange": "US",
+    "Ticker": "SHY"
+  },
+  {
+    "Instrument Name": "iShares 20+ Year Treasury Bond ETF",
+    "Exchange": "US",
+    "Ticker": "TLT"
+  },
+  {
+    "Instrument Name": "iShares 7-10 Year Treasury Bond ETF",
+    "Exchange": "US",
+    "Ticker": "IEF"
+  },
+  {
+    "Instrument Name": "Ishares Aaa - A Rated Corporation ETF",
+    "Exchange": "US",
+    "Ticker": "QLTA"
+  },
+  {
+    "Instrument Name": "iShares Core 10+ Year USD Bond ETF",
+    "Exchange": "US",
+    "Ticker": "ILTB"
+  },
+  {
+    "Instrument Name": "iShares Core 1-5 Year USD Bond ETF",
+    "Exchange": "US",
+    "Ticker": "ISTB"
+  },
+  {
+    "Instrument Name": "iShares Core 5-10 Year USD Bond ETF",
+    "Exchange": "US",
+    "Ticker": "IMTB"
+  },
+  {
+    "Instrument Name": "iShares Core Aggressive Allocation ETF",
+    "Exchange": "US",
+    "Ticker": "AOA"
+  },
+  {
+    "Instrument Name": "iShares Core Conservative Allocation ETF",
+    "Exchange": "US",
+    "Ticker": "AOK"
+  },
+  {
+    "Instrument Name": "iShares Core Dividend Growth ETF",
+    "Exchange": "US",
+    "Ticker": "DGRO"
+  },
+  {
+    "Instrument Name": "iShares Core Growth Allocation ETF",
+    "Exchange": "US",
+    "Ticker": "AOR"
+  },
+  {
+    "Instrument Name": "iShares Core High Dividend ETF",
+    "Exchange": "US",
+    "Ticker": "HDV"
+  },
+  {
+    "Instrument Name": "iShares Core International Aggregate Bond ETF",
+    "Exchange": "US",
+    "Ticker": "IAGG"
+  },
+  {
+    "Instrument Name": "iShares Core Moderate Allocation ETF",
+    "Exchange": "US",
+    "Ticker": "AOM"
+  },
+  {
+    "Instrument Name": "iShares Core MSCI EAFE ETF",
+    "Exchange": "US",
+    "Ticker": "IEFA"
+  },
+  {
+    "Instrument Name": "iShares Core MSCI Emerging Markets ETF",
+    "Exchange": "US",
+    "Ticker": "IEMG"
+  },
+  {
+    "Instrument Name": "iShares Core MSCI Europe ETF",
+    "Exchange": "US",
+    "Ticker": "IEUR"
+  },
+  {
+    "Instrument Name": "iShares Core MSCI Intl Developed Markets ETF",
+    "Exchange": "US",
+    "Ticker": "IDEV"
+  },
+  {
+    "Instrument Name": "iShares Core MSCI Pacific ETF",
+    "Exchange": "US",
+    "Ticker": "IPAC"
+  },
+  {
+    "Instrument Name": "iShares Core MSCI Total International Stock ETF",
+    "Exchange": "US",
+    "Ticker": "IXUS"
+  },
+  {
+    "Instrument Name": "iShares Core S&P 500 ETF",
+    "Exchange": "US",
+    "Ticker": "IVV"
+  },
+  {
+    "Instrument Name": "iShares Core S&P Mid-Cap ETF",
+    "Exchange": "US",
+    "Ticker": "IJH"
+  },
+  {
+    "Instrument Name": "iShares Core S&P Small-Cap ETF",
+    "Exchange": "US",
+    "Ticker": "IJR"
+  },
+  {
+    "Instrument Name": "iShares Core S&P Total U.S. Stock Market ETF",
+    "Exchange": "US",
+    "Ticker": "ITOT"
+  },
+  {
+    "Instrument Name": "iShares Core S&P U.S. Growth ETF",
+    "Exchange": "US",
+    "Ticker": "IUSG"
+  },
+  {
+    "Instrument Name": "iShares Core S&P U.S. Value ETF",
+    "Exchange": "US",
+    "Ticker": "IUSV"
+  },
+  {
+    "Instrument Name": "iShares Core Total USD Bond Market ETF",
+    "Exchange": "US",
+    "Ticker": "IUSB"
+  },
+  {
+    "Instrument Name": "iShares Core U.S. Aggregate Bond ETF",
+    "Exchange": "US",
+    "Ticker": "AGG"
+  },
+  {
+    "Instrument Name": "iShares Core U.S. REIT ETF",
+    "Exchange": "US",
+    "Ticker": "USRT"
+  },
+  {
+    "Instrument Name": "iShares Dow Jones U.S. ETF",
+    "Exchange": "US",
+    "Ticker": "IYY"
+  },
+  {
+    "Instrument Name": "Ishares Edge MSCI Min Vol EAFE ETF",
+    "Exchange": "US",
+    "Ticker": "EFAV"
+  },
+  {
+    "Instrument Name": "Ishares Edge MSCI Min Vol Global ETF",
+    "Exchange": "US",
+    "Ticker": "ACWV"
+  },
+  {
+    "Instrument Name": "Ishares Edge MSCI Min Volatility USA ETF",
+    "Exchange": "US",
+    "Ticker": "USMV"
+  },
+  {
+    "Instrument Name": "Ishares Edge MSCI USA Moment Factor ETF",
+    "Exchange": "US",
+    "Ticker": "MTUM"
+  },
+  {
+    "Instrument Name": "Ishares Edge MSCI USA Quality Factor ETF",
+    "Exchange": "US",
+    "Ticker": "QUAL"
+  },
+  {
+    "Instrument Name": "Ishares Europe ETF",
+    "Exchange": "US",
+    "Ticker": "IEV"
+  },
+  {
+    "Instrument Name": "Ishares Global Clean Energy Index Fund",
+    "Exchange": "US",
+    "Ticker": "ICLN"
+  },
+  {
+    "Instrument Name": "iShares Global Energy ETF",
+    "Exchange": "US",
+    "Ticker": "IXC"
+  },
+  {
+    "Instrument Name": "Ishares Global Healthcare ETF",
+    "Exchange": "US",
+    "Ticker": "IXJ"
+  },
+  {
+    "Instrument Name": "iShares Global Infrastructure ETF",
+    "Exchange": "US",
+    "Ticker": "IGF"
+  },
+  {
+    "Instrument Name": "Ishares Global Reit ETF",
+    "Exchange": "US",
+    "Ticker": "REET"
+  },
+  {
+    "Instrument Name": "Ishares Global Tech ETF",
+    "Exchange": "US",
+    "Ticker": "IXN"
+  },
+  {
+    "Instrument Name": "Ishares Gold Trust ETF",
+    "Exchange": "US",
+    "Ticker": "IAU"
+  },
+  {
+    "Instrument Name": "Ishares Jp Morgan USD Emerg Mkts Bond ETF",
+    "Exchange": "US",
+    "Ticker": "EMB"
+  },
+  {
+    "Instrument Name": "iShares MSCI ACWI ETF",
+    "Exchange": "US",
+    "Ticker": "ACWI"
+  },
+  {
+    "Instrument Name": "Ishares MSCI All Country Asia ex Japan ETF",
+    "Exchange": "US",
+    "Ticker": "AAXJ"
+  },
+  {
+    "Instrument Name": "Ishares MSCI Australia ETF",
+    "Exchange": "US",
+    "Ticker": "EWA"
+  },
+  {
+    "Instrument Name": "Ishares MSCI China ETF",
+    "Exchange": "US",
+    "Ticker": "MCHI"
+  },
+  {
+    "Instrument Name": "iShares MSCI EAFE Value ETF",
+    "Exchange": "US",
+    "Ticker": "EFV"
+  },
+  {
+    "Instrument Name": "Ishares MSCI Emerg Mrkt Asia ETF",
+    "Exchange": "US",
+    "Ticker": "EEMA"
+  },
+  {
+    "Instrument Name": "iShares MSCI Emerging Markets ETF",
+    "Exchange": "US",
+    "Ticker": "EEM"
+  },
+  {
+    "Instrument Name": "Ishares MSCI Eurozone ETF",
+    "Exchange": "US",
+    "Ticker": "EZU"
+  },
+  {
+    "Instrument Name": "Ishares MSCI Germany ETF",
+    "Exchange": "US",
+    "Ticker": "EWG"
+  },
+  {
+    "Instrument Name": "iShares MSCI Global Impact ETF",
+    "Exchange": "US",
+    "Ticker": "SDG"
+  },
+  {
+    "Instrument Name": "iShares MSCI Global Metals & Mining ETF",
+    "Exchange": "US",
+    "Ticker": "PICK"
+  },
+  {
+    "Instrument Name": "iShares MSCI Global Silver and Metals Miners ETF",
+    "Exchange": "US",
+    "Ticker": "SLVP"
+  },
+  {
+    "Instrument Name": "Ishares MSCI India ETF",
+    "Exchange": "US",
+    "Ticker": "INDA"
+  },
+  {
+    "Instrument Name": "iShares MSCI International Momentum Factor ETF",
+    "Exchange": "US",
+    "Ticker": "IMTM"
+  },
+  {
+    "Instrument Name": "iShares MSCI International Quality Factor ETF",
+    "Exchange": "US",
+    "Ticker": "IQLT"
+  },
+  {
+    "Instrument Name": "iShares MSCI Israel ETF",
+    "Exchange": "US",
+    "Ticker": "EIS"
+  },
+  {
+    "Instrument Name": "Ishares MSCI Japan ETF",
+    "Exchange": "US",
+    "Ticker": "EWJ"
+  },
+  {
+    "Instrument Name": "Ishares MSCI South Africa ETF",
+    "Exchange": "US",
+    "Ticker": "EZA"
+  },
+  {
+    "Instrument Name": "Ishares MSCI South Korea Capped ETF",
+    "Exchange": "US",
+    "Ticker": "EWY"
+  },
+  {
+    "Instrument Name": "iShares MSCI Taiwan ETF",
+    "Exchange": "US",
+    "Ticker": "EWT"
+  },
+  {
+    "Instrument Name": "Ishares MSCI United Kingdom ETF",
+    "Exchange": "US",
+    "Ticker": "EWU"
+  },
+  {
+    "Instrument Name": "iShares MSCI USA ESG Select ETF",
+    "Exchange": "US",
+    "Ticker": "SUSA"
+  },
+  {
+    "Instrument Name": "iShares MSCI USA Value Factor ETF",
+    "Exchange": "US",
+    "Ticker": "VLUE"
+  },
+  {
+    "Instrument Name": "Ishares MSCI World ETF",
+    "Exchange": "US",
+    "Ticker": "URTH"
+  },
+  {
+    "Instrument Name": "Ishares Nasdaq Biotechnology ETF",
+    "Exchange": "US",
+    "Ticker": "IBB"
+  },
+  {
+    "Instrument Name": "iShares PHLX Semiconductor ETF",
+    "Exchange": "US",
+    "Ticker": "SOXX"
+  },
+  {
+    "Instrument Name": "iShares Russell 1000 Value ETF",
+    "Exchange": "US",
+    "Ticker": "IWD"
+  },
+  {
+    "Instrument Name": "iShares Russell 2000 ETF",
+    "Exchange": "US",
+    "Ticker": "IWM"
+  },
+  {
+    "Instrument Name": "Ishares S&P 500 Growth ETF",
+    "Exchange": "US",
+    "Ticker": "IVW"
+  },
+  {
+    "Instrument Name": "Ishares S&P 500 Value ETF",
+    "Exchange": "US",
+    "Ticker": "IVE"
+  },
+  {
+    "Instrument Name": "Ishares S&P GSCI Comdty-Indexed Trust ETF",
+    "Exchange": "US",
+    "Ticker": "GSG"
+  },
+  {
+    "Instrument Name": "iShares S&P Small-Cap 600 Value ETF",
+    "Exchange": "US",
+    "Ticker": "IJS"
+  },
+  {
+    "Instrument Name": "Ishares Select Dividend ETF",
+    "Exchange": "US",
+    "Ticker": "DVY"
+  },
+  {
+    "Instrument Name": "iShares Self-Driving EV and Tech ETF",
+    "Exchange": "US",
+    "Ticker": "IDRV"
+  },
+  {
+    "Instrument Name": "iShares Short Treasury Bond ETF",
+    "Exchange": "US",
+    "Ticker": "SHV"
+  },
+  {
+    "Instrument Name": "iShares Silver Trust",
+    "Exchange": "US",
+    "Ticker": "SLV"
+  },
+  {
+    "Instrument Name": "iShares Trust iShares ESG Aware MSCI EAFE ETF",
+    "Exchange": "US",
+    "Ticker": "ESGD"
+  },
+  {
+    "Instrument Name": "iShares U.S. Medical Devices ETF",
+    "Exchange": "US",
+    "Ticker": "IHI"
+  },
+  {
+    "Instrument Name": "iShares U.S. Technology ETF",
+    "Exchange": "US",
+    "Ticker": "IYW"
+  },
+  {
+    "Instrument Name": "iStar Inc",
+    "Exchange": "US",
+    "Ticker": "STAR"
+  },
+  {
+    "Instrument Name": "Jazz Pharmaceuticals PLC",
+    "Exchange": "US",
+    "Ticker": "JAZZ"
+  },
+  {
+    "Instrument Name": "JB Hunt Transport Services Inc",
+    "Exchange": "US",
+    "Ticker": "JBHT"
+  },
+  {
+    "Instrument Name": "Jd.Com Inc-Adr",
+    "Exchange": "US",
+    "Ticker": "JD"
+  },
+  {
+    "Instrument Name": "Joby Aviation Inc",
+    "Exchange": "US",
+    "Ticker": "JOBY"
+  },
+  {
+    "Instrument Name": "Johnson & Johnson",
+    "Exchange": "US",
+    "Ticker": "JNJ"
+  },
+  {
+    "Instrument Name": "Jpmorgan Chase & Co",
+    "Exchange": "US",
+    "Ticker": "JPM"
+  },
+  {
+    "Instrument Name": "JPMorgan Equity Premium Income ETF",
+    "Exchange": "US",
+    "Ticker": "JEPI"
+  },
+  {
+    "Instrument Name": "JPMorgan Ultra-Short Income ETF",
+    "Exchange": "US",
+    "Ticker": "JPST"
+  },
+  {
+    "Instrument Name": "Jumia Technologies AG",
+    "Exchange": "US",
+    "Ticker": "JMIA"
+  },
+  {
+    "Instrument Name": "Karooooo Ltd",
+    "Exchange": "US",
+    "Ticker": "KARO"
+  },
+  {
+    "Instrument Name": "Kartoon Studios Inc",
+    "Exchange": "US",
+    "Ticker": "TOON"
+  },
+  {
+    "Instrument Name": "Kellanova",
+    "Exchange": "US",
+    "Ticker": "K"
+  },
+  {
+    "Instrument Name": "Keurig Dr Pepper Inc",
+    "Exchange": "US",
+    "Ticker": "KDP"
+  },
+  {
+    "Instrument Name": "Keysight Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "KEYS"
+  },
+  {
+    "Instrument Name": "Kinder Morgan Inc",
+    "Exchange": "US",
+    "Ticker": "KMI"
+  },
+  {
+    "Instrument Name": "Kinross Gold Corp",
+    "Exchange": "US",
+    "Ticker": "KGC"
+  },
+  {
+    "Instrument Name": "Kinsale Capital Group Inc",
+    "Exchange": "US",
+    "Ticker": "KNSL"
+  },
+  {
+    "Instrument Name": "Kirkland Lake Gold Ltd",
+    "Exchange": "US",
+    "Ticker": "KL"
+  },
+  {
+    "Instrument Name": "Kla-Tencor Corp",
+    "Exchange": "US",
+    "Ticker": "KLAC"
+  },
+  {
+    "Instrument Name": "Kraft Heinz Co/The",
+    "Exchange": "US",
+    "Ticker": "KHC"
+  },
+  {
+    "Instrument Name": "KraneShares CSI China Internet ETF",
+    "Exchange": "US",
+    "Ticker": "KWEB"
+  },
+  {
+    "Instrument Name": "KraneShares Electric Vehicles and Future Mobility Index ETF",
+    "Exchange": "US",
+    "Ticker": "KARS"
+  },
+  {
+    "Instrument Name": "KraneShares Global Carbon Strategy ETF",
+    "Exchange": "US",
+    "Ticker": "KRBN"
+  },
+  {
+    "Instrument Name": "Kratos Defense & Security Solutions Inc",
+    "Exchange": "US",
+    "Ticker": "KTOS"
+  },
+  {
+    "Instrument Name": "Kroger Co",
+    "Exchange": "US",
+    "Ticker": "KR"
+  },
+  {
+    "Instrument Name": "Kyndryl Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "KD"
+  },
+  {
+    "Instrument Name": "L3Harris Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "LHX"
+  },
+  {
+    "Instrument Name": "Lam Research Corp",
+    "Exchange": "US",
+    "Ticker": "LRCX"
+  },
+  {
+    "Instrument Name": "Lamar Advertising Co",
+    "Exchange": "US",
+    "Ticker": "LAMR"
+  },
+  {
+    "Instrument Name": "Leidos Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "LDOS"
+  },
+  {
+    "Instrument Name": "Lemonade Inc",
+    "Exchange": "US",
+    "Ticker": "LMND"
+  },
+  {
+    "Instrument Name": "Lesaka Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "LSAK"
+  },
+  {
+    "Instrument Name": "Li Auto Inc",
+    "Exchange": "US",
+    "Ticker": "LI"
+  },
+  {
+    "Instrument Name": "Liberty Broadband Corp C",
+    "Exchange": "US",
+    "Ticker": "LBRDK"
+  },
+  {
+    "Instrument Name": "Liberty Global Ltd-A",
+    "Exchange": "US",
+    "Ticker": "LBTYA"
+  },
+  {
+    "Instrument Name": "Liberty Global Ltd-C",
+    "Exchange": "US",
+    "Ticker": "LBTYK"
+  },
+  {
+    "Instrument Name": "Lilium NV",
+    "Exchange": "US",
+    "Ticker": "LILM"
+  },
+  {
+    "Instrument Name": "Linde PLC",
+    "Exchange": "US",
+    "Ticker": "LIN"
+  },
+  {
+    "Instrument Name": "Lithium Americas Argentina Corp",
+    "Exchange": "US",
+    "Ticker": "LAAC"
+  },
+  {
+    "Instrument Name": "Lithium Americas Corp",
+    "Exchange": "US",
+    "Ticker": "LAC"
+  },
+  {
+    "Instrument Name": "Live Nation",
+    "Exchange": "US",
+    "Ticker": "LYV"
+  },
+  {
+    "Instrument Name": "Live Oak Bancshares Inc",
+    "Exchange": "US",
+    "Ticker": "LOB"
+  },
+  {
+    "Instrument Name": "Livent Corp",
+    "Exchange": "US",
+    "Ticker": "LTHM"
+  },
+  {
+    "Instrument Name": "Liveperson Inc",
+    "Exchange": "US",
+    "Ticker": "LPSN"
+  },
+  {
+    "Instrument Name": "Livongo Health Inc",
+    "Exchange": "US",
+    "Ticker": "LVGO"
+  },
+  {
+    "Instrument Name": "Lockheed Martin Corp",
+    "Exchange": "US",
+    "Ticker": "LMT"
+  },
+  {
+    "Instrument Name": "Logitech International SA",
+    "Exchange": "US",
+    "Ticker": "LOGI"
+  },
+  {
+    "Instrument Name": "Lowe'S Cos Inc",
+    "Exchange": "US",
+    "Ticker": "LOW"
+  },
+  {
+    "Instrument Name": "Lucid Group Inc",
+    "Exchange": "US",
+    "Ticker": "LCID"
+  },
+  {
+    "Instrument Name": "Lululemon Athletica Inc",
+    "Exchange": "US",
+    "Ticker": "LULU"
+  },
+  {
+    "Instrument Name": "Lumen Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "LUMN"
+  },
+  {
+    "Instrument Name": "Luminar Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "LAZR"
+  },
+  {
+    "Instrument Name": "Magnite Inc",
+    "Exchange": "US",
+    "Ticker": "MGNI"
+  },
+  {
+    "Instrument Name": "Main Street Capital Corp",
+    "Exchange": "US",
+    "Ticker": "MAIN"
+  },
+  {
+    "Instrument Name": "Malibu Boats Inc",
+    "Exchange": "US",
+    "Ticker": "MBUU"
+  },
+  {
+    "Instrument Name": "Manchester United Plc",
+    "Exchange": "US",
+    "Ticker": "MANU"
+  },
+  {
+    "Instrument Name": "Marathon Digital Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "MARA"
+  },
+  {
+    "Instrument Name": "Markel Corp",
+    "Exchange": "US",
+    "Ticker": "MKL"
+  },
+  {
+    "Instrument Name": "Marriott International -Cl A",
+    "Exchange": "US",
+    "Ticker": "MAR"
+  },
+  {
+    "Instrument Name": "Marsh & McLennan Cos Inc",
+    "Exchange": "US",
+    "Ticker": "MMC"
+  },
+  {
+    "Instrument Name": "Marvell Technology Group Ltd",
+    "Exchange": "US",
+    "Ticker": "MRVL"
+  },
+  {
+    "Instrument Name": "Masimo Corporation",
+    "Exchange": "US",
+    "Ticker": "MASI"
+  },
+  {
+    "Instrument Name": "Mastercard Inc - A",
+    "Exchange": "US",
+    "Ticker": "MA"
+  },
+  {
+    "Instrument Name": "Match Group Inc",
+    "Exchange": "US",
+    "Ticker": "MTCH"
+  },
+  {
+    "Instrument Name": "Materials Select Sector SPDR Fund",
+    "Exchange": "US",
+    "Ticker": "XLB"
+  },
+  {
+    "Instrument Name": "Mattel Inc",
+    "Exchange": "US",
+    "Ticker": "MAT"
+  },
+  {
+    "Instrument Name": "Matterport Inc",
+    "Exchange": "US",
+    "Ticker": "MTTR"
+  },
+  {
+    "Instrument Name": "Maxar Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "MAXR"
+  },
+  {
+    "Instrument Name": "Maxim Integrated Products",
+    "Exchange": "US",
+    "Ticker": "MXIM"
+  },
+  {
+    "Instrument Name": "Mcdonald'S Corp",
+    "Exchange": "US",
+    "Ticker": "MCD"
+  },
+  {
+    "Instrument Name": "McKesson Corp",
+    "Exchange": "US",
+    "Ticker": "MCK"
+  },
+  {
+    "Instrument Name": "Medtronic Plc",
+    "Exchange": "US",
+    "Ticker": "MDT"
+  },
+  {
+    "Instrument Name": "MercadoLibre Inc",
+    "Exchange": "US",
+    "Ticker": "MELI"
+  },
+  {
+    "Instrument Name": "Merck & Co. Inc.",
+    "Exchange": "US",
+    "Ticker": "MRK"
+  },
+  {
+    "Instrument Name": "Meta Platforms Inc-A",
+    "Exchange": "US",
+    "Ticker": "META"
+  },
+  {
+    "Instrument Name": "Metlife Inc",
+    "Exchange": "US",
+    "Ticker": "MET"
+  },
+  {
+    "Instrument Name": "MetroMile Inc",
+    "Exchange": "US",
+    "Ticker": "MILE"
+  },
+  {
+    "Instrument Name": "Microchip Technology Inc",
+    "Exchange": "US",
+    "Ticker": "MCHP"
+  },
+  {
+    "Instrument Name": "Micron Technology Inc",
+    "Exchange": "US",
+    "Ticker": "MU"
+  },
+  {
+    "Instrument Name": "Microsoft Corp",
+    "Exchange": "US",
+    "Ticker": "MSFT"
+  },
+  {
+    "Instrument Name": "MicroStrategy Inc",
+    "Exchange": "US",
+    "Ticker": "MSTR"
+  },
+  {
+    "Instrument Name": "Microvast Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "MVST"
+  },
+  {
+    "Instrument Name": "MicroVision Inc",
+    "Exchange": "US",
+    "Ticker": "MVIS"
+  },
+  {
+    "Instrument Name": "Mid-Cap Growth ETF Vanguard",
+    "Exchange": "US",
+    "Ticker": "VOT"
+  },
+  {
+    "Instrument Name": "Mind Medicine MindMed Inc",
+    "Exchange": "US",
+    "Ticker": "MNMD"
+  },
+  {
+    "Instrument Name": "Moderna Inc",
+    "Exchange": "US",
+    "Ticker": "MRNA"
+  },
+  {
+    "Instrument Name": "Mohawk Industries Inc",
+    "Exchange": "US",
+    "Ticker": "MHK"
+  },
+  {
+    "Instrument Name": "Molson Coors Beverage Co",
+    "Exchange": "US",
+    "Ticker": "TAP"
+  },
+  {
+    "Instrument Name": "Mondelez International Inc-A",
+    "Exchange": "US",
+    "Ticker": "MDLZ"
+  },
+  {
+    "Instrument Name": "MongoDB Inc",
+    "Exchange": "US",
+    "Ticker": "MDB"
+  },
+  {
+    "Instrument Name": "Monster Beverage Corp",
+    "Exchange": "US",
+    "Ticker": "MNST"
+  },
+  {
+    "Instrument Name": "Moody's Corp",
+    "Exchange": "US",
+    "Ticker": "MCO"
+  },
+  {
+    "Instrument Name": "Morgan Stanley",
+    "Exchange": "US",
+    "Ticker": "MS"
+  },
+  {
+    "Instrument Name": "Mosaic Co/The",
+    "Exchange": "US",
+    "Ticker": "MOS"
+  },
+  {
+    "Instrument Name": "MP Materials Corp",
+    "Exchange": "US",
+    "Ticker": "MP"
+  },
+  {
+    "Instrument Name": "Mylan Nv",
+    "Exchange": "US",
+    "Ticker": "MYL"
+  },
+  {
+    "Instrument Name": "Nano Dimension Ltd",
+    "Exchange": "US",
+    "Ticker": "NNDM"
+  },
+  {
+    "Instrument Name": "Nasdaq Inc",
+    "Exchange": "US",
+    "Ticker": "NDAQ"
+  },
+  {
+    "Instrument Name": "Navistar International Corp",
+    "Exchange": "US",
+    "Ticker": "NAV"
+  },
+  {
+    "Instrument Name": "Ncino Inc",
+    "Exchange": "US",
+    "Ticker": "NCNO"
+  },
+  {
+    "Instrument Name": "Netease Inc-Adr",
+    "Exchange": "US",
+    "Ticker": "NTES"
+  },
+  {
+    "Instrument Name": "Netflix Inc",
+    "Exchange": "US",
+    "Ticker": "NFLX"
+  },
+  {
+    "Instrument Name": "Netgear",
+    "Exchange": "US",
+    "Ticker": "NTGR"
+  },
+  {
+    "Instrument Name": "New Oriental Education and Technology Grp",
+    "Exchange": "US",
+    "Ticker": "EDU"
+  },
+  {
+    "Instrument Name": "New Relic Inc",
+    "Exchange": "US",
+    "Ticker": "NEWR"
+  },
+  {
+    "Instrument Name": "New York Times Co/The",
+    "Exchange": "US",
+    "Ticker": "NYT"
+  },
+  {
+    "Instrument Name": "Newmont Corporation",
+    "Exchange": "US",
+    "Ticker": "NEM"
+  },
+  {
+    "Instrument Name": "NexGen Energy Ltd",
+    "Exchange": "US",
+    "Ticker": "NXE"
+  },
+  {
+    "Instrument Name": "NexGen Energy Ltd (NEX)",
+    "Exchange": "US",
+    "Ticker": "NEX"
+  },
+  {
+    "Instrument Name": "Nextera Energy Inc",
+    "Exchange": "US",
+    "Ticker": "NEE"
+  },
+  {
+    "Instrument Name": "Nike Inc -Cl B",
+    "Exchange": "US",
+    "Ticker": "NKE"
+  },
+  {
+    "Instrument Name": "Nikola Corp",
+    "Exchange": "US",
+    "Ticker": "NKLA"
+  },
+  {
+    "Instrument Name": "Nio Inc - Adr",
+    "Exchange": "US",
+    "Ticker": "NIO"
+  },
+  {
+    "Instrument Name": "Nokia Corporation",
+    "Exchange": "US",
+    "Ticker": "NOK"
+  },
+  {
+    "Instrument Name": "Northrop Grumman Corp",
+    "Exchange": "US",
+    "Ticker": "NOC"
+  },
+  {
+    "Instrument Name": "Norwegian Cruise Line Holdin",
+    "Exchange": "US",
+    "Ticker": "NCLH"
+  },
+  {
+    "Instrument Name": "Nouveau Monde Graphite Inc",
+    "Exchange": "US",
+    "Ticker": "NMG"
+  },
+  {
+    "Instrument Name": "Novartis AG",
+    "Exchange": "US",
+    "Ticker": "NVS"
+  },
+  {
+    "Instrument Name": "Novavax",
+    "Exchange": "US",
+    "Ticker": "NVAX"
+  },
+  {
+    "Instrument Name": "Novo Nordisk A/S",
+    "Exchange": "US",
+    "Ticker": "NVO"
+  },
+  {
+    "Instrument Name": "Novocure Ltd",
+    "Exchange": "US",
+    "Ticker": "NVCR"
+  },
+  {
+    "Instrument Name": "NOW Inc",
+    "Exchange": "US",
+    "Ticker": "DNOW"
+  },
+  {
+    "Instrument Name": "NU Holdings Ltd/Cayman Islands",
+    "Exchange": "US",
+    "Ticker": "NU"
+  },
+  {
+    "Instrument Name": "Nuance Communications Inc",
+    "Exchange": "US",
+    "Ticker": "NUAN"
+  },
+  {
+    "Instrument Name": "Nucor Corp",
+    "Exchange": "US",
+    "Ticker": "NUE"
+  },
+  {
+    "Instrument Name": "Nutanix Inc",
+    "Exchange": "US",
+    "Ticker": "NTNX"
+  },
+  {
+    "Instrument Name": "Nvidia Corp",
+    "Exchange": "US",
+    "Ticker": "NVDA"
+  },
+  {
+    "Instrument Name": "Nxp Semiconductors Nv",
+    "Exchange": "US",
+    "Ticker": "NXPI"
+  },
+  {
+    "Instrument Name": "Occidental Petroleum Corp",
+    "Exchange": "US",
+    "Ticker": "OXY"
+  },
+  {
+    "Instrument Name": "Okta Inc",
+    "Exchange": "US",
+    "Ticker": "OKTA"
+  },
+  {
+    "Instrument Name": "Omega Healthcare Investors Inc",
+    "Exchange": "US",
+    "Ticker": "OHI"
+  },
+  {
+    "Instrument Name": "Omeros Corp",
+    "Exchange": "US",
+    "Ticker": "OMER"
+  },
+  {
+    "Instrument Name": "ON Semiconductor Corp",
+    "Exchange": "US",
+    "Ticker": "ON"
+  },
+  {
+    "Instrument Name": "ONEOK Inc",
+    "Exchange": "US",
+    "Ticker": "OKE"
+  },
+  {
+    "Instrument Name": "Opendoor Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "OPEN"
+  },
+  {
+    "Instrument Name": "Optimal Investment Growth Basket Limited - USD",
+    "Exchange": "US",
+    "Ticker": "OPTIVUR"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Dec22C 13500",
+    "Exchange": "US",
+    "Ticker": "NQZ2C"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Dec22C 14000",
+    "Exchange": "US",
+    "Ticker": "NQZ2CA"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Dec22C 14500",
+    "Exchange": "US",
+    "Ticker": "NQZ2CB"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Dec22P 10000",
+    "Exchange": "US",
+    "Ticker": "NQZ2PC"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Dec22P 12000",
+    "Exchange": "US",
+    "Ticker": "NQZ2PB"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Dec22P 12500",
+    "Exchange": "US",
+    "Ticker": "NQZ2PA"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Dec22P 13000",
+    "Exchange": "US",
+    "Ticker": "NQZ2P"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Jun21P 12600",
+    "Exchange": "US",
+    "Ticker": "NQM1P"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Jun22C 15600",
+    "Exchange": "US",
+    "Ticker": "NQM2CB"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Jun22C 16000",
+    "Exchange": "US",
+    "Ticker": "NQM2C"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Jun22P 14200",
+    "Exchange": "US",
+    "Ticker": "NQM2P"
+  },
+  {
+    "Instrument Name": "Option: NASDAQ 100 E-MINI Jun23P 10000",
+    "Exchange": "US",
+    "Ticker": "NQM3PB"
+  },
+  {
+    "Instrument Name": "Option: NASDAQ 100 E-MINI Jun23P 10500",
+    "Exchange": "US",
+    "Ticker": "NQM3PC"
+  },
+  {
+    "Instrument Name": "Option: NASDAQ 100 E-MINI Jun23P 11000",
+    "Exchange": "US",
+    "Ticker": "NQM3P"
+  },
+  {
+    "Instrument Name": "Option: NASDAQ 100 E-MINI Jun23P 11500",
+    "Exchange": "US",
+    "Ticker": "NQM3PA"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Mar21P 12200",
+    "Exchange": "US",
+    "Ticker": "NQH1P"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Mar22C 15500",
+    "Exchange": "US",
+    "Ticker": "NQH2C"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Mar22P 15000",
+    "Exchange": "US",
+    "Ticker": "NQH2P"
+  },
+  {
+    "Instrument Name": "Option: NASDAQ 100 E-MINI Mar23P 10500",
+    "Exchange": "US",
+    "Ticker": "NQH3PB"
+  },
+  {
+    "Instrument Name": "Option: NASDAQ 100 E-MINI Mar23P 11000",
+    "Exchange": "US",
+    "Ticker": "NQH3PA"
+  },
+  {
+    "Instrument Name": "Option: NASDAQ 100 E-MINI Mar23P 11500",
+    "Exchange": "US",
+    "Ticker": "NQH3P"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Sep21P 13000",
+    "Exchange": "US",
+    "Ticker": "NQU1P"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Sep21P 13300",
+    "Exchange": "US",
+    "Ticker": "NQU1P2"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Sep22C 13000",
+    "Exchange": "US",
+    "Ticker": "NQU2C130"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Sep22C 13500",
+    "Exchange": "US",
+    "Ticker": "NQU2C135"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Sep22C 14000",
+    "Exchange": "US",
+    "Ticker": "NQU2C140"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Sep22P 11000",
+    "Exchange": "US",
+    "Ticker": "NQU2P110"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Sep22P 11500",
+    "Exchange": "US",
+    "Ticker": "NQU2P115"
+  },
+  {
+    "Instrument Name": "Option: Nasdaq 100 E-MINI Sep22P 12000",
+    "Exchange": "US",
+    "Ticker": "NQU2P120"
+  },
+  {
+    "Instrument Name": "Option: S&P500 EMINI OPTN Jun23P 3650",
+    "Exchange": "US",
+    "Ticker": "ESM3PB"
+  },
+  {
+    "Instrument Name": "Option: S&P500 EMINI OPTN Jun23P 3750",
+    "Exchange": "US",
+    "Ticker": "ESM3PA"
+  },
+  {
+    "Instrument Name": "Option: S&P500 EMINI OPTN Jun23P 3850",
+    "Exchange": "US",
+    "Ticker": "ESM3P"
+  },
+  {
+    "Instrument Name": "Oracle Corp",
+    "Exchange": "US",
+    "Ticker": "ORCL"
+  },
+  {
+    "Instrument Name": "O'Reilly Automotive Inc",
+    "Exchange": "US",
+    "Ticker": "ORLY"
+  },
+  {
+    "Instrument Name": "Organon & Co",
+    "Exchange": "US",
+    "Ticker": "OGN"
+  },
+  {
+    "Instrument Name": "Orion Office REIT Inc",
+    "Exchange": "US",
+    "Ticker": "ONL"
+  },
+  {
+    "Instrument Name": "Otis Worldwide Corporation",
+    "Exchange": "US",
+    "Ticker": "OTIS"
+  },
+  {
+    "Instrument Name": "Outset Medical Inc",
+    "Exchange": "US",
+    "Ticker": "OM"
+  },
+  {
+    "Instrument Name": "Overstock.com",
+    "Exchange": "US",
+    "Ticker": "OSTK"
+  },
+  {
+    "Instrument Name": "Ozon Holdings PLC",
+    "Exchange": "US",
+    "Ticker": "OZON"
+  },
+  {
+    "Instrument Name": "Paccar Inc",
+    "Exchange": "US",
+    "Ticker": "PCAR"
+  },
+  {
+    "Instrument Name": "Pacific Biosciences of California Inc",
+    "Exchange": "US",
+    "Ticker": "PACB"
+  },
+  {
+    "Instrument Name": "Palantir Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "PLTR"
+  },
+  {
+    "Instrument Name": "Palo Alto Networks Inc",
+    "Exchange": "US",
+    "Ticker": "PANW"
+  },
+  {
+    "Instrument Name": "Pan American Silver Corp",
+    "Exchange": "US",
+    "Ticker": "PAAS"
+  },
+  {
+    "Instrument Name": "Paramount Global",
+    "Exchange": "US",
+    "Ticker": "PARA"
+  },
+  {
+    "Instrument Name": "Paychex Inc",
+    "Exchange": "US",
+    "Ticker": "PAYX"
+  },
+  {
+    "Instrument Name": "Paycom Software Inc",
+    "Exchange": "US",
+    "Ticker": "PAYC"
+  },
+  {
+    "Instrument Name": "Paypal Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "PYPL"
+  },
+  {
+    "Instrument Name": "Peabody Energy Corp",
+    "Exchange": "US",
+    "Ticker": "BTU"
+  },
+  {
+    "Instrument Name": "Pegasystems Inc.",
+    "Exchange": "US",
+    "Ticker": "PEGA"
+  },
+  {
+    "Instrument Name": "Peloton Interactive Inc",
+    "Exchange": "US",
+    "Ticker": "PTON"
+  },
+  {
+    "Instrument Name": "Penn National Gaming Inc",
+    "Exchange": "US",
+    "Ticker": "PENN"
+  },
+  {
+    "Instrument Name": "Pepsico Inc",
+    "Exchange": "US",
+    "Ticker": "PEP"
+  },
+  {
+    "Instrument Name": "Perkinelmer",
+    "Exchange": "US",
+    "Ticker": "PKI"
+  },
+  {
+    "Instrument Name": "PetMed Express Inc",
+    "Exchange": "US",
+    "Ticker": "PETS"
+  },
+  {
+    "Instrument Name": "Pfizer Inc",
+    "Exchange": "US",
+    "Ticker": "PFE"
+  },
+  {
+    "Instrument Name": "Philip Morris International",
+    "Exchange": "US",
+    "Ticker": "PM"
+  },
+  {
+    "Instrument Name": "Phinia Inc",
+    "Exchange": "US",
+    "Ticker": "PHIN"
+  },
+  {
+    "Instrument Name": "Pinduoduo Inc",
+    "Exchange": "US",
+    "Ticker": "PDD"
+  },
+  {
+    "Instrument Name": "Pinterest Inc",
+    "Exchange": "US",
+    "Ticker": "PINS"
+  },
+  {
+    "Instrument Name": "Pioneer Natural Resources Co",
+    "Exchange": "US",
+    "Ticker": "PXD"
+  },
+  {
+    "Instrument Name": "Pitney Bowes Inc",
+    "Exchange": "US",
+    "Ticker": "PBI"
+  },
+  {
+    "Instrument Name": "Planet Labs PBC",
+    "Exchange": "US",
+    "Ticker": "PL"
+  },
+  {
+    "Instrument Name": "Plug Power Inc",
+    "Exchange": "US",
+    "Ticker": "PLUG"
+  },
+  {
+    "Instrument Name": "Poly",
+    "Exchange": "US",
+    "Ticker": "POLY"
+  },
+  {
+    "Instrument Name": "PPL Corporation",
+    "Exchange": "US",
+    "Ticker": "PPL"
+  },
+  {
+    "Instrument Name": "Precision Drilling Corp",
+    "Exchange": "US",
+    "Ticker": "PDS"
+  },
+  {
+    "Instrument Name": "Procter & Gamble Co/The",
+    "Exchange": "US",
+    "Ticker": "PG"
+  },
+  {
+    "Instrument Name": "Progyny Inc",
+    "Exchange": "US",
+    "Ticker": "PGNY"
+  },
+  {
+    "Instrument Name": "ProShares Bitcoin Strategy ETF",
+    "Exchange": "US",
+    "Ticker": "BITO"
+  },
+  {
+    "Instrument Name": "Proshares S&P 500 Dividend Aristocrats ETF",
+    "Exchange": "US",
+    "Ticker": "NOBL"
+  },
+  {
+    "Instrument Name": "ProShares Short 20+ Year Treasury",
+    "Exchange": "US",
+    "Ticker": "TBF"
+  },
+  {
+    "Instrument Name": "ProShares Short S&P500",
+    "Exchange": "US",
+    "Ticker": "SH"
+  },
+  {
+    "Instrument Name": "ProShares Ultra S&P500",
+    "Exchange": "US",
+    "Ticker": "SSO"
+  },
+  {
+    "Instrument Name": "ProShares UltraShort QQQ",
+    "Exchange": "US",
+    "Ticker": "QID"
+  },
+  {
+    "Instrument Name": "ProShares UltraShort S&P500",
+    "Exchange": "US",
+    "Ticker": "SDS"
+  },
+  {
+    "Instrument Name": "ProShares Vix Short-Term Fut",
+    "Exchange": "US",
+    "Ticker": "VIXY"
+  },
+  {
+    "Instrument Name": "Proto Labs Inc",
+    "Exchange": "US",
+    "Ticker": "PRLB"
+  },
+  {
+    "Instrument Name": "PTP Crestwood Equity Partners LP",
+    "Exchange": "US",
+    "Ticker": "CEQP"
+  },
+  {
+    "Instrument Name": "PTP Energy Transfer LP",
+    "Exchange": "US",
+    "Ticker": "ET"
+  },
+  {
+    "Instrument Name": "PTP Enterprise Products Partners LP",
+    "Exchange": "US",
+    "Ticker": "EPD"
+  },
+  {
+    "Instrument Name": "PTP Magellan Midstream Partners LP",
+    "Exchange": "US",
+    "Ticker": "MMP"
+  },
+  {
+    "Instrument Name": "PTP MPLX LP",
+    "Exchange": "US",
+    "Ticker": "MPLX"
+  },
+  {
+    "Instrument Name": "PubMatic Inc",
+    "Exchange": "US",
+    "Ticker": "PUBM"
+  },
+  {
+    "Instrument Name": "Purple Innovation Inc",
+    "Exchange": "US",
+    "Ticker": "PRPL"
+  },
+  {
+    "Instrument Name": "Qorvo Inc",
+    "Exchange": "US",
+    "Ticker": "QRVO"
+  },
+  {
+    "Instrument Name": "Qualcomm Inc",
+    "Exchange": "US",
+    "Ticker": "QCOM"
+  },
+  {
+    "Instrument Name": "Quanta Services Inc",
+    "Exchange": "US",
+    "Ticker": "PWR"
+  },
+  {
+    "Instrument Name": "Quanterix Corp",
+    "Exchange": "US",
+    "Ticker": "QTRX"
+  },
+  {
+    "Instrument Name": "QuantumScape Corp",
+    "Exchange": "US",
+    "Ticker": "QS"
+  },
+  {
+    "Instrument Name": "Quantum-Si Inc",
+    "Exchange": "US",
+    "Ticker": "QSI"
+  },
+  {
+    "Instrument Name": "QuidelOrtho Corp",
+    "Exchange": "US",
+    "Ticker": "QDEL"
+  },
+  {
+    "Instrument Name": "Qurate Retail Group",
+    "Exchange": "US",
+    "Ticker": "QRTEA"
+  },
+  {
+    "Instrument Name": "Range Resources Corp",
+    "Exchange": "US",
+    "Ticker": "RRC"
+  },
+  {
+    "Instrument Name": "Raytheon Company",
+    "Exchange": "US",
+    "Ticker": "RTN"
+  },
+  {
+    "Instrument Name": "Realty Income Corp",
+    "Exchange": "US",
+    "Ticker": "O"
+  },
+  {
+    "Instrument Name": "Redfin Corp",
+    "Exchange": "US",
+    "Ticker": "RDFN"
+  },
+  {
+    "Instrument Name": "Regency Centers Corp",
+    "Exchange": "US",
+    "Ticker": "REG"
+  },
+  {
+    "Instrument Name": "Regeneron Pharmaceuticals",
+    "Exchange": "US",
+    "Ticker": "REGN"
+  },
+  {
+    "Instrument Name": "Renaissance IPO ETF",
+    "Exchange": "US",
+    "Ticker": "IPO"
+  },
+  {
+    "Instrument Name": "Republic Services Inc",
+    "Exchange": "US",
+    "Ticker": "RSG"
+  },
+  {
+    "Instrument Name": "Revvity, Inc.",
+    "Exchange": "US",
+    "Ticker": "RVTY"
+  },
+  {
+    "Instrument Name": "RH",
+    "Exchange": "US",
+    "Ticker": "RH"
+  },
+  {
+    "Instrument Name": "RingCentral Inc",
+    "Exchange": "US",
+    "Ticker": "RNG"
+  },
+  {
+    "Instrument Name": "Rio Tinto plc ADR",
+    "Exchange": "US",
+    "Ticker": "RIO"
+  },
+  {
+    "Instrument Name": "Riot Platforms, Inc",
+    "Exchange": "US",
+    "Ticker": "RIOT"
+  },
+  {
+    "Instrument Name": "Rivian Automotive Inc",
+    "Exchange": "US",
+    "Ticker": "RIVN"
+  },
+  {
+    "Instrument Name": "Robinhood Markets Inc",
+    "Exchange": "US",
+    "Ticker": "HOOD"
+  },
+  {
+    "Instrument Name": "ROBLOX Corp",
+    "Exchange": "US",
+    "Ticker": "RBLX"
+  },
+  {
+    "Instrument Name": "Rocket Cos Inc",
+    "Exchange": "US",
+    "Ticker": "RKT"
+  },
+  {
+    "Instrument Name": "Rocket Lab USA Inc",
+    "Exchange": "US",
+    "Ticker": "RKLB"
+  },
+  {
+    "Instrument Name": "Rockwell Automation Inc",
+    "Exchange": "US",
+    "Ticker": "ROK"
+  },
+  {
+    "Instrument Name": "Roku Inc",
+    "Exchange": "US",
+    "Ticker": "ROKU"
+  },
+  {
+    "Instrument Name": "Roper Technologies",
+    "Exchange": "US",
+    "Ticker": "ROP"
+  },
+  {
+    "Instrument Name": "Ross Stores Inc",
+    "Exchange": "US",
+    "Ticker": "ROST"
+  },
+  {
+    "Instrument Name": "Roundhill Ball Metaverse ETF",
+    "Exchange": "US",
+    "Ticker": "METV"
+  },
+  {
+    "Instrument Name": "Royal Caribbean Cruises",
+    "Exchange": "US",
+    "Ticker": "RCL"
+  },
+  {
+    "Instrument Name": "Royal Dutch Shell PLC",
+    "Exchange": "US",
+    "Ticker": "RDS.A"
+  },
+  {
+    "Instrument Name": "RTX Corporation",
+    "Exchange": "US",
+    "Ticker": "RTX"
+  },
+  {
+    "Instrument Name": "Rumble Inc",
+    "Exchange": "US",
+    "Ticker": "RUM"
+  },
+  {
+    "Instrument Name": "Russell 3000 Vanguard",
+    "Exchange": "US",
+    "Ticker": "VTHR"
+  },
+  {
+    "Instrument Name": "RXO Inc",
+    "Exchange": "US",
+    "Ticker": "RXO"
+  },
+  {
+    "Instrument Name": "Ryman Hospitality Properties Inc",
+    "Exchange": "US",
+    "Ticker": "RHP"
+  },
+  {
+    "Instrument Name": "S&P Global Inc",
+    "Exchange": "US",
+    "Ticker": "SPGI"
+  },
+  {
+    "Instrument Name": "Safehold Inc",
+    "Exchange": "US",
+    "Ticker": "SAFE"
+  },
+  {
+    "Instrument Name": "Sage Therapeutics",
+    "Exchange": "US",
+    "Ticker": "SAGE"
+  },
+  {
+    "Instrument Name": "Sailpoint Technologies Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "SAIL"
+  },
+  {
+    "Instrument Name": "Salesforce.Com Inc",
+    "Exchange": "US",
+    "Ticker": "CRM"
+  },
+  {
+    "Instrument Name": "Samsara Inc",
+    "Exchange": "US",
+    "Ticker": "IOT"
+  },
+  {
+    "Instrument Name": "Sandoz Group AG",
+    "Exchange": "US",
+    "Ticker": "SDZNY"
+  },
+  {
+    "Instrument Name": "Sanofi",
+    "Exchange": "US",
+    "Ticker": "SNY"
+  },
+  {
+    "Instrument Name": "Sasol Ltd",
+    "Exchange": "US",
+    "Ticker": "SSL"
+  },
+  {
+    "Instrument Name": "Sba Communications Corp",
+    "Exchange": "US",
+    "Ticker": "SBAC"
+  },
+  {
+    "Instrument Name": "Schlumberger Ltd",
+    "Exchange": "US",
+    "Ticker": "SLB"
+  },
+  {
+    "Instrument Name": "Schrodinger Inc",
+    "Exchange": "US",
+    "Ticker": "SDGR"
+  },
+  {
+    "Instrument Name": "Schwab Fundamental Emerging Markets Large Company Index ETF",
+    "Exchange": "US",
+    "Ticker": "FNDE"
+  },
+  {
+    "Instrument Name": "Schwab US Dividend Equity ETF",
+    "Exchange": "US",
+    "Ticker": "SCHD"
+  },
+  {
+    "Instrument Name": "SciPlay Corp",
+    "Exchange": "US",
+    "Ticker": "SCPL"
+  },
+  {
+    "Instrument Name": "Sea Ltd",
+    "Exchange": "US",
+    "Ticker": "SE"
+  },
+  {
+    "Instrument Name": "Seagate Technology",
+    "Exchange": "US",
+    "Ticker": "STX"
+  },
+  {
+    "Instrument Name": "Seagen Inc",
+    "Exchange": "US",
+    "Ticker": "SGEN"
+  },
+  {
+    "Instrument Name": "Seritage Growth Properties",
+    "Exchange": "US",
+    "Ticker": "SRG"
+  },
+  {
+    "Instrument Name": "Service Now Inc",
+    "Exchange": "US",
+    "Ticker": "NOW"
+  },
+  {
+    "Instrument Name": "Shell PLC",
+    "Exchange": "US",
+    "Ticker": "SHEL"
+  },
+  {
+    "Instrument Name": "Sherwin-Williams Co/The",
+    "Exchange": "US",
+    "Ticker": "SHW"
+  },
+  {
+    "Instrument Name": "Shift4 Payments Inc",
+    "Exchange": "US",
+    "Ticker": "FOUR"
+  },
+  {
+    "Instrument Name": "Shopify Inc.",
+    "Exchange": "US",
+    "Ticker": "SHOP"
+  },
+  {
+    "Instrument Name": "Short Emerging Markets MSCI ProShares",
+    "Exchange": "US",
+    "Ticker": "EUM"
+  },
+  {
+    "Instrument Name": "Short QQQ ProShares",
+    "Exchange": "US",
+    "Ticker": "PSQ"
+  },
+  {
+    "Instrument Name": "Short Russell2000 ProShares",
+    "Exchange": "US",
+    "Ticker": "RWM"
+  },
+  {
+    "Instrument Name": "Shutterstock Inc",
+    "Exchange": "US",
+    "Ticker": "SSTK"
+  },
+  {
+    "Instrument Name": "Sibanye Stillwater Ltd",
+    "Exchange": "US",
+    "Ticker": "SBSW"
+  },
+  {
+    "Instrument Name": "Signature Bank/New York NY",
+    "Exchange": "US",
+    "Ticker": "SBNY"
+  },
+  {
+    "Instrument Name": "Simon Property Group Inc",
+    "Exchange": "US",
+    "Ticker": "SPG"
+  },
+  {
+    "Instrument Name": "Siren Nasdaq NexGen Economy ETF",
+    "Exchange": "US",
+    "Ticker": "BLCN"
+  },
+  {
+    "Instrument Name": "Sirius Xm Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "SIRI"
+  },
+  {
+    "Instrument Name": "Skechers USA Inc",
+    "Exchange": "US",
+    "Ticker": "SKX"
+  },
+  {
+    "Instrument Name": "Skillz Inc",
+    "Exchange": "US",
+    "Ticker": "SKLZ"
+  },
+  {
+    "Instrument Name": "Skyline Champion Corp",
+    "Exchange": "US",
+    "Ticker": "SKY"
+  },
+  {
+    "Instrument Name": "Skyworks Solutions Inc",
+    "Exchange": "US",
+    "Ticker": "SWKS"
+  },
+  {
+    "Instrument Name": "Slack Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "WORK"
+  },
+  {
+    "Instrument Name": "Small Cap Growth ETF Vanguard",
+    "Exchange": "US",
+    "Ticker": "VBK"
+  },
+  {
+    "Instrument Name": "Smartsheet Inc",
+    "Exchange": "US",
+    "Ticker": "SMAR"
+  },
+  {
+    "Instrument Name": "Snap Inc",
+    "Exchange": "US",
+    "Ticker": "SNAP"
+  },
+  {
+    "Instrument Name": "SNDL Inc",
+    "Exchange": "US",
+    "Ticker": "SNDL"
+  },
+  {
+    "Instrument Name": "Snowflake Inc",
+    "Exchange": "US",
+    "Ticker": "SNOW"
+  },
+  {
+    "Instrument Name": "Sociedad Quimica y Minera de Chile",
+    "Exchange": "US",
+    "Ticker": "SQM"
+  },
+  {
+    "Instrument Name": "SoFi Technologies",
+    "Exchange": "US",
+    "Ticker": "SOFI"
+  },
+  {
+    "Instrument Name": "SolarEdge Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "SEDG"
+  },
+  {
+    "Instrument Name": "Solid Power Inc",
+    "Exchange": "US",
+    "Ticker": "SLDP"
+  },
+  {
+    "Instrument Name": "Sonos Inc",
+    "Exchange": "US",
+    "Ticker": "SONO"
+  },
+  {
+    "Instrument Name": "Sony Group Corporation",
+    "Exchange": "US",
+    "Ticker": "SONY"
+  },
+  {
+    "Instrument Name": "SOS Ltd",
+    "Exchange": "US",
+    "Ticker": "SOS"
+  },
+  {
+    "Instrument Name": "Southern Co/The",
+    "Exchange": "US",
+    "Ticker": "SO"
+  },
+  {
+    "Instrument Name": "Southern Copper Corp",
+    "Exchange": "US",
+    "Ticker": "SCCO"
+  },
+  {
+    "Instrument Name": "Southwest Airlines Co.",
+    "Exchange": "US",
+    "Ticker": "LUV"
+  },
+  {
+    "Instrument Name": "Southwestern Energy Company",
+    "Exchange": "US",
+    "Ticker": "SWN"
+  },
+  {
+    "Instrument Name": "SPDR Gold Shares",
+    "Exchange": "US",
+    "Ticker": "GLD"
+  },
+  {
+    "Instrument Name": "SPDR S&P 500 ETF Trust",
+    "Exchange": "US",
+    "Ticker": "SPY"
+  },
+  {
+    "Instrument Name": "SPDR S&P Biotech ETF",
+    "Exchange": "US",
+    "Ticker": "XBI"
+  },
+  {
+    "Instrument Name": "SPDR S&P Emerging Markets SmallCap ETF",
+    "Exchange": "US",
+    "Ticker": "EWX"
+  },
+  {
+    "Instrument Name": "Spdr S&P Homebuilders ETF",
+    "Exchange": "US",
+    "Ticker": "XHB"
+  },
+  {
+    "Instrument Name": "SPDR S&P Semiconductor ETF",
+    "Exchange": "US",
+    "Ticker": "XSD"
+  },
+  {
+    "Instrument Name": "Spirit AeroSystems Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "SPR"
+  },
+  {
+    "Instrument Name": "Splunk Inc",
+    "Exchange": "US",
+    "Ticker": "SPLK"
+  },
+  {
+    "Instrument Name": "Sportradar Holding AG",
+    "Exchange": "US",
+    "Ticker": "SRAD"
+  },
+  {
+    "Instrument Name": "Spotify Technology SA",
+    "Exchange": "US",
+    "Ticker": "SPOT"
+  },
+  {
+    "Instrument Name": "Sprott Uranium Miners ETF",
+    "Exchange": "US",
+    "Ticker": "URNM"
+  },
+  {
+    "Instrument Name": "Sprout Social Inc",
+    "Exchange": "US",
+    "Ticker": "SPT"
+  },
+  {
+    "Instrument Name": "Squarespace Inc",
+    "Exchange": "US",
+    "Ticker": "SQSP"
+  },
+  {
+    "Instrument Name": "STAG Industrial Inc",
+    "Exchange": "US",
+    "Ticker": "STAG"
+  },
+  {
+    "Instrument Name": "Stanley-Black & Decker",
+    "Exchange": "US",
+    "Ticker": "SWK"
+  },
+  {
+    "Instrument Name": "Star Bulk Carriers Corp",
+    "Exchange": "US",
+    "Ticker": "SBLK"
+  },
+  {
+    "Instrument Name": "Star Peak Energy Transition Corp",
+    "Exchange": "US",
+    "Ticker": "STPK"
+  },
+  {
+    "Instrument Name": "Starbucks Corp",
+    "Exchange": "US",
+    "Ticker": "SBUX"
+  },
+  {
+    "Instrument Name": "Stellantis NV",
+    "Exchange": "US",
+    "Ticker": "STLA"
+  },
+  {
+    "Instrument Name": "Stem Inc",
+    "Exchange": "US",
+    "Ticker": "STEM"
+  },
+  {
+    "Instrument Name": "Stitch Fix Inc",
+    "Exchange": "US",
+    "Ticker": "SFIX"
+  },
+  {
+    "Instrument Name": "STMicroelectronics NV",
+    "Exchange": "US",
+    "Ticker": "STM"
+  },
+  {
+    "Instrument Name": "StoneCo Ltd",
+    "Exchange": "US",
+    "Ticker": "STNE"
+  },
+  {
+    "Instrument Name": "Stratasys Ltd",
+    "Exchange": "US",
+    "Ticker": "SSYS"
+  },
+  {
+    "Instrument Name": "Stride Inc",
+    "Exchange": "US",
+    "Ticker": "LRN"
+  },
+  {
+    "Instrument Name": "Stryker Corp",
+    "Exchange": "US",
+    "Ticker": "SYK"
+  },
+  {
+    "Instrument Name": "Suncor Energy Inc",
+    "Exchange": "US",
+    "Ticker": "SU"
+  },
+  {
+    "Instrument Name": "SunPower Corp",
+    "Exchange": "US",
+    "Ticker": "SPWR"
+  },
+  {
+    "Instrument Name": "Sunrun Inc",
+    "Exchange": "US",
+    "Ticker": "RUN"
+  },
+  {
+    "Instrument Name": "Super Group SGHC Ltd",
+    "Exchange": "US",
+    "Ticker": "SGHC"
+  },
+  {
+    "Instrument Name": "Supernus Pharmaceuticals",
+    "Exchange": "US",
+    "Ticker": "SUPN"
+  },
+  {
+    "Instrument Name": "SVB Financial Group",
+    "Exchange": "US",
+    "Ticker": "SIVB"
+  },
+  {
+    "Instrument Name": "SVB Financial Group OTC",
+    "Exchange": "US",
+    "Ticker": "SIVBQ"
+  },
+  {
+    "Instrument Name": "Switchback Energy Acquisition Corp",
+    "Exchange": "US",
+    "Ticker": "SBE"
+  },
+  {
+    "Instrument Name": "Synchrony Financial",
+    "Exchange": "US",
+    "Ticker": "SYF"
+  },
+  {
+    "Instrument Name": "Synopsys Inc",
+    "Exchange": "US",
+    "Ticker": "SNPS"
+  },
+  {
+    "Instrument Name": "T. Rowe Price Group",
+    "Exchange": "US",
+    "Ticker": "TROW"
+  },
+  {
+    "Instrument Name": "Taiwan Semiconductor Manufacturing Co Ltd",
+    "Exchange": "US",
+    "Ticker": "TSM"
+  },
+  {
+    "Instrument Name": "Takeda Pharmaceutical Co Ltd",
+    "Exchange": "US",
+    "Ticker": "TAK"
+  },
+  {
+    "Instrument Name": "Take-Two Interactive Software Inc",
+    "Exchange": "US",
+    "Ticker": "TTWO"
+  },
+  {
+    "Instrument Name": "Tapestry Inc",
+    "Exchange": "US",
+    "Ticker": "TPR"
+  },
+  {
+    "Instrument Name": "Target Corp",
+    "Exchange": "US",
+    "Ticker": "TGT"
+  },
+  {
+    "Instrument Name": "Tattooed Chef Inc",
+    "Exchange": "US",
+    "Ticker": "TTCF"
+  },
+  {
+    "Instrument Name": "Teck Resources Ltd",
+    "Exchange": "US",
+    "Ticker": "TECK"
+  },
+  {
+    "Instrument Name": "Teladoc Health Inc",
+    "Exchange": "US",
+    "Ticker": "TDOC"
+  },
+  {
+    "Instrument Name": "Tellurian Inc",
+    "Exchange": "US",
+    "Ticker": "TELL"
+  },
+  {
+    "Instrument Name": "Telos Corp",
+    "Exchange": "US",
+    "Ticker": "TLS"
+  },
+  {
+    "Instrument Name": "Tempo Automation Holdings, Inc",
+    "Exchange": "US",
+    "Ticker": "TMPOQ"
+  },
+  {
+    "Instrument Name": "Tempo Automation Holdings, Inc - OLD",
+    "Exchange": "US",
+    "Ticker": "TMPO"
+  },
+  {
+    "Instrument Name": "Tenable Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "TENB"
+  },
+  {
+    "Instrument Name": "Tencent Music Entertainment",
+    "Exchange": "US",
+    "Ticker": "TME"
+  },
+  {
+    "Instrument Name": "Tesla Inc",
+    "Exchange": "US",
+    "Ticker": "TSLA"
+  },
+  {
+    "Instrument Name": "Texas Instruments Inc",
+    "Exchange": "US",
+    "Ticker": "TXN"
+  },
+  {
+    "Instrument Name": "The Cigna Group",
+    "Exchange": "US",
+    "Ticker": "CI"
+  },
+  {
+    "Instrument Name": "The United States Natural Gas ETF",
+    "Exchange": "US",
+    "Ticker": "UNG"
+  },
+  {
+    "Instrument Name": "Thermo Fisher",
+    "Exchange": "US",
+    "Ticker": "TMO"
+  },
+  {
+    "Instrument Name": "Thor Industries Inc",
+    "Exchange": "US",
+    "Ticker": "THO"
+  },
+  {
+    "Instrument Name": "Tilray Inc",
+    "Exchange": "US",
+    "Ticker": "TLRY"
+  },
+  {
+    "Instrument Name": "Tivity Health Inc",
+    "Exchange": "US",
+    "Ticker": "TVTY"
+  },
+  {
+    "Instrument Name": "TKO Group holdings",
+    "Exchange": "US",
+    "Ticker": "TKO"
+  },
+  {
+    "Instrument Name": "T-Mobile Us Inc",
+    "Exchange": "US",
+    "Ticker": "TMUS"
+  },
+  {
+    "Instrument Name": "Topgolf Callaway Brands Corp.",
+    "Exchange": "US",
+    "Ticker": "MODG"
+  },
+  {
+    "Instrument Name": "Toro Co/The",
+    "Exchange": "US",
+    "Ticker": "TTC"
+  },
+  {
+    "Instrument Name": "Toro Corp",
+    "Exchange": "US",
+    "Ticker": "TORO"
+  },
+  {
+    "Instrument Name": "Toyota Motor Corp",
+    "Exchange": "US",
+    "Ticker": "TM"
+  },
+  {
+    "Instrument Name": "TPI Composites Inc",
+    "Exchange": "US",
+    "Ticker": "TPIC"
+  },
+  {
+    "Instrument Name": "Tractor Supply Company",
+    "Exchange": "US",
+    "Ticker": "TSCO"
+  },
+  {
+    "Instrument Name": "Trade Desk Inc - A Equity",
+    "Exchange": "US",
+    "Ticker": "TTD"
+  },
+  {
+    "Instrument Name": "TransDigm Group Incorporated",
+    "Exchange": "US",
+    "Ticker": "TDG"
+  },
+  {
+    "Instrument Name": "TransMedics Group Inc",
+    "Exchange": "US",
+    "Ticker": "TMDX"
+  },
+  {
+    "Instrument Name": "Travelers Cos Inc/The",
+    "Exchange": "US",
+    "Ticker": "TRV"
+  },
+  {
+    "Instrument Name": "Trex Co Inc",
+    "Exchange": "US",
+    "Ticker": "TREX"
+  },
+  {
+    "Instrument Name": "Trimble Inc",
+    "Exchange": "US",
+    "Ticker": "TRMB"
+  },
+  {
+    "Instrument Name": "Trip.com Group Limited",
+    "Exchange": "US",
+    "Ticker": "TCOM"
+  },
+  {
+    "Instrument Name": "Tripadvisor Inc",
+    "Exchange": "US",
+    "Ticker": "TRIP"
+  },
+  {
+    "Instrument Name": "Trivago NV",
+    "Exchange": "US",
+    "Ticker": "TRVG"
+  },
+  {
+    "Instrument Name": "Turtle Beach Corp",
+    "Exchange": "US",
+    "Ticker": "HEAR"
+  },
+  {
+    "Instrument Name": "Twilio",
+    "Exchange": "US",
+    "Ticker": "TWLO"
+  },
+  {
+    "Instrument Name": "Twist Bioscience Corp",
+    "Exchange": "US",
+    "Ticker": "TWST"
+  },
+  {
+    "Instrument Name": "Twitter Inc",
+    "Exchange": "US",
+    "Ticker": "TWTR"
+  },
+  {
+    "Instrument Name": "U.S. Total Stock Market Index Vanguard",
+    "Exchange": "US",
+    "Ticker": "VTI"
+  },
+  {
+    "Instrument Name": "Uber Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "UBER"
+  },
+  {
+    "Instrument Name": "Ubiquiti Inc",
+    "Exchange": "US",
+    "Ticker": "UI"
+  },
+  {
+    "Instrument Name": "UBS Group AG",
+    "Exchange": "US",
+    "Ticker": "UBS"
+  },
+  {
+    "Instrument Name": "UiPath Inc",
+    "Exchange": "US",
+    "Ticker": "PATH"
+  },
+  {
+    "Instrument Name": "Ulta Beauty Inc",
+    "Exchange": "US",
+    "Ticker": "ULTA"
+  },
+  {
+    "Instrument Name": "Ultra Clean Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "UCTT"
+  },
+  {
+    "Instrument Name": "Under Armour Inc",
+    "Exchange": "US",
+    "Ticker": "UAA"
+  },
+  {
+    "Instrument Name": "Unilever NV",
+    "Exchange": "US",
+    "Ticker": "UN"
+  },
+  {
+    "Instrument Name": "Unilever PLC",
+    "Exchange": "US",
+    "Ticker": "UL"
+  },
+  {
+    "Instrument Name": "Union Pacific Corp",
+    "Exchange": "US",
+    "Ticker": "UNP"
+  },
+  {
+    "Instrument Name": "uniQure NV",
+    "Exchange": "US",
+    "Ticker": "QURE"
+  },
+  {
+    "Instrument Name": "United Microelectronics Corp",
+    "Exchange": "US",
+    "Ticker": "UMC"
+  },
+  {
+    "Instrument Name": "United Parcel Service-Cl B",
+    "Exchange": "US",
+    "Ticker": "UPS"
+  },
+  {
+    "Instrument Name": "United States Oil Fund LP",
+    "Exchange": "US",
+    "Ticker": "USO"
+  },
+  {
+    "Instrument Name": "United States Steel Corporation",
+    "Exchange": "US",
+    "Ticker": "X"
+  },
+  {
+    "Instrument Name": "Unitedhealth Group Inc",
+    "Exchange": "US",
+    "Ticker": "UNH"
+  },
+  {
+    "Instrument Name": "Unity Software",
+    "Exchange": "US",
+    "Ticker": "U"
+  },
+  {
+    "Instrument Name": "Up Fintech Holding Ltd",
+    "Exchange": "US",
+    "Ticker": "TIGR"
+  },
+  {
+    "Instrument Name": "Upstart Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "UPST"
+  },
+  {
+    "Instrument Name": "Uranium Energy Corp",
+    "Exchange": "US",
+    "Ticker": "UEC"
+  },
+  {
+    "Instrument Name": "Urstadt Biddle Properties Inc",
+    "Exchange": "US",
+    "Ticker": "UBA"
+  },
+  {
+    "Instrument Name": "Us Bancorp",
+    "Exchange": "US",
+    "Ticker": "USB"
+  },
+  {
+    "Instrument Name": "US Concrete Inc",
+    "Exchange": "US",
+    "Ticker": "USCR"
+  },
+  {
+    "Instrument Name": "Vale SA",
+    "Exchange": "US",
+    "Ticker": "VALE"
+  },
+  {
+    "Instrument Name": "VanEck Junior Gold Miners ETF",
+    "Exchange": "US",
+    "Ticker": "GDXJ"
+  },
+  {
+    "Instrument Name": "VanEck Oil Services ETF",
+    "Exchange": "US",
+    "Ticker": "OIH"
+  },
+  {
+    "Instrument Name": "VanEck Vectors Gold Miners ETF",
+    "Exchange": "US",
+    "Ticker": "GDX"
+  },
+  {
+    "Instrument Name": "VanEck Vectors Rare Earth/Strategic Metals ETF",
+    "Exchange": "US",
+    "Ticker": "REMX"
+  },
+  {
+    "Instrument Name": "VanEck Vectors Semiconductor ETF",
+    "Exchange": "US",
+    "Ticker": "SMH"
+  },
+  {
+    "Instrument Name": "VanEck Vectors Social Sentiment ETF",
+    "Exchange": "US",
+    "Ticker": "BUZZ"
+  },
+  {
+    "Instrument Name": "VanEck Vectors Video Gaming and eSports ETF",
+    "Exchange": "US",
+    "Ticker": "ESPO"
+  },
+  {
+    "Instrument Name": "Vanguard Extended Market ETF",
+    "Exchange": "US",
+    "Ticker": "VXF"
+  },
+  {
+    "Instrument Name": "Vanguard Financials ETF",
+    "Exchange": "US",
+    "Ticker": "VFH"
+  },
+  {
+    "Instrument Name": "Vanguard FTSE All World ex-US Small-Cap ETF",
+    "Exchange": "US",
+    "Ticker": "VSS"
+  },
+  {
+    "Instrument Name": "Vanguard FTSE All-World ex-US ETF",
+    "Exchange": "US",
+    "Ticker": "VEU"
+  },
+  {
+    "Instrument Name": "Vanguard FTSE Developed Markets ETF",
+    "Exchange": "US",
+    "Ticker": "VEA"
+  },
+  {
+    "Instrument Name": "Vanguard Ftse Emerging Market ETF",
+    "Exchange": "US",
+    "Ticker": "VWO"
+  },
+  {
+    "Instrument Name": "Vanguard Global ex-US Real Estate ETF",
+    "Exchange": "US",
+    "Ticker": "VNQI"
+  },
+  {
+    "Instrument Name": "Vanguard Growth ETF",
+    "Exchange": "US",
+    "Ticker": "VUG"
+  },
+  {
+    "Instrument Name": "Vanguard High Dividend Yield ETF",
+    "Exchange": "US",
+    "Ticker": "VYM"
+  },
+  {
+    "Instrument Name": "Vanguard Information Technology ETF",
+    "Exchange": "US",
+    "Ticker": "VGT"
+  },
+  {
+    "Instrument Name": "Vanguard Intermediate-Term Treasury ETF",
+    "Exchange": "US",
+    "Ticker": "VGIT"
+  },
+  {
+    "Instrument Name": "Vanguard Large-Cap ETF",
+    "Exchange": "US",
+    "Ticker": "VV"
+  },
+  {
+    "Instrument Name": "Vanguard Mega Cap Growth ETF",
+    "Exchange": "US",
+    "Ticker": "MGK"
+  },
+  {
+    "Instrument Name": "Vanguard Mid-Cap ETF",
+    "Exchange": "US",
+    "Ticker": "VO"
+  },
+  {
+    "Instrument Name": "Vanguard Mid-Cap Value Index Fund ETF",
+    "Exchange": "US",
+    "Ticker": "VOE"
+  },
+  {
+    "Instrument Name": "Vanguard Reit ETF",
+    "Exchange": "US",
+    "Ticker": "VNQ"
+  },
+  {
+    "Instrument Name": "Vanguard Russell 1000 Growth ETF",
+    "Exchange": "US",
+    "Ticker": "VONG"
+  },
+  {
+    "Instrument Name": "Vanguard S&P 500 ETF",
+    "Exchange": "US",
+    "Ticker": "VOO"
+  },
+  {
+    "Instrument Name": "Vanguard S&P 500 Growth ETF",
+    "Exchange": "US",
+    "Ticker": "VOOG"
+  },
+  {
+    "Instrument Name": "Vanguard S&P Small-Cap 600 ETF",
+    "Exchange": "US",
+    "Ticker": "VIOO"
+  },
+  {
+    "Instrument Name": "Vanguard S&P Small-Cap 600 Value ETF",
+    "Exchange": "US",
+    "Ticker": "VIOV"
+  },
+  {
+    "Instrument Name": "Vanguard Short-Term Bond ETF",
+    "Exchange": "US",
+    "Ticker": "BSV"
+  },
+  {
+    "Instrument Name": "Vanguard Short-Term Treasury ETF",
+    "Exchange": "US",
+    "Ticker": "VGSH"
+  },
+  {
+    "Instrument Name": "Vanguard Small-Cap ETF",
+    "Exchange": "US",
+    "Ticker": "VB"
+  },
+  {
+    "Instrument Name": "Vanguard Small-Cap Value Index Fund ETF",
+    "Exchange": "US",
+    "Ticker": "VBR"
+  },
+  {
+    "Instrument Name": "Vanguard Tot World Stk ETF",
+    "Exchange": "US",
+    "Ticker": "VT"
+  },
+  {
+    "Instrument Name": "Vanguard Total Bond Market ETF",
+    "Exchange": "US",
+    "Ticker": "BND"
+  },
+  {
+    "Instrument Name": "Vanguard Total International Stock ETF",
+    "Exchange": "US",
+    "Ticker": "VXUS"
+  },
+  {
+    "Instrument Name": "Vanguard Total Intl Bond ETF",
+    "Exchange": "US",
+    "Ticker": "BNDX"
+  },
+  {
+    "Instrument Name": "Vanguard Value ETF",
+    "Exchange": "US",
+    "Ticker": "VTV"
+  },
+  {
+    "Instrument Name": "Vector Acquisition Corp",
+    "Exchange": "US",
+    "Ticker": "VACQ"
+  },
+  {
+    "Instrument Name": "VEEVA SYSTEMS INC-CLASS A",
+    "Exchange": "US",
+    "Ticker": "VEEV"
+  },
+  {
+    "Instrument Name": "Veralto Corp",
+    "Exchange": "US",
+    "Ticker": "VLTO"
+  },
+  {
+    "Instrument Name": "Vericel Corp",
+    "Exchange": "US",
+    "Ticker": "VCEL"
+  },
+  {
+    "Instrument Name": "Verisk Analytics Inc",
+    "Exchange": "US",
+    "Ticker": "VRSK"
+  },
+  {
+    "Instrument Name": "Verizon Communications Inc",
+    "Exchange": "US",
+    "Ticker": "VZ"
+  },
+  {
+    "Instrument Name": "Vertex Pharmaceuticals Inc",
+    "Exchange": "US",
+    "Ticker": "VRTX"
+  },
+  {
+    "Instrument Name": "ViacomCBS Inc",
+    "Exchange": "US",
+    "Ticker": "VIAC"
+  },
+  {
+    "Instrument Name": "Viatris Inc",
+    "Exchange": "US",
+    "Ticker": "VTRS"
+  },
+  {
+    "Instrument Name": "Vipshop Holdings Ltd",
+    "Exchange": "US",
+    "Ticker": "VIPS"
+  },
+  {
+    "Instrument Name": "Virgin Galactic Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "SPCE"
+  },
+  {
+    "Instrument Name": "Visa Inc-Class A Shares",
+    "Exchange": "US",
+    "Ticker": "V"
+  },
+  {
+    "Instrument Name": "VMWARE INC-CLASS A",
+    "Exchange": "US",
+    "Ticker": "VMW"
+  },
+  {
+    "Instrument Name": "Vodafone Group Plc-Sp Adr",
+    "Exchange": "US",
+    "Ticker": "VOD"
+  },
+  {
+    "Instrument Name": "Vontier Corp",
+    "Exchange": "US",
+    "Ticker": "VNT"
+  },
+  {
+    "Instrument Name": "Vuzix Corp",
+    "Exchange": "US",
+    "Ticker": "VUZI"
+  },
+  {
+    "Instrument Name": "Walgreens Boots Alliance Inc",
+    "Exchange": "US",
+    "Ticker": "WBA"
+  },
+  {
+    "Instrument Name": "Walker & Dunlop Inc",
+    "Exchange": "US",
+    "Ticker": "WD"
+  },
+  {
+    "Instrument Name": "Wal-Mart Stores Inc",
+    "Exchange": "US",
+    "Ticker": "WMT"
+  },
+  {
+    "Instrument Name": "Walt Disney Co/The",
+    "Exchange": "US",
+    "Ticker": "DIS"
+  },
+  {
+    "Instrument Name": "Warner Bros Discovery Inc",
+    "Exchange": "US",
+    "Ticker": "WBD"
+  },
+  {
+    "Instrument Name": "Warner Music Group Corp",
+    "Exchange": "US",
+    "Ticker": "WMG"
+  },
+  {
+    "Instrument Name": "Waste Management Inc",
+    "Exchange": "US",
+    "Ticker": "WM"
+  },
+  {
+    "Instrument Name": "WEIBO CORP-SPON ADR",
+    "Exchange": "US",
+    "Ticker": "WB"
+  },
+  {
+    "Instrument Name": "Wells Fargo & Co",
+    "Exchange": "US",
+    "Ticker": "WFC"
+  },
+  {
+    "Instrument Name": "Western Digital Corp",
+    "Exchange": "US",
+    "Ticker": "WDC"
+  },
+  {
+    "Instrument Name": "Westinghouse Air Brake Technologies Corp",
+    "Exchange": "US",
+    "Ticker": "WAB"
+  },
+  {
+    "Instrument Name": "Wheaton Precious Metals Corp",
+    "Exchange": "US",
+    "Ticker": "WPM"
+  },
+  {
+    "Instrument Name": "Williams Cos Inc/The",
+    "Exchange": "US",
+    "Ticker": "WMB"
+  },
+  {
+    "Instrument Name": "WisdomTree Cloud Computing Fund",
+    "Exchange": "US",
+    "Ticker": "WCLD"
+  },
+  {
+    "Instrument Name": "WisdomTree International SmallCap Dividend Fund",
+    "Exchange": "US",
+    "Ticker": "DLS"
+  },
+  {
+    "Instrument Name": "Wix.com Ltd Equity",
+    "Exchange": "US",
+    "Ticker": "WIX"
+  },
+  {
+    "Instrument Name": "WK Kellogg Co",
+    "Exchange": "US",
+    "Ticker": "KLG"
+  },
+  {
+    "Instrument Name": "WNS HOLDINGS LTD SPONS ADR EA REPR 1 ORD SHS",
+    "Exchange": "US",
+    "Ticker": "WNS"
+  },
+  {
+    "Instrument Name": "Wolfspeed, Inc",
+    "Exchange": "US",
+    "Ticker": "WOLF"
+  },
+  {
+    "Instrument Name": "Woodside Energy Group Ltd",
+    "Exchange": "US",
+    "Ticker": "WDS"
+  },
+  {
+    "Instrument Name": "Workday Inc-Class A",
+    "Exchange": "US",
+    "Ticker": "WDAY"
+  },
+  {
+    "Instrument Name": "Workhorse Group Inc",
+    "Exchange": "US",
+    "Ticker": "WKHS"
+  },
+  {
+    "Instrument Name": "World Wrestling Entertainment Inc",
+    "Exchange": "US",
+    "Ticker": "WWE"
+  },
+  {
+    "Instrument Name": "Wrap Technologies Inc",
+    "Exchange": "US",
+    "Ticker": "WRAP"
+  },
+  {
+    "Instrument Name": "WW Grainger Inc",
+    "Exchange": "US",
+    "Ticker": "GWW"
+  },
+  {
+    "Instrument Name": "Wynn Resorts Ltd",
+    "Exchange": "US",
+    "Ticker": "WYNN"
+  },
+  {
+    "Instrument Name": "Xencor Inc",
+    "Exchange": "US",
+    "Ticker": "XNCR"
+  },
+  {
+    "Instrument Name": "Xilinx Inc",
+    "Exchange": "US",
+    "Ticker": "XLNX"
+  },
+  {
+    "Instrument Name": "Xpeng Inc",
+    "Exchange": "US",
+    "Ticker": "XPEV"
+  },
+  {
+    "Instrument Name": "XPO Logistics Inc",
+    "Exchange": "US",
+    "Ticker": "XPO"
+  },
+  {
+    "Instrument Name": "YETI Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "YETI"
+  },
+  {
+    "Instrument Name": "Youdao Inc",
+    "Exchange": "US",
+    "Ticker": "DAO"
+  },
+  {
+    "Instrument Name": "Yum Brands",
+    "Exchange": "US",
+    "Ticker": "YUM"
+  },
+  {
+    "Instrument Name": "Zebra Technologies Corp",
+    "Exchange": "US",
+    "Ticker": "ZBRA"
+  },
+  {
+    "Instrument Name": "Zendesk Inc",
+    "Exchange": "US",
+    "Ticker": "ZEN"
+  },
+  {
+    "Instrument Name": "Zillow Group Inc",
+    "Exchange": "US",
+    "Ticker": "Z"
+  },
+  {
+    "Instrument Name": "Zimmer Biomet Holdings Inc",
+    "Exchange": "US",
+    "Ticker": "ZBH"
+  },
+  {
+    "Instrument Name": "Zimvie Inc",
+    "Exchange": "US",
+    "Ticker": "ZIMV"
+  },
+  {
+    "Instrument Name": "Zoetis Inc",
+    "Exchange": "US",
+    "Ticker": "ZTS"
+  },
+  {
+    "Instrument Name": "Zoom Video Communications Inc",
+    "Exchange": "US",
+    "Ticker": "ZM"
+  },
+  {
+    "Instrument Name": "Zscaler Inc",
+    "Exchange": "US",
+    "Ticker": "ZS"
+  },
+  {
+    "Instrument Name": "ZYNGA",
+    "Exchange": "US",
+    "Ticker": "ZNGA"
+  }
+]

@@ -1,0 +1,5157 @@
+[
+  {
+    "Instrument Name": "10X All Asia Actively Managed Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "APACXJ"
+  },
+  {
+    "Instrument Name": "10X DivTrax Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DIVTRX"
+  },
+  {
+    "Instrument Name": "10X Income Actively Managed Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "INCOME"
+  },
+  {
+    "Instrument Name": "10X S&P 500 Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CSP500"
+  },
+  {
+    "Instrument Name": "10X S&P Global Dividend Aristocrats Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GLODIV"
+  },
+  {
+    "Instrument Name": "10X S&P Global Property Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GLPROP"
+  },
+  {
+    "Instrument Name": "10X S&P South Africa Top50 Index Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CTOP50"
+  },
+  {
+    "Instrument Name": "10X Scientific Beta Multi Factor Index Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SMART"
+  },
+  {
+    "Instrument Name": "10X South African Property Income Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CSPROP"
+  },
+  {
+    "Instrument Name": "10X Total World Stock Feeder Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GLOBAL"
+  },
+  {
+    "Instrument Name": "10X Wealth GOVI Bond Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CSGOVI"
+  },
+  {
+    "Instrument Name": "10X Wealth Next40 Equal Weighted ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "WNXT40"
+  },
+  {
+    "Instrument Name": "10X Wealth Top20 Capped ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "WTOP20"
+  },
+  {
+    "Instrument Name": "10X Yield Selected Bond Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CSYSB"
+  },
+  {
+    "Instrument Name": "1nvest Global Government Bond Index Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFGGB"
+  },
+  {
+    "Instrument Name": "1nvest Global REIT Index Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFGRE"
+  },
+  {
+    "Instrument Name": "1nvest ICE US Treasury Short Bond Index Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFUSD"
+  },
+  {
+    "Instrument Name": "1nvest MSCI EM Asia Index Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFEMA"
+  },
+  {
+    "Instrument Name": "1nvest MSCI World Index Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFWLD"
+  },
+  {
+    "Instrument Name": "1NVEST MSCI World Socially Responsible Investment Index Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFSRI"
+  },
+  {
+    "Instrument Name": "1nvest S&P500 Index Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETF500"
+  },
+  {
+    "Instrument Name": "1nvest S&P500 Info Tech Index Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETF5IT"
+  },
+  {
+    "Instrument Name": "1nvest SA Bond ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFBND"
+  },
+  {
+    "Instrument Name": "1nvest SA Property ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFSAP"
+  },
+  {
+    "Instrument Name": "1nvest SWIX 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFSWX"
+  },
+  {
+    "Instrument Name": "1nvest TOP 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFT40"
+  },
+  {
+    "Instrument Name": "1nvestGold ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFGLD"
+  },
+  {
+    "Instrument Name": "1nvestPalladium ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFPLD"
+  },
+  {
+    "Instrument Name": "1nvestPlatinum ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFPLT"
+  },
+  {
+    "Instrument Name": "1nvestRhodium ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ETFRHO"
+  },
+  {
+    "Instrument Name": "1time Holdings Ltd",
+    "Exchange": "JSE",
+    "Ticker": "1TM"
+  },
+  {
+    "Instrument Name": "2YR Dollar Custodial Certificates",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DCCUS2"
+  },
+  {
+    "Instrument Name": "4Sight Holdings",
+    "Exchange": "JSE",
+    "Ticker": "4SI"
+  },
+  {
+    "Instrument Name": "ABSA Bank Limited Pref",
+    "Exchange": "JSE",
+    "Ticker": "ABSP"
+  },
+  {
+    "Instrument Name": "Absa Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "ABG"
+  },
+  {
+    "Instrument Name": "Accelerate Property Fund",
+    "Exchange": "JSE",
+    "Ticker": "APF"
+  },
+  {
+    "Instrument Name": "Accelerate Property Fund Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "UAPF"
+  },
+  {
+    "Instrument Name": "Accelerate Property Fund LOA",
+    "Exchange": "JSE",
+    "Ticker": "APFN"
+  },
+  {
+    "Instrument Name": "Accentuate Limited",
+    "Exchange": "JSE",
+    "Ticker": "ACE"
+  },
+  {
+    "Instrument Name": "Acsion Limited",
+    "Exchange": "JSE",
+    "Ticker": "ACS"
+  },
+  {
+    "Instrument Name": "Acucap Properties Limited",
+    "Exchange": "JSE",
+    "Ticker": "ACP"
+  },
+  {
+    "Instrument Name": "Adapt IT Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "ADI"
+  },
+  {
+    "Instrument Name": "ADBEE Rf Limited",
+    "Exchange": "JSE",
+    "Ticker": "ADE"
+  },
+  {
+    "Instrument Name": "Adcock Ingram Holding Limited - Option",
+    "Exchange": "JSE",
+    "Ticker": "ADEO"
+  },
+  {
+    "Instrument Name": "Adcock Ingram Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "AIP"
+  },
+  {
+    "Instrument Name": "Adcorp Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "ADR"
+  },
+  {
+    "Instrument Name": "Adrenna Property Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "ANA"
+  },
+  {
+    "Instrument Name": "Advanced Healthcare",
+    "Exchange": "JSE",
+    "Ticker": "AVL"
+  },
+  {
+    "Instrument Name": "Advanced Healthcare Rights",
+    "Exchange": "JSE",
+    "Ticker": "AVLN"
+  },
+  {
+    "Instrument Name": "Advtech Limited",
+    "Exchange": "JSE",
+    "Ticker": "ADH"
+  },
+  {
+    "Instrument Name": "Advtech Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "ADHN"
+  },
+  {
+    "Instrument Name": "AECI Limited",
+    "Exchange": "JSE",
+    "Ticker": "AFE"
+  },
+  {
+    "Instrument Name": "Afgri Limited",
+    "Exchange": "JSE",
+    "Ticker": "AFR"
+  },
+  {
+    "Instrument Name": "Afine Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "ANI"
+  },
+  {
+    "Instrument Name": "Africa Cellular Towers Limited",
+    "Exchange": "JSE",
+    "Ticker": "ATR"
+  },
+  {
+    "Instrument Name": "African & Overseas Enterprises Limited",
+    "Exchange": "JSE",
+    "Ticker": "AOO"
+  },
+  {
+    "Instrument Name": "African Bank Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "ABL"
+  },
+  {
+    "Instrument Name": "African Dawn Capital Limited",
+    "Exchange": "JSE",
+    "Ticker": "ADW"
+  },
+  {
+    "Instrument Name": "African Eagle Resources PLC",
+    "Exchange": "JSE",
+    "Ticker": "AEA"
+  },
+  {
+    "Instrument Name": "African Energy",
+    "Exchange": "JSE",
+    "Ticker": "AEY"
+  },
+  {
+    "Instrument Name": "African Equity Empowerment Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "AEE"
+  },
+  {
+    "Instrument Name": "African Media Entertainment Limited",
+    "Exchange": "JSE",
+    "Ticker": "AME"
+  },
+  {
+    "Instrument Name": "African Oxygen Limited",
+    "Exchange": "JSE",
+    "Ticker": "AFX"
+  },
+  {
+    "Instrument Name": "African Phoenix Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "AXL"
+  },
+  {
+    "Instrument Name": "African Phoenix Investments Limited Pref",
+    "Exchange": "JSE",
+    "Ticker": "AXLP"
+  },
+  {
+    "Instrument Name": "AFRICAN RAINBOW CAPITAL INVESTMENTS Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "AILN"
+  },
+  {
+    "Instrument Name": "African Rainbow Capital Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "AIL"
+  },
+  {
+    "Instrument Name": "African Rainbow Mineral Limited",
+    "Exchange": "JSE",
+    "Ticker": "ARI"
+  },
+  {
+    "Instrument Name": "Afrimat Limited",
+    "Exchange": "JSE",
+    "Ticker": "AFT"
+  },
+  {
+    "Instrument Name": "Afristrat Investment Holdings",
+    "Exchange": "JSE",
+    "Ticker": "ATI"
+  },
+  {
+    "Instrument Name": "AfroCentric Investment Corporation Limited",
+    "Exchange": "JSE",
+    "Ticker": "ACT"
+  },
+  {
+    "Instrument Name": "AH Vest Limited",
+    "Exchange": "JSE",
+    "Ticker": "AHL"
+  },
+  {
+    "Instrument Name": "Alaris Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "ALH"
+  },
+  {
+    "Instrument Name": "Alert Steel Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "AET"
+  },
+  {
+    "Instrument Name": "Alex Forbes Eq Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "AFP"
+  },
+  {
+    "Instrument Name": "Alexander Forbes Group Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "AFH"
+  },
+  {
+    "Instrument Name": "Alliance Mining Corporation Limited",
+    "Exchange": "JSE",
+    "Ticker": "ALM"
+  },
+  {
+    "Instrument Name": "Allied Electronics Corporation Ltd",
+    "Exchange": "JSE",
+    "Ticker": "AEN"
+  },
+  {
+    "Instrument Name": "Alphamin Resources Corporation",
+    "Exchange": "JSE",
+    "Ticker": "APH"
+  },
+  {
+    "Instrument Name": "Altron Limited",
+    "Exchange": "JSE",
+    "Ticker": "AEL"
+  },
+  {
+    "Instrument Name": "Alviva Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "AVV"
+  },
+  {
+    "Instrument Name": "Amalgamated Electronic Corporation Limited",
+    "Exchange": "JSE",
+    "Ticker": "AER"
+  },
+  {
+    "Instrument Name": "AMI RealEstate ex-SA ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "AMIRE"
+  },
+  {
+    "Instrument Name": "AMI RealEstate ex-SA ETF Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UAMIRE"
+  },
+  {
+    "Instrument Name": "AMIB50 - Letters of Allotment",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UAMIB5"
+  },
+  {
+    "Instrument Name": "Anchor Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "UAUG"
+  },
+  {
+    "Instrument Name": "Anchor Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "ACG"
+  },
+  {
+    "Instrument Name": "Andulela Investment Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "AND"
+  },
+  {
+    "Instrument Name": "Anglo American Platinum Limited",
+    "Exchange": "JSE",
+    "Ticker": "AMS"
+  },
+  {
+    "Instrument Name": "Anglo American PLC",
+    "Exchange": "JSE",
+    "Ticker": "AGL"
+  },
+  {
+    "Instrument Name": "Anglo American PLC - Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "UAGL23"
+  },
+  {
+    "Instrument Name": "Anglo American PLC - Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "UAGL42"
+  },
+  {
+    "Instrument Name": "Anglo American PLC - Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "UAGL2"
+  },
+  {
+    "Instrument Name": "Anglo American PLC - UNLISTED",
+    "Exchange": "JSE",
+    "Ticker": "UAG2"
+  },
+  {
+    "Instrument Name": "Anglo American Plc Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "UAG3"
+  },
+  {
+    "Instrument Name": "Anglogold Ashanti Limited Old",
+    "Exchange": "JSE",
+    "Ticker": "ANGOLD"
+  },
+  {
+    "Instrument Name": "Anglogold Ashanti PLC",
+    "Exchange": "JSE",
+    "Ticker": "ANG"
+  },
+  {
+    "Instrument Name": "Anheuser-Busch InBev SA NV",
+    "Exchange": "JSE",
+    "Ticker": "ANH"
+  },
+  {
+    "Instrument Name": "Anheuser-Busch Inbev SA/NV",
+    "Exchange": "JSE",
+    "Ticker": "ANB"
+  },
+  {
+    "Instrument Name": "Annuity Properties Limited",
+    "Exchange": "JSE",
+    "Ticker": "ANP"
+  },
+  {
+    "Instrument Name": "ANSYS Limited",
+    "Exchange": "JSE",
+    "Ticker": "ANS"
+  },
+  {
+    "Instrument Name": "Aquarius Platinum Limited",
+    "Exchange": "JSE",
+    "Ticker": "AQP"
+  },
+  {
+    "Instrument Name": "ARB Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "ARH"
+  },
+  {
+    "Instrument Name": "ArcelorMittal SA Limited",
+    "Exchange": "JSE",
+    "Ticker": "ACL"
+  },
+  {
+    "Instrument Name": "ArcelorMittal SA Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "ACLN"
+  },
+  {
+    "Instrument Name": "ArdenCapital Limited",
+    "Exchange": "JSE",
+    "Ticker": "ACZ"
+  },
+  {
+    "Instrument Name": "aReit Prop Limited",
+    "Exchange": "JSE",
+    "Ticker": "APO"
+  },
+  {
+    "Instrument Name": "Argent Industrial Limited",
+    "Exchange": "JSE",
+    "Ticker": "ART"
+  },
+  {
+    "Instrument Name": "Arrowhead Properties",
+    "Exchange": "JSE",
+    "Ticker": "AWA"
+  },
+  {
+    "Instrument Name": "Arrowhead Properties B",
+    "Exchange": "JSE",
+    "Ticker": "AWB"
+  },
+  {
+    "Instrument Name": "Arrowhead Properties Limited A",
+    "Exchange": "JSE",
+    "Ticker": "AHA"
+  },
+  {
+    "Instrument Name": "Arrowhead Properties Limited B",
+    "Exchange": "JSE",
+    "Ticker": "AHB"
+  },
+  {
+    "Instrument Name": "Ascendis Health Limited",
+    "Exchange": "JSE",
+    "Ticker": "ASC"
+  },
+  {
+    "Instrument Name": "Ascendis Health Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "ASCN"
+  },
+  {
+    "Instrument Name": "Ascension Properties Limited A",
+    "Exchange": "JSE",
+    "Ticker": "AIA"
+  },
+  {
+    "Instrument Name": "Ascension Properties Limited B",
+    "Exchange": "JSE",
+    "Ticker": "AIB"
+  },
+  {
+    "Instrument Name": "Ashburton Global 1200 Equity ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ASHGEQ"
+  },
+  {
+    "Instrument Name": "Ashburton Global 1200 FOF ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ASHEQF"
+  },
+  {
+    "Instrument Name": "Ashburton Inflation ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ASHINF"
+  },
+  {
+    "Instrument Name": "Ashburton MidCap ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ASHMID"
+  },
+  {
+    "Instrument Name": "Ashburton Top40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ASHT40"
+  },
+  {
+    "Instrument Name": "Ashburton World Government Bond ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ASHWGB"
+  },
+  {
+    "Instrument Name": "ASHBURTON WRLD GBOND ETF Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UASHGB"
+  },
+  {
+    "Instrument Name": "Aspen Pharmacare Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "APN"
+  },
+  {
+    "Instrument Name": "Assore Limited",
+    "Exchange": "JSE",
+    "Ticker": "ASR"
+  },
+  {
+    "Instrument Name": "Astoria Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "ARA"
+  },
+  {
+    "Instrument Name": "Astral Foods Limited",
+    "Exchange": "JSE",
+    "Ticker": "ARL"
+  },
+  {
+    "Instrument Name": "Astrapak Limited",
+    "Exchange": "JSE",
+    "Ticker": "APK"
+  },
+  {
+    "Instrument Name": "Astrapak Limited Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "APKP"
+  },
+  {
+    "Instrument Name": "Atlantic Leaf Properties Ltd",
+    "Exchange": "JSE",
+    "Ticker": "ALP"
+  },
+  {
+    "Instrument Name": "Atlatsa Resources Corporation",
+    "Exchange": "JSE",
+    "Ticker": "ATL"
+  },
+  {
+    "Instrument Name": "Attacq Limited",
+    "Exchange": "JSE",
+    "Ticker": "ATT"
+  },
+  {
+    "Instrument Name": "Aveng Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "AEG"
+  },
+  {
+    "Instrument Name": "Aveng Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "AEGN"
+  },
+  {
+    "Instrument Name": "AVI Limited",
+    "Exchange": "JSE",
+    "Ticker": "AVI"
+  },
+  {
+    "Instrument Name": "Avior Capital Markets Holdings",
+    "Exchange": "JSE",
+    "Ticker": "AVR"
+  },
+  {
+    "Instrument Name": "Awethu Breweries Limited",
+    "Exchange": "JSE",
+    "Ticker": "AWT"
+  },
+  {
+    "Instrument Name": "AYO Technology Solutions Limited",
+    "Exchange": "JSE",
+    "Ticker": "AYO"
+  },
+  {
+    "Instrument Name": "Balwin Properties Limited",
+    "Exchange": "JSE",
+    "Ticker": "BWN"
+  },
+  {
+    "Instrument Name": "Barclays Africa Grp Limited",
+    "Exchange": "JSE",
+    "Ticker": "BGA"
+  },
+  {
+    "Instrument Name": "Barloworld Limited",
+    "Exchange": "JSE",
+    "Ticker": "BAW"
+  },
+  {
+    "Instrument Name": "Basil Read Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "BSR"
+  },
+  {
+    "Instrument Name": "Basil Read Holdings Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "BSRN"
+  },
+  {
+    "Instrument Name": "Bauba Resources Limited",
+    "Exchange": "JSE",
+    "Ticker": "UBAU"
+  },
+  {
+    "Instrument Name": "Bauba Resources Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BAUN"
+  },
+  {
+    "Instrument Name": "Beige Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "BEG"
+  },
+  {
+    "Instrument Name": "Beige Holdings Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "BEGN"
+  },
+  {
+    "Instrument Name": "Bell Equipment Limited",
+    "Exchange": "JSE",
+    "Ticker": "BEL"
+  },
+  {
+    "Instrument Name": "BettaBeta Equally Weighted Top40 ETF - Name Change",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BBET40"
+  },
+  {
+    "Instrument Name": "BettaBeta Green ETF - Name Changed to Coreshares",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BGREEN"
+  },
+  {
+    "Instrument Name": "BHP Billiton PLC",
+    "Exchange": "JSE",
+    "Ticker": "BIL"
+  },
+  {
+    "Instrument Name": "BHP Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "BHG"
+  },
+  {
+    "Instrument Name": "BHP Group Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UBHG"
+  },
+  {
+    "Instrument Name": "BHP Group Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UBHG1"
+  },
+  {
+    "Instrument Name": "BHP Group Plc",
+    "Exchange": "JSE",
+    "Ticker": "BHP"
+  },
+  {
+    "Instrument Name": "BHP Group Plc Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UBHP2"
+  },
+  {
+    "Instrument Name": "Bid Corporation Limited",
+    "Exchange": "JSE",
+    "Ticker": "BID"
+  },
+  {
+    "Instrument Name": "Bidvest Limited",
+    "Exchange": "JSE",
+    "Ticker": "BVT"
+  },
+  {
+    "Instrument Name": "Bioscience Brands Limited",
+    "Exchange": "JSE",
+    "Ticker": "BIO"
+  },
+  {
+    "Instrument Name": "BK One Limited",
+    "Exchange": "JSE",
+    "Ticker": "BK1P"
+  },
+  {
+    "Instrument Name": "Blue Financial Services Limited",
+    "Exchange": "JSE",
+    "Ticker": "BFS"
+  },
+  {
+    "Instrument Name": "Blue Financial Services Limited - UNLISTED",
+    "Exchange": "JSE",
+    "Ticker": "UBFS"
+  },
+  {
+    "Instrument Name": "Blue Label Telecoms Limited",
+    "Exchange": "JSE",
+    "Ticker": "BLU"
+  },
+  {
+    "Instrument Name": "BNP Paribas Asia Pacific High Income Equity Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BNPASI"
+  },
+  {
+    "Instrument Name": "BNP Paribas European Private Equity III",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BNPEUR"
+  },
+  {
+    "Instrument Name": "BNP Paribas Fixed Coupons Protected Growth 3 (zar)",
+    "Exchange": "JSE",
+    "Ticker": "ZAE304"
+  },
+  {
+    "Instrument Name": "BNP Paribas ZAR Capital Protected Note",
+    "Exchange": "JSE",
+    "Ticker": "ZA318"
+  },
+  {
+    "Instrument Name": "BNP USA ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BNPUSA"
+  },
+  {
+    "Instrument Name": "BNP WOR ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BNPWOR"
+  },
+  {
+    "Instrument Name": "Bonatla Property Hldgs",
+    "Exchange": "JSE",
+    "Ticker": "BNT"
+  },
+  {
+    "Instrument Name": "Bos Chendal Investment Company",
+    "Exchange": "JSE",
+    "Ticker": "UBIP"
+  },
+  {
+    "Instrument Name": "Bowler Metcalf Limited",
+    "Exchange": "JSE",
+    "Ticker": "BCF"
+  },
+  {
+    "Instrument Name": "Brainworks Limited",
+    "Exchange": "JSE",
+    "Ticker": "BWZ"
+  },
+  {
+    "Instrument Name": "Brainworks Limited NPL",
+    "Exchange": "JSE",
+    "Ticker": "BWZN"
+  },
+  {
+    "Instrument Name": "Brait Inv Hldgs Ltd EB",
+    "Exchange": "JSE",
+    "Ticker": "BIHLEB"
+  },
+  {
+    "Instrument Name": "BRAIT P.L.C Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "BATN"
+  },
+  {
+    "Instrument Name": "Brait SE",
+    "Exchange": "JSE",
+    "Ticker": "BAT"
+  },
+  {
+    "Instrument Name": "Brian Porter Holdings",
+    "Exchange": "JSE",
+    "Ticker": "POTPp"
+  },
+  {
+    "Instrument Name": "Brikor Limited",
+    "Exchange": "JSE",
+    "Ticker": "BIK"
+  },
+  {
+    "Instrument Name": "Brimstone Investment Corporation Limited",
+    "Exchange": "JSE",
+    "Ticker": "BRT"
+  },
+  {
+    "Instrument Name": "Brimstone Investment Corporation Limited (N)",
+    "Exchange": "JSE",
+    "Ticker": "BRN"
+  },
+  {
+    "Instrument Name": "British American Tobacco PLC",
+    "Exchange": "JSE",
+    "Ticker": "BTI"
+  },
+  {
+    "Instrument Name": "BSI Steel Limited",
+    "Exchange": "JSE",
+    "Ticker": "BSS"
+  },
+  {
+    "Instrument Name": "Buffalo Coal Corporation",
+    "Exchange": "JSE",
+    "Ticker": "BUC"
+  },
+  {
+    "Instrument Name": "Buffalo Coal Corporation Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "BUCN"
+  },
+  {
+    "Instrument Name": "Buildmax Limited",
+    "Exchange": "JSE",
+    "Ticker": "BDM"
+  },
+  {
+    "Instrument Name": "Buka Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "BKI"
+  },
+  {
+    "Instrument Name": "Burstone Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "BTN"
+  },
+  {
+    "Instrument Name": "Business Connexion Grp Limited",
+    "Exchange": "JSE",
+    "Ticker": "BCX"
+  },
+  {
+    "Instrument Name": "Bytes Technology Group Plc",
+    "Exchange": "JSE",
+    "Ticker": "BYI"
+  },
+  {
+    "Instrument Name": "CA Sales Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CAA"
+  },
+  {
+    "Instrument Name": "Cadiz Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CDZ"
+  },
+  {
+    "Instrument Name": "Cafca Limited",
+    "Exchange": "JSE",
+    "Ticker": "CAC"
+  },
+  {
+    "Instrument Name": "Calgro M3 Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CGR"
+  },
+  {
+    "Instrument Name": "Capevin Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CVH"
+  },
+  {
+    "Instrument Name": "Capital & Counties Properties PLC",
+    "Exchange": "JSE",
+    "Ticker": "CCO"
+  },
+  {
+    "Instrument Name": "Capital & Regional PLC",
+    "Exchange": "JSE",
+    "Ticker": "CRP"
+  },
+  {
+    "Instrument Name": "Capital Appreciation Limited",
+    "Exchange": "JSE",
+    "Ticker": "CTA"
+  },
+  {
+    "Instrument Name": "Capital Property Fund",
+    "Exchange": "JSE",
+    "Ticker": "CPF"
+  },
+  {
+    "Instrument Name": "Capitec Bank Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CPI"
+  },
+  {
+    "Instrument Name": "Capitec Bank Holdings Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "CPIP"
+  },
+  {
+    "Instrument Name": "Cargo Carriers Limited",
+    "Exchange": "JSE",
+    "Ticker": "CRG"
+  },
+  {
+    "Instrument Name": "Cartrack Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CTK"
+  },
+  {
+    "Instrument Name": "Cashbuild Limited",
+    "Exchange": "JSE",
+    "Ticker": "CSB"
+  },
+  {
+    "Instrument Name": "Castleview Property Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "CVW"
+  },
+  {
+    "Instrument Name": "Caxton CTP Publishers and Printers Limited",
+    "Exchange": "JSE",
+    "Ticker": "CAT"
+  },
+  {
+    "Instrument Name": "Central Rand Gold Limited",
+    "Exchange": "JSE",
+    "Ticker": "CRD"
+  },
+  {
+    "Instrument Name": "Chemical Specialities Limited",
+    "Exchange": "JSE",
+    "Ticker": "CSP"
+  },
+  {
+    "Instrument Name": "Chemical Specialities Limited Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "CSPP"
+  },
+  {
+    "Instrument Name": "Choppies Enterprises Ltd",
+    "Exchange": "JSE",
+    "Ticker": "CHP"
+  },
+  {
+    "Instrument Name": "Choppies Enterprises Ltd LOA",
+    "Exchange": "JSE",
+    "Ticker": "CHPN"
+  },
+  {
+    "Instrument Name": "Chrometco Limited",
+    "Exchange": "JSE",
+    "Ticker": "CMO"
+  },
+  {
+    "Instrument Name": "City Lodge Hotels Limited",
+    "Exchange": "JSE",
+    "Ticker": "CLH"
+  },
+  {
+    "Instrument Name": "City Lodge Hotels Ltd Letter of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CLHN"
+  },
+  {
+    "Instrument Name": "Clicks Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "CLS"
+  },
+  {
+    "Instrument Name": "Clientele Limited",
+    "Exchange": "JSE",
+    "Ticker": "CLI"
+  },
+  {
+    "Instrument Name": "Cloud Atlas S&P African Sovereign Bond ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ASBI"
+  },
+  {
+    "Instrument Name": "Clover Industries Limited",
+    "Exchange": "JSE",
+    "Ticker": "CLR"
+  },
+  {
+    "Instrument Name": "Coal of Africa Limited",
+    "Exchange": "JSE",
+    "Ticker": "CZA"
+  },
+  {
+    "Instrument Name": "Cognition Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CGN"
+  },
+  {
+    "Instrument Name": "Collins Property Group Ltd",
+    "Exchange": "JSE",
+    "Ticker": "CPP"
+  },
+  {
+    "Instrument Name": "Comair Limited",
+    "Exchange": "JSE",
+    "Ticker": "COM"
+  },
+  {
+    "Instrument Name": "Combined Motor Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CMH"
+  },
+  {
+    "Instrument Name": "Command Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CMA"
+  },
+  {
+    "Instrument Name": "COMPAGNIE FIN RICHEMONT OPT",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CFRW"
+  },
+  {
+    "Instrument Name": "COMPAGNIE FIN RICHEMONT OPT",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CFRO"
+  },
+  {
+    "Instrument Name": "Compagnie Financiere Richemont SA",
+    "Exchange": "JSE",
+    "Ticker": "CFR"
+  },
+  {
+    "Instrument Name": "Compu Clearing Outsourcing Limited",
+    "Exchange": "JSE",
+    "Ticker": "CCL"
+  },
+  {
+    "Instrument Name": "Conduit Capital Limited",
+    "Exchange": "JSE",
+    "Ticker": "CND"
+  },
+  {
+    "Instrument Name": "Conduit Capital Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "CNDN"
+  },
+  {
+    "Instrument Name": "Consolidated Infrastructure Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "CIL"
+  },
+  {
+    "Instrument Name": "Consolidated Infrastructure Group Limited LOA",
+    "Exchange": "JSE",
+    "Ticker": "CILN"
+  },
+  {
+    "Instrument Name": "Control Instruments Grp",
+    "Exchange": "JSE",
+    "Ticker": "CNL"
+  },
+  {
+    "Instrument Name": "Copper 360 Limited",
+    "Exchange": "JSE",
+    "Ticker": "CPR"
+  },
+  {
+    "Instrument Name": "Coreshares Globaldivtrax Letter of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UGLODV"
+  },
+  {
+    "Instrument Name": "CoreShares Green ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CGREEN"
+  },
+  {
+    "Instrument Name": "CoreShares LowVolTrax ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "LVLTRX"
+  },
+  {
+    "Instrument Name": "CoreShares PrefTrax ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "PREFTX"
+  },
+  {
+    "Instrument Name": "CoreShares PropTrax SAPY ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "PTXSPY"
+  },
+  {
+    "Instrument Name": "CoreShares PropTrax Ten ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "PTXTEN"
+  },
+  {
+    "Instrument Name": "CoreShares Top 40 Equally Weighted ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CSEW40"
+  },
+  {
+    "Instrument Name": "CoreShares Total World ETF LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UGLOBAL"
+  },
+  {
+    "Instrument Name": "Coronation Fund Managers Limited",
+    "Exchange": "JSE",
+    "Ticker": "CML"
+  },
+  {
+    "Instrument Name": "Corwil Investments Ltd",
+    "Exchange": "JSE",
+    "Ticker": "CRW"
+  },
+  {
+    "Instrument Name": "Country Bird Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CBH"
+  },
+  {
+    "Instrument Name": "Crookes Brothers Limited",
+    "Exchange": "JSE",
+    "Ticker": "CKS"
+  },
+  {
+    "Instrument Name": "Crookes Brothers Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "CKSN"
+  },
+  {
+    "Instrument Name": "CSG HOLDINGS LIMITED UNLISTED",
+    "Exchange": "JSE",
+    "Ticker": "UUCSG"
+  },
+  {
+    "Instrument Name": "Cullinan Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "CUL"
+  },
+  {
+    "Instrument Name": "Curro Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "COH"
+  },
+  {
+    "Instrument Name": "Curro Holdings Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "COHN"
+  },
+  {
+    "Instrument Name": "Datacentrix Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "DCT"
+  },
+  {
+    "Instrument Name": "Datatec Limited",
+    "Exchange": "JSE",
+    "Ticker": "DTC"
+  },
+  {
+    "Instrument Name": "DB MsciAF ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DBAFRI"
+  },
+  {
+    "Instrument Name": "DB MsciCH ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DBCHIN"
+  },
+  {
+    "Instrument Name": "DB MsciEM ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DBEMER"
+  },
+  {
+    "Instrument Name": "db x-trackers Eurostoxx 50 Index ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DBXEU"
+  },
+  {
+    "Instrument Name": "db x-trackers FTSE 100 Index ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DBXUK"
+  },
+  {
+    "Instrument Name": "db x-trackers MSCI Japan Index ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DBXJP"
+  },
+  {
+    "Instrument Name": "db x-trackers MSCI World Index ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DBXWD"
+  },
+  {
+    "Instrument Name": "db x-trackers USA Index ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DBXUS"
+  },
+  {
+    "Instrument Name": "Delrand Resources Limited",
+    "Exchange": "JSE",
+    "Ticker": "DRN"
+  },
+  {
+    "Instrument Name": "Delta Africa OLD",
+    "Exchange": "JSE",
+    "Ticker": "DLAO"
+  },
+  {
+    "Instrument Name": "Delta Africa Property Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "DLA"
+  },
+  {
+    "Instrument Name": "Delta EMD Limited",
+    "Exchange": "JSE",
+    "Ticker": "DTA"
+  },
+  {
+    "Instrument Name": "Delta Property Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "DLT"
+  },
+  {
+    "Instrument Name": "Delta Property Fund Limited UNLISTED",
+    "Exchange": "JSE",
+    "Ticker": "UDPF"
+  },
+  {
+    "Instrument Name": "Deneb Investments Ltd",
+    "Exchange": "JSE",
+    "Ticker": "DNB"
+  },
+  {
+    "Instrument Name": "Deutsche Konsum REIT-AG",
+    "Exchange": "JSE",
+    "Ticker": "DKR"
+  },
+  {
+    "Instrument Name": "Diamond Corp Plc",
+    "Exchange": "JSE",
+    "Ticker": "DMC"
+  },
+  {
+    "Instrument Name": "Digicore Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "DGC"
+  },
+  {
+    "Instrument Name": "Dipula Income Fund A",
+    "Exchange": "JSE",
+    "Ticker": "DIA"
+  },
+  {
+    "Instrument Name": "Dipula Income Fund B",
+    "Exchange": "JSE",
+    "Ticker": "DIB"
+  },
+  {
+    "Instrument Name": "Dis-Chem Pharmacies Limited",
+    "Exchange": "JSE",
+    "Ticker": "DCP"
+  },
+  {
+    "Instrument Name": "Discovery Limited",
+    "Exchange": "JSE",
+    "Ticker": "DSY"
+  },
+  {
+    "Instrument Name": "Discovery Limited B Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "DSBP"
+  },
+  {
+    "Instrument Name": "Discovery Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "DSYN"
+  },
+  {
+    "Instrument Name": "Distell Group Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "DGH"
+  },
+  {
+    "Instrument Name": "Distell Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "DST"
+  },
+  {
+    "Instrument Name": "Distribution and Warehousing Network Limited",
+    "Exchange": "JSE",
+    "Ticker": "DAW"
+  },
+  {
+    "Instrument Name": "Distribution and Warehousing Rights",
+    "Exchange": "JSE",
+    "Ticker": "DAWN"
+  },
+  {
+    "Instrument Name": "Dollar Custodial Certificate ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "DCCUSD"
+  },
+  {
+    "Instrument Name": "Don Group Ltd",
+    "Exchange": "JSE",
+    "Ticker": "DON"
+  },
+  {
+    "Instrument Name": "Dorbyl Ltd",
+    "Exchange": "JSE",
+    "Ticker": "DLV"
+  },
+  {
+    "Instrument Name": "DRA Global Limited",
+    "Exchange": "JSE",
+    "Ticker": "DRA"
+  },
+  {
+    "Instrument Name": "DRD Gold Limited",
+    "Exchange": "JSE",
+    "Ticker": "DRD"
+  },
+  {
+    "Instrument Name": "E Media Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "EMH"
+  },
+  {
+    "Instrument Name": "E Media Holdings Limited N",
+    "Exchange": "JSE",
+    "Ticker": "EMN"
+  },
+  {
+    "Instrument Name": "Eastern Platinum Limited",
+    "Exchange": "JSE",
+    "Ticker": "EPS"
+  },
+  {
+    "Instrument Name": "Eastern Platinum Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "EPSN"
+  },
+  {
+    "Instrument Name": "Easy Lending Test 3",
+    "Exchange": "JSE",
+    "Ticker": "EZLT3"
+  },
+  {
+    "Instrument Name": "EasyETFs AMI Big50 EX-SA ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "AMIB50"
+  },
+  {
+    "Instrument Name": "Ecsponent Limited",
+    "Exchange": "JSE",
+    "Ticker": "ECS"
+  },
+  {
+    "Instrument Name": "Ecsponent Limited Rights",
+    "Exchange": "JSE",
+    "Ticker": "ECSN"
+  },
+  {
+    "Instrument Name": "Education",
+    "Exchange": "JSE",
+    "Ticker": "EDC"
+  },
+  {
+    "Instrument Name": "Efficient Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "EFG"
+  },
+  {
+    "Instrument Name": "Efora Energy Limited",
+    "Exchange": "JSE",
+    "Ticker": "EEL"
+  },
+  {
+    "Instrument Name": "Efora Energy Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "EELN"
+  },
+  {
+    "Instrument Name": "ELB Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "ELR"
+  },
+  {
+    "Instrument Name": "Ellies Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "ELI"
+  },
+  {
+    "Instrument Name": "Ellies Holdings Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "ELIN"
+  },
+  {
+    "Instrument Name": "Emira Property Fund",
+    "Exchange": "JSE",
+    "Ticker": "EMI"
+  },
+  {
+    "Instrument Name": "enX Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "ENX"
+  },
+  {
+    "Instrument Name": "EOH Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "EOH"
+  },
+  {
+    "Instrument Name": "EOH Holdings Limited LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "EOHN"
+  },
+  {
+    "Instrument Name": "EPE Capital Partners Limited (Ethos)",
+    "Exchange": "JSE",
+    "Ticker": "EPE"
+  },
+  {
+    "Instrument Name": "EPE Capital Partners Limited NPL",
+    "Exchange": "JSE",
+    "Ticker": "EPEN"
+  },
+  {
+    "Instrument Name": "EPP N.V.",
+    "Exchange": "JSE",
+    "Ticker": "EPP"
+  },
+  {
+    "Instrument Name": "EPP N.V. Unlisted",
+    "Exchange": "JSE",
+    "Ticker": "UEPP"
+  },
+  {
+    "Instrument Name": "Eqstra Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "EQS"
+  },
+  {
+    "Instrument Name": "Equites Property Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "EQU"
+  },
+  {
+    "Instrument Name": "Equites Property Fund Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "UEQU"
+  },
+  {
+    "Instrument Name": "Erafi Overall SA Index ETF",
+    "Exchange": "JSE",
+    "Ticker": "RAFISA"
+  },
+  {
+    "Instrument Name": "Erafi SA Financial 15 Idx ETF",
+    "Exchange": "JSE",
+    "Ticker": "RAFFIN"
+  },
+  {
+    "Instrument Name": "Erafi SA Industrial 25 Idx ETF",
+    "Exchange": "JSE",
+    "Ticker": "RAFIND"
+  },
+  {
+    "Instrument Name": "Erafi SA Resource 20 Idx ETF",
+    "Exchange": "JSE",
+    "Ticker": "RAFRES"
+  },
+  {
+    "Instrument Name": "Erin Energy Corporation",
+    "Exchange": "JSE",
+    "Ticker": "ERN"
+  },
+  {
+    "Instrument Name": "Esor Limited",
+    "Exchange": "JSE",
+    "Ticker": "ESR"
+  },
+  {
+    "Instrument Name": "Esor Limited Rights",
+    "Exchange": "JSE",
+    "Ticker": "ESRN"
+  },
+  {
+    "Instrument Name": "Etion Limited",
+    "Exchange": "JSE",
+    "Ticker": "ETO"
+  },
+  {
+    "Instrument Name": "Europa Metals Limited",
+    "Exchange": "JSE",
+    "Ticker": "EUZ"
+  },
+  {
+    "Instrument Name": "Evraz Highveld Steel and Vanadium Limited",
+    "Exchange": "JSE",
+    "Ticker": "EHS"
+  },
+  {
+    "Instrument Name": "Exemplar REITail Limited",
+    "Exchange": "JSE",
+    "Ticker": "EXP"
+  },
+  {
+    "Instrument Name": "eXtract Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "EXG"
+  },
+  {
+    "Instrument Name": "Exxaro Resources Limited",
+    "Exchange": "JSE",
+    "Ticker": "EXX"
+  },
+  {
+    "Instrument Name": "Fairvest Limited A",
+    "Exchange": "JSE",
+    "Ticker": "FTA"
+  },
+  {
+    "Instrument Name": "Fairvest Limited B",
+    "Exchange": "JSE",
+    "Ticker": "FTB"
+  },
+  {
+    "Instrument Name": "Fairvest Property Holdings",
+    "Exchange": "JSE",
+    "Ticker": "FVT"
+  },
+  {
+    "Instrument Name": "Famous Brands Limited",
+    "Exchange": "JSE",
+    "Ticker": "FBR"
+  },
+  {
+    "Instrument Name": "Faritec Holdings Ltd",
+    "Exchange": "JSE",
+    "Ticker": "FRT"
+  },
+  {
+    "Instrument Name": "Ferrum Crescent Limited",
+    "Exchange": "JSE",
+    "Ticker": "FCR"
+  },
+  {
+    "Instrument Name": "Finbond Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "FGL"
+  },
+  {
+    "Instrument Name": "Finbond Group Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "FGLN"
+  },
+  {
+    "Instrument Name": "Firestone Energy Limited",
+    "Exchange": "JSE",
+    "Ticker": "FSE"
+  },
+  {
+    "Instrument Name": "Firstrand Limited",
+    "Exchange": "JSE",
+    "Ticker": "FSR"
+  },
+  {
+    "Instrument Name": "Firstrand Limited B Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "FSRP"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Activision Blizzard",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ABETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Adobe Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ADETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Alphabet Inc Class A",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ALETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Amazon Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "AMETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Apple Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "APETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Berkshire Hathaway Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BHETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Facebook Class A",
+    "Exchange": "JSE ETFs",
+    "Ticker": "FAETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Ford Motor Company",
+    "Exchange": "JSE ETFs",
+    "Ticker": "FDETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Goldman Sachs Group Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GSETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on IShares Core MSCI World ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "MWETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on iShares Global Clean Energy UCITS ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "EGETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on iShares Global Water UCITS ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "WWETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on JP Morgan Chase and Co",
+    "Exchange": "JSE ETFs",
+    "Ticker": "JPETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on McDonalds Corp",
+    "Exchange": "JSE ETFs",
+    "Ticker": "MCETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Microsoft Corporation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "MSETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Netflix Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on PayPal Holdings Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "PPETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Tesla Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "TSETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on The Coca Cola",
+    "Exchange": "JSE ETFs",
+    "Ticker": "COETNC"
+  },
+  {
+    "Instrument Name": "FNB Compo ETN on Visa Inc, Class A",
+    "Exchange": "JSE ETFs",
+    "Ticker": "VSETNC"
+  },
+  {
+    "Instrument Name": "FNB ETN on BOOKNGC",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BKETNC"
+  },
+  {
+    "Instrument Name": "FNB ETN on ELILLYC",
+    "Exchange": "JSE ETFs",
+    "Ticker": "LLETNC"
+  },
+  {
+    "Instrument Name": "FNB ETN on NVIDIAC",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NVETNC"
+  },
+  {
+    "Instrument Name": "FNB ETN on PALOALC",
+    "Exchange": "JSE ETFs",
+    "Ticker": "PAETNC"
+  },
+  {
+    "Instrument Name": "FNB ETN on PALOALQ",
+    "Exchange": "JSE ETFs",
+    "Ticker": "PAETNQ"
+  },
+  {
+    "Instrument Name": "FNB Global 1200 Equity Fund of Funds ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "FNBEQF"
+  },
+  {
+    "Instrument Name": "FNB Government Inflation Linked Bond ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "FNBINF"
+  },
+  {
+    "Instrument Name": "FNB MidCap Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "FNBMID"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Activision Blizzard",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ABETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Adobe Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ADETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Alphabet Inc Class A",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ALETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Amazon Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "AMETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Apple Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "APETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Berkshire Hathaway Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BHETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Facebook Class A",
+    "Exchange": "JSE ETFs",
+    "Ticker": "FAETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Ford Motor Company",
+    "Exchange": "JSE ETFs",
+    "Ticker": "FDETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Goldman Sachs Group Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GSETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on IShares Core MSCI World ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "MWETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on iShares Global Clean Energy UCITS ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "EGETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on iShares Global Water UCITS ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "WWETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on JP Morgan Chase and Co",
+    "Exchange": "JSE ETFs",
+    "Ticker": "JPETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on McDonalds Corp",
+    "Exchange": "JSE ETFs",
+    "Ticker": "MCETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Microsoft Corporation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "MSETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Netflix Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on PayPal Holdings Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "PPETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Tesla Inc",
+    "Exchange": "JSE ETFs",
+    "Ticker": "TSETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on The Coca Cola",
+    "Exchange": "JSE ETFs",
+    "Ticker": "COETNQ"
+  },
+  {
+    "Instrument Name": "FNB Quanto ETN on Visa Inc, Class A",
+    "Exchange": "JSE ETFs",
+    "Ticker": "VSETNQ"
+  },
+  {
+    "Instrument Name": "FNB Top40 Exchange Traded Fund",
+    "Exchange": "JSE ETFs",
+    "Ticker": "FNBT40"
+  },
+  {
+    "Instrument Name": "FNB World Government Bond ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "FNBWGB"
+  },
+  {
+    "Instrument Name": "Foord Compass Ltd Deb",
+    "Exchange": "JSE",
+    "Ticker": "FCPD"
+  },
+  {
+    "Instrument Name": "Foresight Solar Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "FGS"
+  },
+  {
+    "Instrument Name": "Fortress Real Estate Investments Limited A",
+    "Exchange": "JSE",
+    "Ticker": "FFA"
+  },
+  {
+    "Instrument Name": "Fortress Real Estate Investments Limited B",
+    "Exchange": "JSE",
+    "Ticker": "FFB"
+  },
+  {
+    "Instrument Name": "Fountainhead Property Trust Management Limited",
+    "Exchange": "JSE",
+    "Ticker": "FPT"
+  },
+  {
+    "Instrument Name": "Freedom Property Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "FDP"
+  },
+  {
+    "Instrument Name": "Frontier Transport Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "FTH"
+  },
+  {
+    "Instrument Name": "Gaia Infrastructure Capital Limited",
+    "Exchange": "JSE",
+    "Ticker": "GAI"
+  },
+  {
+    "Instrument Name": "Gemfields Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "GML"
+  },
+  {
+    "Instrument Name": "Gemgrow Properties Limited A",
+    "Exchange": "JSE",
+    "Ticker": "GPA"
+  },
+  {
+    "Instrument Name": "Gemgrow Properties Limited B",
+    "Exchange": "JSE",
+    "Ticker": "GPB"
+  },
+  {
+    "Instrument Name": "Gijima Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "GIJ"
+  },
+  {
+    "Instrument Name": "Gijima Group Ltd Rights",
+    "Exchange": "JSE",
+    "Ticker": "GIJN"
+  },
+  {
+    "Instrument Name": "GIM Liquid Private Credit AMC",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GIMLPC"
+  },
+  {
+    "Instrument Name": "Glencore PLC",
+    "Exchange": "JSE",
+    "Ticker": "GLN"
+  },
+  {
+    "Instrument Name": "Global Asset Management Limited",
+    "Exchange": "JSE",
+    "Ticker": "GAM"
+  },
+  {
+    "Instrument Name": "Global Asset Management Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "GAMN"
+  },
+  {
+    "Instrument Name": "Globe Trade Centre SA",
+    "Exchange": "JSE",
+    "Ticker": "GTC"
+  },
+  {
+    "Instrument Name": "Go Life International Limited",
+    "Exchange": "JSE",
+    "Ticker": "GLI"
+  },
+  {
+    "Instrument Name": "Gold Brands Investment Limited",
+    "Exchange": "JSE",
+    "Ticker": "GBI"
+  },
+  {
+    "Instrument Name": "Gold Commodity Linker ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBAG1"
+  },
+  {
+    "Instrument Name": "Gold Fields Limited",
+    "Exchange": "JSE",
+    "Ticker": "GFI"
+  },
+  {
+    "Instrument Name": "Goliath Gold Mining Limited",
+    "Exchange": "JSE",
+    "Ticker": "GGM"
+  },
+  {
+    "Instrument Name": "Gooderson Leisure Corporation Limited",
+    "Exchange": "JSE",
+    "Ticker": "GDN"
+  },
+  {
+    "Instrument Name": "Grand Parade Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "GPL"
+  },
+  {
+    "Instrument Name": "Great Basin Gold Ltd",
+    "Exchange": "JSE",
+    "Ticker": "GBG"
+  },
+  {
+    "Instrument Name": "Greenbay Properties Limited",
+    "Exchange": "JSE",
+    "Ticker": "GRP"
+  },
+  {
+    "Instrument Name": "Grindrod Limited",
+    "Exchange": "JSE",
+    "Ticker": "GND"
+  },
+  {
+    "Instrument Name": "Grindrod Limited Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "GNDP"
+  },
+  {
+    "Instrument Name": "Grindrod Shipping Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "GSH"
+  },
+  {
+    "Instrument Name": "Grit Real Estate Income Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "GTR"
+  },
+  {
+    "Instrument Name": "Group Five Limited",
+    "Exchange": "JSE",
+    "Ticker": "GRF"
+  },
+  {
+    "Instrument Name": "Growthpoint Properties Limited",
+    "Exchange": "JSE",
+    "Ticker": "GRT"
+  },
+  {
+    "Instrument Name": "Hammerson PLC",
+    "Exchange": "JSE",
+    "Ticker": "HMN"
+  },
+  {
+    "Instrument Name": "HAMMERSON PLC Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "UHMN"
+  },
+  {
+    "Instrument Name": "Hammerson plc Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "HMNN"
+  },
+  {
+    "Instrument Name": "Hammerson PLC Unlisted",
+    "Exchange": "JSE",
+    "Ticker": "UHMSO"
+  },
+  {
+    "Instrument Name": "Harmony Gold Mining Company Limited",
+    "Exchange": "JSE",
+    "Ticker": "HAR"
+  },
+  {
+    "Instrument Name": "Heriot REIT Limited",
+    "Exchange": "JSE",
+    "Ticker": "HET"
+  },
+  {
+    "Instrument Name": "High Street Offshore Yielding Portfolio ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "AMC002"
+  },
+  {
+    "Instrument Name": "High Street Wealth Warriors AMC",
+    "Exchange": "JSE ETFs",
+    "Ticker": "AMC007"
+  },
+  {
+    "Instrument Name": "Holdsport Limited",
+    "Exchange": "JSE",
+    "Ticker": "HSP"
+  },
+  {
+    "Instrument Name": "HomeChoice International PLC",
+    "Exchange": "JSE",
+    "Ticker": "HIL"
+  },
+  {
+    "Instrument Name": "Hosken Consolidated Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "HCI"
+  },
+  {
+    "Instrument Name": "Hosken Passenger Logistics and Rail Limited",
+    "Exchange": "JSE",
+    "Ticker": "HPR"
+  },
+  {
+    "Instrument Name": "Hospitality Property Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "HPB"
+  },
+  {
+    "Instrument Name": "Hospitality Property Fund Limited A",
+    "Exchange": "JSE",
+    "Ticker": "HPA"
+  },
+  {
+    "Instrument Name": "Hospitality Property Fund Rights",
+    "Exchange": "JSE",
+    "Ticker": "HPBN"
+  },
+  {
+    "Instrument Name": "Howden Africa Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "HWN"
+  },
+  {
+    "Instrument Name": "Hudaco Industries Limited",
+    "Exchange": "JSE",
+    "Ticker": "HDC"
+  },
+  {
+    "Instrument Name": "Huge Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "HUG"
+  },
+  {
+    "Instrument Name": "Hulamin Limited",
+    "Exchange": "JSE",
+    "Ticker": "HLM"
+  },
+  {
+    "Instrument Name": "Hulisani Limited",
+    "Exchange": "JSE",
+    "Ticker": "HUL"
+  },
+  {
+    "Instrument Name": "Hwange Colliery Limited",
+    "Exchange": "JSE",
+    "Ticker": "HWA"
+  },
+  {
+    "Instrument Name": "Hyprop Inv Limited",
+    "Exchange": "JSE",
+    "Ticker": "HYP"
+  },
+  {
+    "Instrument Name": "Hyprop Investments Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UHYP"
+  },
+  {
+    "Instrument Name": "IB ENVIRO AUTOCALL24MAR25",
+    "Exchange": "JSE",
+    "Ticker": "ELVIIA"
+  },
+  {
+    "Instrument Name": "IB ENVIRODIGI 14OCT26",
+    "Exchange": "JSE",
+    "Ticker": "ELVIIE"
+  },
+  {
+    "Instrument Name": "Ib Eurdiv Autocall12apr27",
+    "Exchange": "JSE",
+    "Ticker": "SDEIIA"
+  },
+  {
+    "Instrument Name": "Ib Eurstx Autocall02dec26",
+    "Exchange": "JSE",
+    "Ticker": "SXEIAA"
+  },
+  {
+    "Instrument Name": "IB EURSTX Autocall08aug24?",
+    "Exchange": "JSE",
+    "Ticker": "SXEIIR"
+  },
+  {
+    "Instrument Name": "IB EURSTX Digital Plus Nov18",
+    "Exchange": "JSE",
+    "Ticker": "ESPIBM"
+  },
+  {
+    "Instrument Name": "IB EURSTX ELN05APR22",
+    "Exchange": "JSE",
+    "Ticker": "SXEIIM"
+  },
+  {
+    "Instrument Name": "IB EURSTX ELN14JUN21",
+    "Exchange": "JSE",
+    "Ticker": "SXEIIH"
+  },
+  {
+    "Instrument Name": "IB FTSE AUTOCALL06JAN25",
+    "Exchange": "JSE",
+    "Ticker": "FTSIIF"
+  },
+  {
+    "Instrument Name": "IB Golden Quanto ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GOLDEN"
+  },
+  {
+    "Instrument Name": "IB SWX40 ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SWXTRI"
+  },
+  {
+    "Instrument Name": "IB Top40 Tri ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "TOPTRI"
+  },
+  {
+    "Instrument Name": "IB USDSPX AUTOCALL12NOV24",
+    "Exchange": "JSE",
+    "Ticker": "SPXIIH"
+  },
+  {
+    "Instrument Name": "IB USDSTX AUTOCALL12NOV24",
+    "Exchange": "JSE",
+    "Ticker": "SXEIIT"
+  },
+  {
+    "Instrument Name": "IB ZARASXNOTE 07APR25",
+    "Exchange": "JSE",
+    "Ticker": "ASXIIA"
+  },
+  {
+    "Instrument Name": "IB ZAREURSTXESP13SEP21",
+    "Exchange": "JSE",
+    "Ticker": "SPIB27"
+  },
+  {
+    "Instrument Name": "IB ZARKWEB AUTOCALL14DEC26",
+    "Exchange": "JSE",
+    "Ticker": "KSEIIA"
+  },
+  {
+    "Instrument Name": "IB ZARPBW AUTOCALL08SEP26",
+    "Exchange": "JSE",
+    "Ticker": "PBWIIA"
+  },
+  {
+    "Instrument Name": "IB ZARSDGPNOTE 02MAR26",
+    "Exchange": "JSE",
+    "Ticker": "GSDIIB"
+  },
+  {
+    "Instrument Name": "Ib Zarsdgpnote 07apr26",
+    "Exchange": "JSE",
+    "Ticker": "GSDIIA"
+  },
+  {
+    "Instrument Name": "IB ZARSTX AUTOCALL12NOV24",
+    "Exchange": "JSE",
+    "Ticker": "SXEIIS"
+  },
+  {
+    "Instrument Name": "IB ZARSX5ENOTE 15JAN26",
+    "Exchange": "JSE",
+    "Ticker": "SXEIAF"
+  },
+  {
+    "Instrument Name": "Ibex Investment Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "IBX"
+  },
+  {
+    "Instrument Name": "Ibftse100autocall31jul23",
+    "Exchange": "JSE",
+    "Ticker": "FTSIIC"
+  },
+  {
+    "Instrument Name": "IBSWX40TR2ETNOCT2022",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SWXTR2"
+  },
+  {
+    "Instrument Name": "IBTOP40TR2ETNOCT22",
+    "Exchange": "JSE ETFs",
+    "Ticker": "TOPTR2"
+  },
+  {
+    "Instrument Name": "Iliad Africa Limited",
+    "Exchange": "JSE",
+    "Ticker": "ILA"
+  },
+  {
+    "Instrument Name": "Illovo Sugar Limited",
+    "Exchange": "JSE",
+    "Ticker": "ILV"
+  },
+  {
+    "Instrument Name": "Imbalie Beauty Limited",
+    "Exchange": "JSE",
+    "Ticker": "ILE"
+  },
+  {
+    "Instrument Name": "Imbalie Beauty Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "ILEN"
+  },
+  {
+    "Instrument Name": "Impala Platinum Hlgs Limited",
+    "Exchange": "JSE",
+    "Ticker": "IMP"
+  },
+  {
+    "Instrument Name": "Imperial Logistics Limited",
+    "Exchange": "JSE",
+    "Ticker": "IPL"
+  },
+  {
+    "Instrument Name": "Imperial Logistics Pref",
+    "Exchange": "JSE",
+    "Ticker": "IPLP"
+  },
+  {
+    "Instrument Name": "Indequity Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "IDQ"
+  },
+  {
+    "Instrument Name": "Indluplace Properties Limited",
+    "Exchange": "JSE",
+    "Ticker": "ILU"
+  },
+  {
+    "Instrument Name": "Industrials REIT Limited",
+    "Exchange": "JSE",
+    "Ticker": "MLI"
+  },
+  {
+    "Instrument Name": "Infrasors Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "IRA"
+  },
+  {
+    "Instrument Name": "Ingenuity Property Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "ING"
+  },
+  {
+    "Instrument Name": "Insimbi Industrial Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "ISB"
+  },
+  {
+    "Instrument Name": "International Hotel Properties Limited",
+    "Exchange": "JSE",
+    "Ticker": "IHL"
+  },
+  {
+    "Instrument Name": "Interwaste Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "IWE"
+  },
+  {
+    "Instrument Name": "Intu Properties PLC",
+    "Exchange": "JSE",
+    "Ticker": "ITU"
+  },
+  {
+    "Instrument Name": "Investec Australia Property Fund Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "IAPN"
+  },
+  {
+    "Instrument Name": "Investec Bank Ltd Pref",
+    "Exchange": "JSE",
+    "Ticker": "INLP"
+  },
+  {
+    "Instrument Name": "Investec Emerging Markets Digital Plus Sep21",
+    "Exchange": "JSE",
+    "Ticker": "SPIB22"
+  },
+  {
+    "Instrument Name": "Investec Euro Stoxx50 Digital Plus ESP",
+    "Exchange": "JSE",
+    "Ticker": "SPIB29"
+  },
+  {
+    "Instrument Name": "Investec Limited",
+    "Exchange": "JSE",
+    "Ticker": "INL"
+  },
+  {
+    "Instrument Name": "Investec Limited Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "INPR"
+  },
+  {
+    "Instrument Name": "Investec MSCI Emerging Markets Digital Plus",
+    "Exchange": "JSE",
+    "Ticker": "MXEIIA"
+  },
+  {
+    "Instrument Name": "Investec PLC",
+    "Exchange": "JSE",
+    "Ticker": "INP"
+  },
+  {
+    "Instrument Name": "Investec PLC Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "INPP"
+  },
+  {
+    "Instrument Name": "Investec PLC Rand Perpetual PREF",
+    "Exchange": "JSE",
+    "Ticker": "INPPR"
+  },
+  {
+    "Instrument Name": "Investec Property Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "IPF"
+  },
+  {
+    "Instrument Name": "Investec Property Fund Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "IPFN"
+  },
+  {
+    "Instrument Name": "Investec Property Fund Limited UNLISTED",
+    "Exchange": "JSE",
+    "Ticker": "UIPF"
+  },
+  {
+    "Instrument Name": "Investec Rand FTSE100 Autocall",
+    "Exchange": "JSE",
+    "Ticker": "SPIB31"
+  },
+  {
+    "Instrument Name": "Investec Rand Nikkei 225 Autocall",
+    "Exchange": "JSE",
+    "Ticker": "FNIB01"
+  },
+  {
+    "Instrument Name": "Investec S&P 500 Accelerator",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SPXIIL"
+  },
+  {
+    "Instrument Name": "Investec S&P 500 Rand Autocall",
+    "Exchange": "JSE",
+    "Ticker": "SPIB10"
+  },
+  {
+    "Instrument Name": "Investec S&P 500 Wealth Accelerator II",
+    "Exchange": "JSE",
+    "Ticker": "SPIB30"
+  },
+  {
+    "Instrument Name": "Investec S&P500 Digital Plus",
+    "Exchange": "JSE",
+    "Ticker": "SPXIIM"
+  },
+  {
+    "Instrument Name": "Investec S&P500 Digital Plus - old",
+    "Exchange": "JSE",
+    "Ticker": "SPIB32"
+  },
+  {
+    "Instrument Name": "Investec USD S&P 500 Autocall",
+    "Exchange": "JSE",
+    "Ticker": "SPXIIJ"
+  },
+  {
+    "Instrument Name": "Investec USD S&P 500 Autocall - IBLIX13",
+    "Exchange": "JSE",
+    "Ticker": "IBLIX13"
+  },
+  {
+    "Instrument Name": "Investec USD S&P 500 Autocall - SPXIIN",
+    "Exchange": "JSE",
+    "Ticker": "SPXIIN"
+  },
+  {
+    "Instrument Name": "Investec USD S&P 500 Digital Plus",
+    "Exchange": "JSE",
+    "Ticker": "SPIB14"
+  },
+  {
+    "Instrument Name": "Investec USD S&P 500 Value Index Autocall",
+    "Exchange": "JSE",
+    "Ticker": "SVXIIA"
+  },
+  {
+    "Instrument Name": "Investec Wealth Accelerator",
+    "Exchange": "JSE",
+    "Ticker": "SPIB1999"
+  },
+  {
+    "Instrument Name": "Investec Wealth Accelerator",
+    "Exchange": "JSE",
+    "Ticker": "SPIB19"
+  },
+  {
+    "Instrument Name": "Invicta Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "IVT"
+  },
+  {
+    "Instrument Name": "Invicta Holdings Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "IVTN"
+  },
+  {
+    "Instrument Name": "Invicta Holdings Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "IVTP"
+  },
+  {
+    "Instrument Name": "IPSA Group Plc",
+    "Exchange": "JSE",
+    "Ticker": "IPS"
+  },
+  {
+    "Instrument Name": "Irongate Group",
+    "Exchange": "JSE",
+    "Ticker": "IAP"
+  },
+  {
+    "Instrument Name": "ISA Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "ISA"
+  },
+  {
+    "Instrument Name": "Italtile Limited",
+    "Exchange": "JSE",
+    "Ticker": "ITE"
+  },
+  {
+    "Instrument Name": "Italtile Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "ITEN"
+  },
+  {
+    "Instrument Name": "Jasco Electron Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "JSC"
+  },
+  {
+    "Instrument Name": "Jasco Electronics Holdings Ltd Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "JSCN"
+  },
+  {
+    "Instrument Name": "JCI Limited",
+    "Exchange": "JSE",
+    "Ticker": "UJCD"
+  },
+  {
+    "Instrument Name": "JD Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "JDG"
+  },
+  {
+    "Instrument Name": "JSE Limited",
+    "Exchange": "JSE",
+    "Ticker": "JSE"
+  },
+  {
+    "Instrument Name": "Jubilee Metals Group PLC",
+    "Exchange": "JSE",
+    "Ticker": "JBL"
+  },
+  {
+    "Instrument Name": "Kaap Agri Limited",
+    "Exchange": "JSE",
+    "Ticker": "KAL"
+  },
+  {
+    "Instrument Name": "Kalon Venture Partners Fund II Limited",
+    "Exchange": "JSE ETFs",
+    "Ticker": "KVPFII"
+  },
+  {
+    "Instrument Name": "KAP Industrial Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "KAP"
+  },
+  {
+    "Instrument Name": "KAP Industrial Holdings Limited Rights",
+    "Exchange": "JSE",
+    "Ticker": "KAPN"
+  },
+  {
+    "Instrument Name": "Karooooo Limited",
+    "Exchange": "JSE",
+    "Ticker": "KRO"
+  },
+  {
+    "Instrument Name": "Kaydav Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "KDV"
+  },
+  {
+    "Instrument Name": "Keaton Energy Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "KEH"
+  },
+  {
+    "Instrument Name": "Kelly Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "KEL"
+  },
+  {
+    "Instrument Name": "Kibo Energy PLC",
+    "Exchange": "JSE",
+    "Ticker": "KBO"
+  },
+  {
+    "Instrument Name": "Kore Potash Plc",
+    "Exchange": "JSE",
+    "Ticker": "KP2"
+  },
+  {
+    "Instrument Name": "Krugerrand Custodial Certificate",
+    "Exchange": "JSE ETFs",
+    "Ticker": "KCCGLD"
+  },
+  {
+    "Instrument Name": "Kumba Iron Ore Limited",
+    "Exchange": "JSE",
+    "Ticker": "KIO"
+  },
+  {
+    "Instrument Name": "Labat Africa Limited",
+    "Exchange": "JSE",
+    "Ticker": "LAB"
+  },
+  {
+    "Instrument Name": "Lesaka Technologies Inc",
+    "Exchange": "JSE",
+    "Ticker": "LSK"
+  },
+  {
+    "Instrument Name": "Letters of Allotment - UCP500",
+    "Exchange": "JSE",
+    "Ticker": "UCP500"
+  },
+  {
+    "Instrument Name": "Letters of Allotment - UGPROP",
+    "Exchange": "JSE",
+    "Ticker": "UGPROP"
+  },
+  {
+    "Instrument Name": "Lewis Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "LEW"
+  },
+  {
+    "Instrument Name": "Liberty Holdings 11c Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "LBHP"
+  },
+  {
+    "Instrument Name": "Liberty Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "LBH"
+  },
+  {
+    "Instrument Name": "Liberty Two Degrees",
+    "Exchange": "JSE",
+    "Ticker": "L2D"
+  },
+  {
+    "Instrument Name": "Libstar Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "LBR"
+  },
+  {
+    "Instrument Name": "Life Healthcare Group",
+    "Exchange": "JSE",
+    "Ticker": "LHC"
+  },
+  {
+    "Instrument Name": "Life Healthcare Group Rights",
+    "Exchange": "JSE",
+    "Ticker": "LHCN"
+  },
+  {
+    "Instrument Name": "Lighthouse Capital Ltd NPL",
+    "Exchange": "JSE",
+    "Ticker": "LTEN"
+  },
+  {
+    "Instrument Name": "Lighthouse Properties plc",
+    "Exchange": "JSE",
+    "Ticker": "LTE"
+  },
+  {
+    "Instrument Name": "Litha Healthcare Grp Limited",
+    "Exchange": "JSE",
+    "Ticker": "LHG"
+  },
+  {
+    "Instrument Name": "Lodestone Reit Limited",
+    "Exchange": "JSE",
+    "Ticker": "LDO"
+  },
+  {
+    "Instrument Name": "London Fin Inv Group PLC",
+    "Exchange": "JSE",
+    "Ticker": "LNF"
+  },
+  {
+    "Instrument Name": "Long 4 Life Limited",
+    "Exchange": "JSE",
+    "Ticker": "L4L"
+  },
+  {
+    "Instrument Name": "Lonmin PLC",
+    "Exchange": "JSE",
+    "Ticker": "LON"
+  },
+  {
+    "Instrument Name": "Lonmin PLC Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "LONN"
+  },
+  {
+    "Instrument Name": "Luxe Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "LUX"
+  },
+  {
+    "Instrument Name": "M Cubed Capital",
+    "Exchange": "JSE",
+    "Ticker": "UMCU"
+  },
+  {
+    "Instrument Name": "M-FITEC International Limited",
+    "Exchange": "JSE",
+    "Ticker": "MFI"
+  },
+  {
+    "Instrument Name": "MacquarieSA EL Pref EXX1",
+    "Exchange": "JSE",
+    "Ticker": "MAQP1"
+  },
+  {
+    "Instrument Name": "MAHUBE Infrastructure Limited",
+    "Exchange": "JSE",
+    "Ticker": "MHB"
+  },
+  {
+    "Instrument Name": "Mantengu Mining Limited",
+    "Exchange": "JSE",
+    "Ticker": "MTU"
+  },
+  {
+    "Instrument Name": "Mantengu Mining Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "MTUN"
+  },
+  {
+    "Instrument Name": "Mara Delta Property Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "MDP"
+  },
+  {
+    "Instrument Name": "Mara Delta Property Holdings Rights",
+    "Exchange": "JSE",
+    "Ticker": "MDPN"
+  },
+  {
+    "Instrument Name": "Marshall Monteagle PLC",
+    "Exchange": "JSE",
+    "Ticker": "MMP"
+  },
+  {
+    "Instrument Name": "MAS Real Estate Inc",
+    "Exchange": "JSE",
+    "Ticker": "MSP"
+  },
+  {
+    "Instrument Name": "Masonite Africa Limited",
+    "Exchange": "JSE",
+    "Ticker": "MAS"
+  },
+  {
+    "Instrument Name": "Massmart Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "MSM"
+  },
+  {
+    "Instrument Name": "Master Drilling Grp Limited",
+    "Exchange": "JSE",
+    "Ticker": "MDI"
+  },
+  {
+    "Instrument Name": "Master Plastics Limited",
+    "Exchange": "JSE",
+    "Ticker": "MAP"
+  },
+  {
+    "Instrument Name": "Mazor Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "MZR"
+  },
+  {
+    "Instrument Name": "MC Mining Limited",
+    "Exchange": "JSE",
+    "Ticker": "MCZ"
+  },
+  {
+    "Instrument Name": "MC Mining Limited LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "MCZN"
+  },
+  {
+    "Instrument Name": "Mediclinic Internat Limited",
+    "Exchange": "JSE",
+    "Ticker": "MDC"
+  },
+  {
+    "Instrument Name": "Mediclinic Internat Limited - Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "MDCN"
+  },
+  {
+    "Instrument Name": "Mediclinic International PLC",
+    "Exchange": "JSE",
+    "Ticker": "MEI"
+  },
+  {
+    "Instrument Name": "Merafe Resources Limited",
+    "Exchange": "JSE",
+    "Ticker": "MRF"
+  },
+  {
+    "Instrument Name": "Metair Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "MTA"
+  },
+  {
+    "Instrument Name": "Metmar Limited",
+    "Exchange": "JSE",
+    "Ticker": "MML"
+  },
+  {
+    "Instrument Name": "Metrofile Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "MFL"
+  },
+  {
+    "Instrument Name": "Mettle Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "MLE"
+  },
+  {
+    "Instrument Name": "Micromega Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "MMG"
+  },
+  {
+    "Instrument Name": "Middle East Diamond Resources Limited",
+    "Exchange": "JSE",
+    "Ticker": "MED"
+  },
+  {
+    "Instrument Name": "Mine Restoration Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "MRI"
+  },
+  {
+    "Instrument Name": "Miranda Mineral Holdings Ld",
+    "Exchange": "JSE",
+    "Ticker": "MMH"
+  },
+  {
+    "Instrument Name": "Mix Telematics Limited",
+    "Exchange": "JSE",
+    "Ticker": "MIX"
+  },
+  {
+    "Instrument Name": "MMI Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "MMI"
+  },
+  {
+    "Instrument Name": "Momentum Metropolitan Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "MTM"
+  },
+  {
+    "Instrument Name": "Mondi Limited",
+    "Exchange": "JSE",
+    "Ticker": "MND"
+  },
+  {
+    "Instrument Name": "Mondi Limited - UNLISTED",
+    "Exchange": "JSE",
+    "Ticker": "UMND"
+  },
+  {
+    "Instrument Name": "Mondi PLC",
+    "Exchange": "JSE",
+    "Ticker": "MNP"
+  },
+  {
+    "Instrument Name": "Mondi Plc Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UMNP"
+  },
+  {
+    "Instrument Name": "Mondi Plc Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UMNP1"
+  },
+  {
+    "Instrument Name": "Moneyweb Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "MNY"
+  },
+  {
+    "Instrument Name": "Montauk Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "MNK"
+  },
+  {
+    "Instrument Name": "Montauk Renewables In.",
+    "Exchange": "JSE",
+    "Ticker": "MKR"
+  },
+  {
+    "Instrument Name": "Morvest Business Grp Limited",
+    "Exchange": "JSE",
+    "Ticker": "MOR"
+  },
+  {
+    "Instrument Name": "Motus Holding Limited",
+    "Exchange": "JSE",
+    "Ticker": "MTH"
+  },
+  {
+    "Instrument Name": "Mpact Limited",
+    "Exchange": "JSE",
+    "Ticker": "MPT"
+  },
+  {
+    "Instrument Name": "Mr Price Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "MRP"
+  },
+  {
+    "Instrument Name": "Mr Price Group Limited OLD",
+    "Exchange": "JSE",
+    "Ticker": "MRPO"
+  },
+  {
+    "Instrument Name": "MSCI India Feeder ETF LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXNDA"
+  },
+  {
+    "Instrument Name": "MTN Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "MTN"
+  },
+  {
+    "Instrument Name": "MultiChoice Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "MCG"
+  },
+  {
+    "Instrument Name": "Murray & Roberts Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "MUR"
+  },
+  {
+    "Instrument Name": "Mustek Limited",
+    "Exchange": "JSE",
+    "Ticker": "MST"
+  },
+  {
+    "Instrument Name": "Nampak Limited",
+    "Exchange": "JSE",
+    "Ticker": "NPK"
+  },
+  {
+    "Instrument Name": "Nampak Limited LOA",
+    "Exchange": "JSE",
+    "Ticker": "NPKN"
+  },
+  {
+    "Instrument Name": "Naspers - M",
+    "Exchange": "JSE",
+    "Ticker": "NPM"
+  },
+  {
+    "Instrument Name": "Naspers Limited",
+    "Exchange": "JSE",
+    "Ticker": "NPN"
+  },
+  {
+    "Instrument Name": "Naspers Limited OLD",
+    "Exchange": "JSE",
+    "Ticker": "NPNOLD"
+  },
+  {
+    "Instrument Name": "Nedbank Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "NED"
+  },
+  {
+    "Instrument Name": "Nedbank Limited",
+    "Exchange": "JSE",
+    "Ticker": "NBAGLw"
+  },
+  {
+    "Instrument Name": "Nedbank Ltd Pref",
+    "Exchange": "JSE",
+    "Ticker": "NBKP"
+  },
+  {
+    "Instrument Name": "NEPI Rockcastle N.V.",
+    "Exchange": "JSE",
+    "Ticker": "NRP"
+  },
+  {
+    "Instrument Name": "Netcare Limited",
+    "Exchange": "JSE",
+    "Ticker": "NTC"
+  },
+  {
+    "Instrument Name": "Netcare Limited Preference Share",
+    "Exchange": "JSE",
+    "Ticker": "NTCP"
+  },
+  {
+    "Instrument Name": "New Europe Property Investment PLC",
+    "Exchange": "JSE",
+    "Ticker": "NEP"
+  },
+  {
+    "Instrument Name": "New Frontier Properties Limited",
+    "Exchange": "JSE",
+    "Ticker": "NFP"
+  },
+  {
+    "Instrument Name": "New Wave EUR ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NEWEUR"
+  },
+  {
+    "Instrument Name": "New Wave GBP ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NEWGBP"
+  },
+  {
+    "Instrument Name": "New Wave Platinum ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NEWPLT"
+  },
+  {
+    "Instrument Name": "New Wave Silver ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NEWSLV"
+  },
+  {
+    "Instrument Name": "New Wave USD ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NEWUSD"
+  },
+  {
+    "Instrument Name": "Newbelco Unlisted Restricted Shares",
+    "Exchange": "JSE",
+    "Ticker": "UNBL"
+  },
+  {
+    "Instrument Name": "NewFunds Equity Momentum ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFEMOM"
+  },
+  {
+    "Instrument Name": "NewFunds GOVI ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFGOVI"
+  },
+  {
+    "Instrument Name": "NewFunds ILBI ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFILBI"
+  },
+  {
+    "Instrument Name": "Newfunds Low Volatility Equity ETF LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UNFEVOL"
+  },
+  {
+    "Instrument Name": "NewFunds Low Volatility ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFEVOL"
+  },
+  {
+    "Instrument Name": "NewFunds MAPPS Growth ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "MAPPSG"
+  },
+  {
+    "Instrument Name": "NewFunds MAPPS Protect ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "MAPPSP"
+  },
+  {
+    "Instrument Name": "NewFunds NewSA Index ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NEWFSA"
+  },
+  {
+    "Instrument Name": "NewFunds Reitway Global Property ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NEWPRP"
+  },
+  {
+    "Instrument Name": "NewFunds S&P GIVI SA Financial 15 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GIVFIN"
+  },
+  {
+    "Instrument Name": "NewFunds S&P GIVI SA Industrial 25 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GIVIND"
+  },
+  {
+    "Instrument Name": "NewFunds S&P GIVI SA Resource 15 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GIVRES"
+  },
+  {
+    "Instrument Name": "NewFunds S&P GIVI SA Top 50 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GIVISA"
+  },
+  {
+    "Instrument Name": "Newfunds S&P Namibia Bond ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFNAMB"
+  },
+  {
+    "Instrument Name": "Newfunds S&P Namibia Bond ETF Letter of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UNFNAM"
+  },
+  {
+    "Instrument Name": "NewFunds Shari'ah Top 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFSH40"
+  },
+  {
+    "Instrument Name": "NewFunds SWIX 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFSWIX"
+  },
+  {
+    "Instrument Name": "NewFunds TRACI 3 Month ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFTRCI"
+  },
+  {
+    "Instrument Name": "NewFunds Value Equity ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFEVAL"
+  },
+  {
+    "Instrument Name": "Newfunds Value Equity LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UNFEVAL"
+  },
+  {
+    "Instrument Name": "NEWFUNDS VOLATILITY MANAGED DEFENSIVE EQUITY ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFEDEF"
+  },
+  {
+    "Instrument Name": "NEWFUNDS VOLATILITY MANAGED DEFENSIVE EQUITY ETF Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UNFEDEF"
+  },
+  {
+    "Instrument Name": "NEWFUNDS VOLATILITY MANAGED HIGH GROWTH EQUITY ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFEHGE"
+  },
+  {
+    "Instrument Name": "NEWFUNDS VOLATILITY MANAGED HIGH GROWTH EQUITY ETF Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UNFEHGE"
+  },
+  {
+    "Instrument Name": "NEWFUNDS VOLATILITY MANAGED MODERATE EQUITY ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NFEMOD"
+  },
+  {
+    "Instrument Name": "NEWFUNDS VOLATILITY MANAGED MODERATE EQUITY ETF Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UNFEMOD"
+  },
+  {
+    "Instrument Name": "NewGold ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "GLD"
+  },
+  {
+    "Instrument Name": "NewPalladium ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NGPLD"
+  },
+  {
+    "Instrument Name": "Newpark REIT Limited",
+    "Exchange": "JSE",
+    "Ticker": "NRL"
+  },
+  {
+    "Instrument Name": "NewPlat ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "NGPLT"
+  },
+  {
+    "Instrument Name": "Nictus Limited",
+    "Exchange": "JSE",
+    "Ticker": "NCS"
+  },
+  {
+    "Instrument Name": "Ninety One Limited",
+    "Exchange": "JSE",
+    "Ticker": "NY1"
+  },
+  {
+    "Instrument Name": "Ninety One Plc",
+    "Exchange": "JSE",
+    "Ticker": "N91"
+  },
+  {
+    "Instrument Name": "Niveus Invest 19 Limited Unlisted",
+    "Exchange": "JSE",
+    "Ticker": "UNIV"
+  },
+  {
+    "Instrument Name": "Niveus Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "NIV"
+  },
+  {
+    "Instrument Name": "Northam Platinum Holdings Ltd",
+    "Exchange": "JSE",
+    "Ticker": "NPH"
+  },
+  {
+    "Instrument Name": "Northam Platinum Limited",
+    "Exchange": "JSE",
+    "Ticker": "NHM"
+  },
+  {
+    "Instrument Name": "Northam Platinum Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "NHMN"
+  },
+  {
+    "Instrument Name": "Novus Holdings Ltd",
+    "Exchange": "JSE",
+    "Ticker": "NVS"
+  },
+  {
+    "Instrument Name": "Nu-World Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "NWL"
+  },
+  {
+    "Instrument Name": "Numeral Ltd",
+    "Exchange": "JSE",
+    "Ticker": "XII"
+  },
+  {
+    "Instrument Name": "Numoro AQUA Global Multi-Asset Prescient Actively Managed ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "AQUA"
+  },
+  {
+    "Instrument Name": "Nutritional Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "NUT"
+  },
+  {
+    "Instrument Name": "Nutritional Holdings Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "NUTN"
+  },
+  {
+    "Instrument Name": "Nvest Financial Holdings Ltd",
+    "Exchange": "JSE",
+    "Ticker": "NVE"
+  },
+  {
+    "Instrument Name": "Oakbay Resources and Energy Ltd",
+    "Exchange": "JSE",
+    "Ticker": "ORL"
+  },
+  {
+    "Instrument Name": "Oando PLC",
+    "Exchange": "JSE",
+    "Ticker": "OAO"
+  },
+  {
+    "Instrument Name": "Oando PLC Rights",
+    "Exchange": "JSE",
+    "Ticker": "OAON"
+  },
+  {
+    "Instrument Name": "Oasis Crescent Property Fund",
+    "Exchange": "JSE",
+    "Ticker": "OAS"
+  },
+  {
+    "Instrument Name": "Oceana Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "OCE"
+  },
+  {
+    "Instrument Name": "Oceana Group Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "OCEN"
+  },
+  {
+    "Instrument Name": "Octodec Invest Limited",
+    "Exchange": "JSE",
+    "Ticker": "OCT"
+  },
+  {
+    "Instrument Name": "Old Mutual Limited",
+    "Exchange": "JSE",
+    "Ticker": "OMU"
+  },
+  {
+    "Instrument Name": "Old Mutual PLC",
+    "Exchange": "JSE",
+    "Ticker": "OML"
+  },
+  {
+    "Instrument Name": "Omnia Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "OMN"
+  },
+  {
+    "Instrument Name": "Omnia Holdings Ltd NPL",
+    "Exchange": "JSE",
+    "Ticker": "OMNN"
+  },
+  {
+    "Instrument Name": "Onelogix Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "OLG"
+  },
+  {
+    "Instrument Name": "Orion Minerals",
+    "Exchange": "JSE",
+    "Ticker": "ORN"
+  },
+  {
+    "Instrument Name": "Orion Real Estate Limited",
+    "Exchange": "JSE",
+    "Ticker": "ORE"
+  },
+  {
+    "Instrument Name": "OUTsurance Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "OUT"
+  },
+  {
+    "Instrument Name": "Palabora Mining Co Ltd",
+    "Exchange": "JSE",
+    "Ticker": "PAM"
+  },
+  {
+    "Instrument Name": "Paladium Commodity Linker",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBAPD1"
+  },
+  {
+    "Instrument Name": "Pallinghurst Res Limited",
+    "Exchange": "JSE",
+    "Ticker": "PGL"
+  },
+  {
+    "Instrument Name": "Pamodzi Gold Limited",
+    "Exchange": "JSE",
+    "Ticker": "PZG"
+  },
+  {
+    "Instrument Name": "Pan African Resource PLC",
+    "Exchange": "JSE",
+    "Ticker": "PAN"
+  },
+  {
+    "Instrument Name": "PBT Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "PBG"
+  },
+  {
+    "Instrument Name": "Pembury Lifestyle Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "PEM"
+  },
+  {
+    "Instrument Name": "Pepkor Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "PPH"
+  },
+  {
+    "Instrument Name": "Peregrine Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "PGR"
+  },
+  {
+    "Instrument Name": "Petmin Limited",
+    "Exchange": "JSE",
+    "Ticker": "PET"
+  },
+  {
+    "Instrument Name": "Phumelela Game Leisure",
+    "Exchange": "JSE",
+    "Ticker": "PHM"
+  },
+  {
+    "Instrument Name": "Phumelela Game Leisure \"Rights",
+    "Exchange": "JSE",
+    "Ticker": "PHMN"
+  },
+  {
+    "Instrument Name": "Pick n Pay Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "PWK"
+  },
+  {
+    "Instrument Name": "Pick n Pay Stores Limited",
+    "Exchange": "JSE",
+    "Ticker": "PIK"
+  },
+  {
+    "Instrument Name": "Pinnacle Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "PNC"
+  },
+  {
+    "Instrument Name": "Pinnacle Point Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "PNG"
+  },
+  {
+    "Instrument Name": "Pioneer Foods Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "PFG"
+  },
+  {
+    "Instrument Name": "Pivotal Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "PIV"
+  },
+  {
+    "Instrument Name": "Platfields Limited",
+    "Exchange": "JSE",
+    "Ticker": "PLL"
+  },
+  {
+    "Instrument Name": "Platinum Commodity Linker",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBAPL1"
+  },
+  {
+    "Instrument Name": "PortfolioMetrix Active Income Prescient AMETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "PMXINC"
+  },
+  {
+    "Instrument Name": "Powerfleet Inc",
+    "Exchange": "JSE",
+    "Ticker": "PWR"
+  },
+  {
+    "Instrument Name": "PPC Limited",
+    "Exchange": "JSE",
+    "Ticker": "PPC"
+  },
+  {
+    "Instrument Name": "PPC Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "PPCN"
+  },
+  {
+    "Instrument Name": "Premier Fishing & Brands Limited",
+    "Exchange": "JSE",
+    "Ticker": "PFB"
+  },
+  {
+    "Instrument Name": "Premier Food And Fishing Limited",
+    "Exchange": "JSE",
+    "Ticker": "PFF"
+  },
+  {
+    "Instrument Name": "Premier Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "PMR"
+  },
+  {
+    "Instrument Name": "Premium Properties Limited",
+    "Exchange": "JSE",
+    "Ticker": "PMM"
+  },
+  {
+    "Instrument Name": "Prescient Holdings (Pty) Limited",
+    "Exchange": "JSE",
+    "Ticker": "UPCT"
+  },
+  {
+    "Instrument Name": "Prescient Income Provider Feeder AMETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "PIPETF"
+  },
+  {
+    "Instrument Name": "Prescient Limited",
+    "Exchange": "JSE",
+    "Ticker": "PCT"
+  },
+  {
+    "Instrument Name": "Primary Health Properties PLC",
+    "Exchange": "JSE",
+    "Ticker": "PHP"
+  },
+  {
+    "Instrument Name": "Primeserv Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "PMV"
+  },
+  {
+    "Instrument Name": "Prosus N.V",
+    "Exchange": "JSE",
+    "Ticker": "PRX"
+  },
+  {
+    "Instrument Name": "Protech Khuthele Holdings",
+    "Exchange": "JSE",
+    "Ticker": "PKH"
+  },
+  {
+    "Instrument Name": "PSG Financial Serv Pref",
+    "Exchange": "JSE",
+    "Ticker": "PGFP"
+  },
+  {
+    "Instrument Name": "PSG Financial Services Limited",
+    "Exchange": "JSE",
+    "Ticker": "KST"
+  },
+  {
+    "Instrument Name": "PSG Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "PSG"
+  },
+  {
+    "Instrument Name": "PSV Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "PSV"
+  },
+  {
+    "Instrument Name": "Purple Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "PPE"
+  },
+  {
+    "Instrument Name": "PURPLE GROUP LIMITED LOA",
+    "Exchange": "JSE",
+    "Ticker": "PPEN"
+  },
+  {
+    "Instrument Name": "Putprop Limited",
+    "Exchange": "JSE",
+    "Ticker": "PPR"
+  },
+  {
+    "Instrument Name": "Putprop Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "PPRN"
+  },
+  {
+    "Instrument Name": "Quantum Foods Holdings",
+    "Exchange": "JSE",
+    "Ticker": "QFH"
+  },
+  {
+    "Instrument Name": "Quilter PLC",
+    "Exchange": "JSE",
+    "Ticker": "QLT"
+  },
+  {
+    "Instrument Name": "Rand Merchant Investment Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "RMI"
+  },
+  {
+    "Instrument Name": "Randgold & Exploration Company Limited",
+    "Exchange": "JSE",
+    "Ticker": "RNG"
+  },
+  {
+    "Instrument Name": "Rare Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "RAR"
+  },
+  {
+    "Instrument Name": "Raubex Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "RBX"
+  },
+  {
+    "Instrument Name": "RBA Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "RBA"
+  },
+  {
+    "Instrument Name": "RCL Foods Limited",
+    "Exchange": "JSE",
+    "Ticker": "RCL"
+  },
+  {
+    "Instrument Name": "RDI REIT PLC",
+    "Exchange": "JSE",
+    "Ticker": "RPL"
+  },
+  {
+    "Instrument Name": "Rebosis Property Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "REB"
+  },
+  {
+    "Instrument Name": "Rebosis Property Fund Limited A",
+    "Exchange": "JSE",
+    "Ticker": "REA"
+  },
+  {
+    "Instrument Name": "Rebosis Property Fund Ltd Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "REBN"
+  },
+  {
+    "Instrument Name": "Recm and Calibre Limited Pref",
+    "Exchange": "JSE",
+    "Ticker": "RACP"
+  },
+  {
+    "Instrument Name": "Redefine Properties Limited",
+    "Exchange": "JSE",
+    "Ticker": "RDF"
+  },
+  {
+    "Instrument Name": "Redefine Properties Limited - UNLISTED",
+    "Exchange": "JSE",
+    "Ticker": "URPT"
+  },
+  {
+    "Instrument Name": "Reinet Investments SCA",
+    "Exchange": "JSE",
+    "Ticker": "REI"
+  },
+  {
+    "Instrument Name": "Reinet Investments SCA",
+    "Exchange": "JSE",
+    "Ticker": "RNI"
+  },
+  {
+    "Instrument Name": "Reitway Global Property Diversified Prescient ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "RWDVF"
+  },
+  {
+    "Instrument Name": "Reitway Global Property ESG Prescient ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "RWESG"
+  },
+  {
+    "Instrument Name": "Reitway Global Property Prescient AMETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "RWAGP"
+  },
+  {
+    "Instrument Name": "Reitway Global Property Prescient ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "RWGPR"
+  },
+  {
+    "Instrument Name": "Remgro Limited",
+    "Exchange": "JSE",
+    "Ticker": "REM"
+  },
+  {
+    "Instrument Name": "Remgro Limited \"Rights",
+    "Exchange": "JSE",
+    "Ticker": "REMN"
+  },
+  {
+    "Instrument Name": "Renergen Limited",
+    "Exchange": "JSE",
+    "Ticker": "REN"
+  },
+  {
+    "Instrument Name": "Renergen Limited Letters of Allotment",
+    "Exchange": "JSE",
+    "Ticker": "RENN"
+  },
+  {
+    "Instrument Name": "Resilient Property Fund Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "RESN"
+  },
+  {
+    "Instrument Name": "Resilient REIT Limited",
+    "Exchange": "JSE",
+    "Ticker": "RES"
+  },
+  {
+    "Instrument Name": "Resource Generation Limited",
+    "Exchange": "JSE",
+    "Ticker": "RSG"
+  },
+  {
+    "Instrument Name": "Retirement",
+    "Exchange": "JSE ETFs",
+    "Ticker": "RTM"
+  },
+  {
+    "Instrument Name": "Reunert Limited",
+    "Exchange": "JSE",
+    "Ticker": "RLO"
+  },
+  {
+    "Instrument Name": "Revego Africa Energy Ltd",
+    "Exchange": "JSE",
+    "Ticker": "RVG"
+  },
+  {
+    "Instrument Name": "Rex Trueform Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "RTO"
+  },
+  {
+    "Instrument Name": "RFG Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "RFG"
+  },
+  {
+    "Instrument Name": "RH Bophelo Limited",
+    "Exchange": "JSE",
+    "Ticker": "RHB"
+  },
+  {
+    "Instrument Name": "RMB Coal Etn 05May2016 ETN",
+    "Exchange": "JSE",
+    "Ticker": "COLRMB"
+  },
+  {
+    "Instrument Name": "RMB Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "RMH"
+  },
+  {
+    "Instrument Name": "RMB Inflation ETF - Name Changed",
+    "Exchange": "JSE ETFs",
+    "Ticker": "RMBINF"
+  },
+  {
+    "Instrument Name": "RMB Mid Cap ETF - Name Changed",
+    "Exchange": "JSE ETFs",
+    "Ticker": "RMBMID"
+  },
+  {
+    "Instrument Name": "RMB Oil",
+    "Exchange": "JSE",
+    "Ticker": "OILRMB"
+  },
+  {
+    "Instrument Name": "RMB Top 40 ETF - Name Changed",
+    "Exchange": "JSE ETFs",
+    "Ticker": "RMBT40"
+  },
+  {
+    "Instrument Name": "Rockcastle Global Real Estate",
+    "Exchange": "JSE",
+    "Ticker": "ROC"
+  },
+  {
+    "Instrument Name": "Rockwell Diamonds Inc",
+    "Exchange": "JSE",
+    "Ticker": "RDI"
+  },
+  {
+    "Instrument Name": "Rolfes Technology Holdings",
+    "Exchange": "JSE",
+    "Ticker": "RLF"
+  },
+  {
+    "Instrument Name": "Royal Bafokeng Platinum Limited",
+    "Exchange": "JSE",
+    "Ticker": "RBP"
+  },
+  {
+    "Instrument Name": "Royal Bafokeng Platinum Limited LOA",
+    "Exchange": "JSE",
+    "Ticker": "RBPN"
+  },
+  {
+    "Instrument Name": "SA Corp Real Estate Limited",
+    "Exchange": "JSE",
+    "Ticker": "SAC"
+  },
+  {
+    "Instrument Name": "SA Corp Real Estate Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "SACN"
+  },
+  {
+    "Instrument Name": "Sable Exploration & Mining NPL Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SXMN"
+  },
+  {
+    "Instrument Name": "Sable Exploration and Mining Limited",
+    "Exchange": "JSE",
+    "Ticker": "SXM"
+  },
+  {
+    "Instrument Name": "Sable Metals and Min Limited",
+    "Exchange": "JSE",
+    "Ticker": "SMM"
+  },
+  {
+    "Instrument Name": "SABMiller PLC",
+    "Exchange": "JSE",
+    "Ticker": "SAB"
+  },
+  {
+    "Instrument Name": "Sabvest Capital Limited",
+    "Exchange": "JSE",
+    "Ticker": "SBP"
+  },
+  {
+    "Instrument Name": "Sabvest Limited",
+    "Exchange": "JSE",
+    "Ticker": "SBV"
+  },
+  {
+    "Instrument Name": "Sabvest Ltd N Ordinary",
+    "Exchange": "JSE",
+    "Ticker": "SVN"
+  },
+  {
+    "Instrument Name": "Sacoil Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "SCL"
+  },
+  {
+    "Instrument Name": "Safari Investments RSA Limited",
+    "Exchange": "JSE",
+    "Ticker": "SAR"
+  },
+  {
+    "Instrument Name": "Safari Investments RSA Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "SARN"
+  },
+  {
+    "Instrument Name": "Safari Investments RSA Limited UNLISTED",
+    "Exchange": "JSE",
+    "Ticker": "USIL"
+  },
+  {
+    "Instrument Name": "Salungano Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "SLG"
+  },
+  {
+    "Instrument Name": "Sandown Capital Limited",
+    "Exchange": "JSE",
+    "Ticker": "SDC"
+  },
+  {
+    "Instrument Name": "Sanlam Limited",
+    "Exchange": "JSE",
+    "Ticker": "SLM"
+  },
+  {
+    "Instrument Name": "Santam Limited",
+    "Exchange": "JSE",
+    "Ticker": "SNT"
+  },
+  {
+    "Instrument Name": "Santova Logistics Limited",
+    "Exchange": "JSE",
+    "Ticker": "SNV"
+  },
+  {
+    "Instrument Name": "Sanyati Holdings Ltd",
+    "Exchange": "JSE",
+    "Ticker": "SAN"
+  },
+  {
+    "Instrument Name": "Sappi Limited",
+    "Exchange": "JSE",
+    "Ticker": "SAP"
+  },
+  {
+    "Instrument Name": "Sasfin Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "SFN"
+  },
+  {
+    "Instrument Name": "Sasfin Holdings Limited Preference Shares",
+    "Exchange": "JSE",
+    "Ticker": "SFNP"
+  },
+  {
+    "Instrument Name": "Sasol Limited",
+    "Exchange": "JSE",
+    "Ticker": "SOL"
+  },
+  {
+    "Instrument Name": "Satrix 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STX40"
+  },
+  {
+    "Instrument Name": "Satrix Capped All Share ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXCAP"
+  },
+  {
+    "Instrument Name": "Satrix Capped All Share ETF LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXCAP"
+  },
+  {
+    "Instrument Name": "Satrix Capped INDI ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXIND"
+  },
+  {
+    "Instrument Name": "Satrix DIVI ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXDIV"
+  },
+  {
+    "Instrument Name": "Satrix Equity Momentum ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXEQM"
+  },
+  {
+    "Instrument Name": "Satrix FINI ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXFIN"
+  },
+  {
+    "Instrument Name": "Satrix Global Aggregate Bond Feeder Portfolio",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXGBD"
+  },
+  {
+    "Instrument Name": "Satrix Global Infra Feed",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXIFR"
+  },
+  {
+    "Instrument Name": "Satrix Global Infrastructure Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXIFR"
+  },
+  {
+    "Instrument Name": "Satrix GOVI ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXGVI"
+  },
+  {
+    "Instrument Name": "Satrix Healthcare Innovation Feeder ETF LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXHLT"
+  },
+  {
+    "Instrument Name": "Satrix Healthcare InnovationFeeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXHLT"
+  },
+  {
+    "Instrument Name": "Satrix ILBI ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXILB"
+  },
+  {
+    "Instrument Name": "Satrix ILBI ETF - Old",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXIFL"
+  },
+  {
+    "Instrument Name": "Satrix ILBI Letters of Allotment",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXIL"
+  },
+  {
+    "Instrument Name": "Satrix Inclusion & Diversity ETF LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXID"
+  },
+  {
+    "Instrument Name": "Satrix Inclusion and Diversity ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXID"
+  },
+  {
+    "Instrument Name": "Satrix JSE Global Equity ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXJGE"
+  },
+  {
+    "Instrument Name": "Satrix JSE Global Equity ETF LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXJGEL"
+  },
+  {
+    "Instrument Name": "Satrix Low Volatility ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXLVL"
+  },
+  {
+    "Instrument Name": "Satrix Momentum Portfolio",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXMMT"
+  },
+  {
+    "Instrument Name": "Satrix Momentum Portfolio Letters of Allotment",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXMM"
+  },
+  {
+    "Instrument Name": "Satrix MSCI ACWI Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXACW"
+  },
+  {
+    "Instrument Name": "Satrix MSCI China Feeder Portfolio",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXCHN"
+  },
+  {
+    "Instrument Name": "Satrix MSCI China Letters of Allotment",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXCN"
+  },
+  {
+    "Instrument Name": "Satrix MSCI Emerging Markets ESG Enhanced ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXEME"
+  },
+  {
+    "Instrument Name": "Satrix MSCI Emerging Markets ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXEMG"
+  },
+  {
+    "Instrument Name": "Satrix MSCI India Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXNDA"
+  },
+  {
+    "Instrument Name": "Satrix MSCI World ESG Enhanced ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXESG"
+  },
+  {
+    "Instrument Name": "Satrix MSCI World ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXWDM"
+  },
+  {
+    "Instrument Name": "Satrix Multi Asset Passive Portfolio Solutions Growth ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXMAG"
+  },
+  {
+    "Instrument Name": "Satrix Multi Asset Passive Portfolios Solutions Protect ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXMAP"
+  },
+  {
+    "Instrument Name": "Satrix Nasdaq 100 Feeder Portfolio",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXNDQ"
+  },
+  {
+    "Instrument Name": "Satrix Nasdaq 100 Feeder Portfolio LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXNQ"
+  },
+  {
+    "Instrument Name": "Satrix Property Letters of Allotment",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXPR"
+  },
+  {
+    "Instrument Name": "Satrix Property Portfolio ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXPRO"
+  },
+  {
+    "Instrument Name": "Satrix Quality Letters of Allotment",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXQU"
+  },
+  {
+    "Instrument Name": "Satrix Quality South Africa ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXQUA"
+  },
+  {
+    "Instrument Name": "Satrix RAFI 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXRAF"
+  },
+  {
+    "Instrument Name": "Satrix Reitway Global Property ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXGPR"
+  },
+  {
+    "Instrument Name": "Satrix RESI ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXRES"
+  },
+  {
+    "Instrument Name": "Satrix S&P 500 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STX500"
+  },
+  {
+    "Instrument Name": "Satrix S&P GIVI South Africa Top 50 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXT50"
+  },
+  {
+    "Instrument Name": "Satrix S&P Namibia Bond ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXNAM"
+  },
+  {
+    "Instrument Name": "Satrix SA Bond Portfolio",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXGOV"
+  },
+  {
+    "Instrument Name": "Satrix Shariah Top 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXSHA"
+  },
+  {
+    "Instrument Name": "Satrix Smart City Infrastructure Feeder ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXCTY"
+  },
+  {
+    "Instrument Name": "Satrix Smart City Infrastructure Feeder ETF LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXCTY"
+  },
+  {
+    "Instrument Name": "Satrix SWIX Top 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXSWX"
+  },
+  {
+    "Instrument Name": "Satrix TRACI 3 Month ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXTRA"
+  },
+  {
+    "Instrument Name": "Satrix Value Equity ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXVEQ"
+  },
+  {
+    "Instrument Name": "Satrix Volatility Managed SA Defensive Equity ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXDEQ"
+  },
+  {
+    "Instrument Name": "Satrix Volatility Managed SA High Growth Equity ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXGEQ"
+  },
+  {
+    "Instrument Name": "Satrix Volatility Managed SA Moderate Equity ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STXMEQ"
+  },
+  {
+    "Instrument Name": "SB Brent Crude Oil Etn",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBOIL"
+  },
+  {
+    "Instrument Name": "SB Copper Etn",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBCOP"
+  },
+  {
+    "Instrument Name": "SB Copper ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBACOP"
+  },
+  {
+    "Instrument Name": "SB Corn ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBACRN"
+  },
+  {
+    "Instrument Name": "SB Wheat ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBAWHT"
+  },
+  {
+    "Instrument Name": "SB Wti Oil Etn",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBAOIL"
+  },
+  {
+    "Instrument Name": "SBA Commodity Index ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBACI"
+  },
+  {
+    "Instrument Name": "Schroder European Real Estate Inv Trust PLC",
+    "Exchange": "JSE",
+    "Ticker": "SCD"
+  },
+  {
+    "Instrument Name": "Sea Harvest Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "SHG"
+  },
+  {
+    "Instrument Name": "Sea Kay Holdings Ltd",
+    "Exchange": "JSE",
+    "Ticker": "SKY"
+  },
+  {
+    "Instrument Name": "Sebata Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "SEB"
+  },
+  {
+    "Instrument Name": "Sedibelo Platinum Mines",
+    "Exchange": "JSE",
+    "Ticker": "USED"
+  },
+  {
+    "Instrument Name": "Sentula Mining Limited",
+    "Exchange": "JSE",
+    "Ticker": "SNU"
+  },
+  {
+    "Instrument Name": "Sentula Mining Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "SNUN"
+  },
+  {
+    "Instrument Name": "Sephaku Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "SEP"
+  },
+  {
+    "Instrument Name": "Sephaku Holdings Limited NPL",
+    "Exchange": "JSE",
+    "Ticker": "SEPN"
+  },
+  {
+    "Instrument Name": "Shaftesbury Capital PLC",
+    "Exchange": "JSE",
+    "Ticker": "SHC"
+  },
+  {
+    "Instrument Name": "Shoprite Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "SHP"
+  },
+  {
+    "Instrument Name": "Shoprite Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "SHPCB"
+  },
+  {
+    "Instrument Name": "Sibanye Gold Limited",
+    "Exchange": "JSE",
+    "Ticker": "SGL"
+  },
+  {
+    "Instrument Name": "Sibanye Gold Limited Rights",
+    "Exchange": "JSE",
+    "Ticker": "SGLN"
+  },
+  {
+    "Instrument Name": "Sibanye Stillwater Limited",
+    "Exchange": "JSE",
+    "Ticker": "SSW"
+  },
+  {
+    "Instrument Name": "Silver Commodity LinkerETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBAS1"
+  },
+  {
+    "Instrument Name": "SilverBridge Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "SVB"
+  },
+  {
+    "Instrument Name": "Silverleaf Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "SILVIL"
+  },
+  {
+    "Instrument Name": "Sirius Real Estate Limited",
+    "Exchange": "JSE",
+    "Ticker": "SRE"
+  },
+  {
+    "Instrument Name": "Sirius Real Estate Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "URSE"
+  },
+  {
+    "Instrument Name": "South African Coal Mining",
+    "Exchange": "JSE",
+    "Ticker": "SAH"
+  },
+  {
+    "Instrument Name": "South Ocean Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "SOH"
+  },
+  {
+    "Instrument Name": "South Ocean Holdings Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SOHN"
+  },
+  {
+    "Instrument Name": "South32 Limited",
+    "Exchange": "JSE",
+    "Ticker": "S32"
+  },
+  {
+    "Instrument Name": "Southern Palladium Limited",
+    "Exchange": "JSE",
+    "Ticker": "SDL"
+  },
+  {
+    "Instrument Name": "Southern Sun Limited",
+    "Exchange": "JSE",
+    "Ticker": "SSU"
+  },
+  {
+    "Instrument Name": "Southern View Finance Ltd",
+    "Exchange": "JSE",
+    "Ticker": "SVF"
+  },
+  {
+    "Instrument Name": "Sovereign Food Inv Limited",
+    "Exchange": "JSE",
+    "Ticker": "SOV"
+  },
+  {
+    "Instrument Name": "Spanjaard Limited",
+    "Exchange": "JSE",
+    "Ticker": "SPA"
+  },
+  {
+    "Instrument Name": "Spear REIT Limited",
+    "Exchange": "JSE",
+    "Ticker": "SEA"
+  },
+  {
+    "Instrument Name": "Spur Corporation Limited",
+    "Exchange": "JSE",
+    "Ticker": "SUR"
+  },
+  {
+    "Instrument Name": "Square One Solutions Grp",
+    "Exchange": "JSE",
+    "Ticker": "SQE"
+  },
+  {
+    "Instrument Name": "Stadio Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "SDO"
+  },
+  {
+    "Instrument Name": "Stadio Holdings Limited Rights",
+    "Exchange": "JSE",
+    "Ticker": "SDON"
+  },
+  {
+    "Instrument Name": "Standard Bank 6.5% Pref",
+    "Exchange": "JSE",
+    "Ticker": "SBKP"
+  },
+  {
+    "Instrument Name": "Standard Bank Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "SBK"
+  },
+  {
+    "Instrument Name": "Standard Bank of South Africa Limited ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SBAEI"
+  },
+  {
+    "Instrument Name": "Standard Bank Preference Shares",
+    "Exchange": "JSE",
+    "Ticker": "SBPP"
+  },
+  {
+    "Instrument Name": "Stanlib Global Government Bond LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UGLOGB"
+  },
+  {
+    "Instrument Name": "Stanlib Global REIT Index Feeder ETF  LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UGREIT"
+  },
+  {
+    "Instrument Name": "Stanlib MSCI World Index Feeder ETF LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UWORLD"
+  },
+  {
+    "Instrument Name": "Stanlib SA Property ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STPROP"
+  },
+  {
+    "Instrument Name": "STANLIB SWIX 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STANSX"
+  },
+  {
+    "Instrument Name": "STANLIB Top 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "STAN40"
+  },
+  {
+    "Instrument Name": "Stefanutti Stocks Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "SSK"
+  },
+  {
+    "Instrument Name": "Steinhoff Africa Retail Limited",
+    "Exchange": "JSE",
+    "Ticker": "SRR"
+  },
+  {
+    "Instrument Name": "Steinhoff International Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "SHF"
+  },
+  {
+    "Instrument Name": "Steinhoff International Holdings Limited Pref",
+    "Exchange": "JSE",
+    "Ticker": "SHFF"
+  },
+  {
+    "Instrument Name": "Steinhoff International Holdings NV",
+    "Exchange": "JSE",
+    "Ticker": "SNH"
+  },
+  {
+    "Instrument Name": "Stellar Capital Partners Limited",
+    "Exchange": "JSE",
+    "Ticker": "SCP"
+  },
+  {
+    "Instrument Name": "Stellar Capital Partners Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "SCPN"
+  },
+  {
+    "Instrument Name": "Stor-Age Property REIT Limited",
+    "Exchange": "JSE",
+    "Ticker": "SSS"
+  },
+  {
+    "Instrument Name": "Stoxx Global Select Dividend 100 Index",
+    "Exchange": "JSE",
+    "Ticker": "GSDIID"
+  },
+  {
+    "Instrument Name": "Stratcorp Limited",
+    "Exchange": "JSE",
+    "Ticker": "STA"
+  },
+  {
+    "Instrument Name": "STX500 - Letter of Allotment",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UST500"
+  },
+  {
+    "Instrument Name": "STXEMG - Letter of Allotment",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXEM"
+  },
+  {
+    "Instrument Name": "STXWDM - Letter of Allotment",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USTXWD"
+  },
+  {
+    "Instrument Name": "Sun International Limited",
+    "Exchange": "JSE",
+    "Ticker": "SUI"
+  },
+  {
+    "Instrument Name": "Sun International Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "SUIN"
+  },
+  {
+    "Instrument Name": "Sunstone Capital Limited",
+    "Exchange": "JSE",
+    "Ticker": "SCL123"
+  },
+  {
+    "Instrument Name": "Sunstone Capital Limited B",
+    "Exchange": "JSE",
+    "Ticker": "SCL124"
+  },
+  {
+    "Instrument Name": "Sunstone Capital Limited M",
+    "Exchange": "JSE",
+    "Ticker": "SCL126"
+  },
+  {
+    "Instrument Name": "Sunstone Capital Limited UB",
+    "Exchange": "JSE",
+    "Ticker": "SCL125"
+  },
+  {
+    "Instrument Name": "Super Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "SPG"
+  },
+  {
+    "Instrument Name": "Super Group Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "SPGN"
+  },
+  {
+    "Instrument Name": "Sycom Property Fund",
+    "Exchange": "JSE",
+    "Ticker": "SYC"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix 4th Industrial Rev Global Equity ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYG4IR"
+  },
+  {
+    "Instrument Name": "SYGNIA ITRIX EUROSTOXX50",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGEU"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix Fang.AI AMETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYFANG"
+  },
+  {
+    "Instrument Name": "SYGNIA ITRIX FTSE100",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGUK"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix Global Prop ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGP"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix Letter of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USYG41"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix MSCI Emerging Markets 50 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGEMF"
+  },
+  {
+    "Instrument Name": "SYGNIA ITRIX MSCI JAPAN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGJP"
+  },
+  {
+    "Instrument Name": "SYGNIA ITRIX MSCI US",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGUS"
+  },
+  {
+    "Instrument Name": "SYGNIA ITRIX MSCI WORLD",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGWD"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix New China Sectors ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGCN"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix S&P 500 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYG500"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix S&P Global 1200 ESG ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGESG"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix Solactive Healthcare 150 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGH"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix Sustainable Economy ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGSE"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix Sustainable Economy ETF?LOA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "USYGSE"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix Swix 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGSW4"
+  },
+  {
+    "Instrument Name": "Sygnia Itrix Top 40 ETF",
+    "Exchange": "JSE ETFs",
+    "Ticker": "SYGT40"
+  },
+  {
+    "Instrument Name": "Sygnia Limited Rights",
+    "Exchange": "JSE",
+    "Ticker": "SYGN"
+  },
+  {
+    "Instrument Name": "Sygnia Ltd",
+    "Exchange": "JSE",
+    "Ticker": "SYG"
+  },
+  {
+    "Instrument Name": "Synergy Income Fund A",
+    "Exchange": "JSE",
+    "Ticker": "SGA"
+  },
+  {
+    "Instrument Name": "Synergy Income Fund B",
+    "Exchange": "JSE",
+    "Ticker": "SGB"
+  },
+  {
+    "Instrument Name": "Taste Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "TAS"
+  },
+  {
+    "Instrument Name": "Taste Holdings Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "TASN"
+  },
+  {
+    "Instrument Name": "Tawana Resources NL",
+    "Exchange": "JSE",
+    "Ticker": "TAW"
+  },
+  {
+    "Instrument Name": "Tawana Resources NL Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "UTRNL"
+  },
+  {
+    "Instrument Name": "Telemasters Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "TLM"
+  },
+  {
+    "Instrument Name": "Telkom SA SOC Limited",
+    "Exchange": "JSE",
+    "Ticker": "TKG"
+  },
+  {
+    "Instrument Name": "Textainer Group Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "TXT"
+  },
+  {
+    "Instrument Name": "Texton Property Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "TEX"
+  },
+  {
+    "Instrument Name": "Texton Property Fund Limited Letters of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "TEXN"
+  },
+  {
+    "Instrument Name": "Texton Property Fund Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "TEXNR"
+  },
+  {
+    "Instrument Name": "Tharisa PLC",
+    "Exchange": "JSE",
+    "Ticker": "THA"
+  },
+  {
+    "Instrument Name": "The Foschini Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "TFG"
+  },
+  {
+    "Instrument Name": "The Foschini Group Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "TFGN"
+  },
+  {
+    "Instrument Name": "The Investec Wealth Accelerator Equity Structured Product",
+    "Exchange": "JSE",
+    "Ticker": "SPIB23"
+  },
+  {
+    "Instrument Name": "The Spar Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "SPP"
+  },
+  {
+    "Instrument Name": "The USD Wealth Accelerator",
+    "Exchange": "JSE",
+    "Ticker": "ESPIBY"
+  },
+  {
+    "Instrument Name": "The Waterberg Coal Co Limited",
+    "Exchange": "JSE",
+    "Ticker": "WCC"
+  },
+  {
+    "Instrument Name": "Thungela Resources Limited",
+    "Exchange": "JSE",
+    "Ticker": "TGA"
+  },
+  {
+    "Instrument Name": "Tiger Brands Limited",
+    "Exchange": "JSE",
+    "Ticker": "TBS"
+  },
+  {
+    "Instrument Name": "Times Media Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "TMG"
+  },
+  {
+    "Instrument Name": "Tiso Blackstar Group SE",
+    "Exchange": "JSE",
+    "Ticker": "TBG"
+  },
+  {
+    "Instrument Name": "Tongaat Hulett Limited",
+    "Exchange": "JSE",
+    "Ticker": "TON"
+  },
+  {
+    "Instrument Name": "Torre Industries Limited",
+    "Exchange": "JSE",
+    "Ticker": "TOR"
+  },
+  {
+    "Instrument Name": "Tower Property Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "TWR"
+  },
+  {
+    "Instrument Name": "Tradehold Limited",
+    "Exchange": "JSE",
+    "Ticker": "TDH"
+  },
+  {
+    "Instrument Name": "Tradehold Limited Letter of Allocation",
+    "Exchange": "JSE",
+    "Ticker": "UTDH"
+  },
+  {
+    "Instrument Name": "Trans Hex Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "TSX"
+  },
+  {
+    "Instrument Name": "Transaction Capital Limited",
+    "Exchange": "JSE",
+    "Ticker": "TCP"
+  },
+  {
+    "Instrument Name": "Transcend Residential Property Fund",
+    "Exchange": "JSE",
+    "Ticker": "TPF"
+  },
+  {
+    "Instrument Name": "Transpaco Limited",
+    "Exchange": "JSE",
+    "Ticker": "TPC"
+  },
+  {
+    "Instrument Name": "Trellidor Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "TRL"
+  },
+  {
+    "Instrument Name": "Trematon Capital Investments Limited",
+    "Exchange": "JSE",
+    "Ticker": "TMT"
+  },
+  {
+    "Instrument Name": "Trencor Limited",
+    "Exchange": "JSE",
+    "Ticker": "TRE"
+  },
+  {
+    "Instrument Name": "Trustco Group Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "TTO"
+  },
+  {
+    "Instrument Name": "Truworths International Limited",
+    "Exchange": "JSE",
+    "Ticker": "TRU"
+  },
+  {
+    "Instrument Name": "Tsogo Sun Gaming Limited",
+    "Exchange": "JSE",
+    "Ticker": "TSG"
+  },
+  {
+    "Instrument Name": "Tsogo Sun Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "TSH"
+  },
+  {
+    "Instrument Name": "Tsogo Sun Hotels Limited",
+    "Exchange": "JSE",
+    "Ticker": "TGO"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN ABSGEA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ABSGEA"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN ANCOMP",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ANCOMP"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN BRNDZ",
+    "Exchange": "JSE ETFs",
+    "Ticker": "BRNDZ"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN UABCPA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UABCPA"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN UABSPA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UABSPA"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN UEFPCA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UEFPCA"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN UEFPCB",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UEFPCB"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN UMMIEA",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UMMIEA"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN UMMIES",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UMMIES"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN URETGP",
+    "Exchange": "JSE ETFs",
+    "Ticker": "URETGP"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN UUGSMC",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UUGSMC"
+  },
+  {
+    "Instrument Name": "UBS Actively Managed ETN UUSMC",
+    "Exchange": "JSE ETFs",
+    "Ticker": "UUSMC"
+  },
+  {
+    "Instrument Name": "UBS Coherent Capital Actively Managed ETN",
+    "Exchange": "JSE ETFs",
+    "Ticker": "CCMGCZ"
+  },
+  {
+    "Instrument Name": "Ububele Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "UBU"
+  },
+  {
+    "Instrument Name": "Unicorn Capital Partners Limited",
+    "Exchange": "JSE",
+    "Ticker": "UCP"
+  },
+  {
+    "Instrument Name": "Union Atlantic Minerals Limited",
+    "Exchange": "JSE",
+    "Ticker": "UAT"
+  },
+  {
+    "Instrument Name": "Universal Partners Limited",
+    "Exchange": "JSE",
+    "Ticker": "UPL"
+  },
+  {
+    "Instrument Name": "Value Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "VLE"
+  },
+  {
+    "Instrument Name": "Verimark Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "VMK"
+  },
+  {
+    "Instrument Name": "Village Main Reef",
+    "Exchange": "JSE",
+    "Ticker": "VIL"
+  },
+  {
+    "Instrument Name": "Visual International Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "VIS"
+  },
+  {
+    "Instrument Name": "Vividend Income Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "VIF"
+  },
+  {
+    "Instrument Name": "Vivo Energy Plc",
+    "Exchange": "JSE",
+    "Ticker": "VVO"
+  },
+  {
+    "Instrument Name": "Vodacom Group Limited",
+    "Exchange": "JSE",
+    "Ticker": "VOD"
+  },
+  {
+    "Instrument Name": "Vukile Property Fund Limited",
+    "Exchange": "JSE",
+    "Ticker": "VKE"
+  },
+  {
+    "Instrument Name": "Vunani Limited",
+    "Exchange": "JSE",
+    "Ticker": "VUN"
+  },
+  {
+    "Instrument Name": "WeBuyCars Holdings Ltd",
+    "Exchange": "JSE",
+    "Ticker": "WBC"
+  },
+  {
+    "Instrument Name": "Wescoal Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "WSL"
+  },
+  {
+    "Instrument Name": "Wescoal Holdings Limited Rights Offer",
+    "Exchange": "JSE",
+    "Ticker": "WSLN"
+  },
+  {
+    "Instrument Name": "Wesizwe Platinum Limited",
+    "Exchange": "JSE",
+    "Ticker": "WEZ"
+  },
+  {
+    "Instrument Name": "WG Wearne Limited",
+    "Exchange": "JSE",
+    "Ticker": "WEA"
+  },
+  {
+    "Instrument Name": "Wilderness Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "WIL"
+  },
+  {
+    "Instrument Name": "William Tell Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "WTL"
+  },
+  {
+    "Instrument Name": "Wilson Bayly Holmes - Ovcon Limited",
+    "Exchange": "JSE",
+    "Ticker": "WBO"
+  },
+  {
+    "Instrument Name": "Winhold Limited",
+    "Exchange": "JSE",
+    "Ticker": "WNH"
+  },
+  {
+    "Instrument Name": "Witwatersrand Cons Gold",
+    "Exchange": "JSE",
+    "Ticker": "WGR"
+  },
+  {
+    "Instrument Name": "Woolworths Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "WHL"
+  },
+  {
+    "Instrument Name": "Workforce Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "WKF"
+  },
+  {
+    "Instrument Name": "York Timber Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "YRK"
+  },
+  {
+    "Instrument Name": "York Timber Holdings Limited Letters of Allocation",
+    "Exchange": "JSE ETFs",
+    "Ticker": "YRKN"
+  },
+  {
+    "Instrument Name": "Zambezi Platinum (RF) Limited",
+    "Exchange": "JSE",
+    "Ticker": "ZPLP"
+  },
+  {
+    "Instrument Name": "Zarclear Holdings Limited",
+    "Exchange": "JSE",
+    "Ticker": "ZCL"
+  },
+  {
+    "Instrument Name": "ZCI Limited",
+    "Exchange": "JSE",
+    "Ticker": "ZCI"
+  },
+  {
+    "Instrument Name": "Zeda Limited",
+    "Exchange": "JSE ETFs",
+    "Ticker": "ZZD"
+  },
+  {
+    "Instrument Name": "Zeder Inv Limited",
+    "Exchange": "JSE",
+    "Ticker": "ZED"
+  },
+  {
+    "Instrument Name": "Zurich Insurance Co SA",
+    "Exchange": "JSE",
+    "Ticker": "ZSA"
+  }
+]

@@ -1,0 +1,697 @@
+[
+  {
+    "Instrument Name": "3i Group PLC",
+    "Exchange": "UK",
+    "Ticker": "III"
+  },
+  {
+    "Instrument Name": "abrdn plc",
+    "Exchange": "UK",
+    "Ticker": "ABDN"
+  },
+  {
+    "Instrument Name": "Admiral Group PLC",
+    "Exchange": "UK",
+    "Ticker": "ADM"
+  },
+  {
+    "Instrument Name": "Airtel Africa PLC",
+    "Exchange": "UK",
+    "Ticker": "AAF"
+  },
+  {
+    "Instrument Name": "Anglo American PLC",
+    "Exchange": "UK",
+    "Ticker": "AAL"
+  },
+  {
+    "Instrument Name": "Antofagasta PLC",
+    "Exchange": "UK",
+    "Ticker": "ANTO"
+  },
+  {
+    "Instrument Name": "Ashtead Group PLC",
+    "Exchange": "UK",
+    "Ticker": "AHT"
+  },
+  {
+    "Instrument Name": "Associated British Foods PLC",
+    "Exchange": "UK",
+    "Ticker": "ABF"
+  },
+  {
+    "Instrument Name": "AstraZeneca PLC",
+    "Exchange": "UK",
+    "Ticker": "AZN"
+  },
+  {
+    "Instrument Name": "Auto Trader Group PLC",
+    "Exchange": "UK",
+    "Ticker": "AUTO"
+  },
+  {
+    "Instrument Name": "Avast PLC",
+    "Exchange": "UK",
+    "Ticker": "AVST"
+  },
+  {
+    "Instrument Name": "AVEVA Group PLC",
+    "Exchange": "UK",
+    "Ticker": "AVV"
+  },
+  {
+    "Instrument Name": "Aviva PLC",
+    "Exchange": "UK",
+    "Ticker": "AV"
+  },
+  {
+    "Instrument Name": "B&M European Value Retail SA",
+    "Exchange": "UK",
+    "Ticker": "BME"
+  },
+  {
+    "Instrument Name": "BAE Systems PLC",
+    "Exchange": "UK",
+    "Ticker": "BA"
+  },
+  {
+    "Instrument Name": "Barclays PLC",
+    "Exchange": "UK",
+    "Ticker": "BARC"
+  },
+  {
+    "Instrument Name": "Barratt Developments PLC",
+    "Exchange": "UK",
+    "Ticker": "BDEV"
+  },
+  {
+    "Instrument Name": "Beazley PLC",
+    "Exchange": "UK",
+    "Ticker": "BEZ"
+  },
+  {
+    "Instrument Name": "Bellway PLC",
+    "Exchange": "UK",
+    "Ticker": "BWY"
+  },
+  {
+    "Instrument Name": "Berkeley Group Holdings PLC",
+    "Exchange": "UK",
+    "Ticker": "BKG"
+  },
+  {
+    "Instrument Name": "BHP Group PLC",
+    "Exchange": "UK",
+    "Ticker": "BHP"
+  },
+  {
+    "Instrument Name": "BP PLC",
+    "Exchange": "UK",
+    "Ticker": "BP"
+  },
+  {
+    "Instrument Name": "British American Tobacco PLC",
+    "Exchange": "UK",
+    "Ticker": "BATS"
+  },
+  {
+    "Instrument Name": "British Land Co PLC/The",
+    "Exchange": "UK",
+    "Ticker": "BLND"
+  },
+  {
+    "Instrument Name": "BT Group PLC",
+    "Exchange": "UK",
+    "Ticker": "BT-A"
+  },
+  {
+    "Instrument Name": "Bunzl PLC",
+    "Exchange": "UK",
+    "Ticker": "BNZL"
+  },
+  {
+    "Instrument Name": "Burberry Group PLC",
+    "Exchange": "UK",
+    "Ticker": "BRBY"
+  },
+  {
+    "Instrument Name": "Centrica PLC",
+    "Exchange": "UK",
+    "Ticker": "CNA"
+  },
+  {
+    "Instrument Name": "Coca-Cola HBC AG",
+    "Exchange": "UK",
+    "Ticker": "CCH"
+  },
+  {
+    "Instrument Name": "Compass Group PLC",
+    "Exchange": "UK",
+    "Ticker": "CPG"
+  },
+  {
+    "Instrument Name": "ConvaTec Group PLC",
+    "Exchange": "UK",
+    "Ticker": "CTEC"
+  },
+  {
+    "Instrument Name": "CRH PLC",
+    "Exchange": "UK",
+    "Ticker": "CRH"
+  },
+  {
+    "Instrument Name": "Croda International PLC",
+    "Exchange": "UK",
+    "Ticker": "CRDA"
+  },
+  {
+    "Instrument Name": "DCC PLC",
+    "Exchange": "UK",
+    "Ticker": "DCC"
+  },
+  {
+    "Instrument Name": "Dechra Pharmaceuticals PLC",
+    "Exchange": "UK",
+    "Ticker": "DPH"
+  },
+  {
+    "Instrument Name": "Diageo PLC",
+    "Exchange": "UK",
+    "Ticker": "DGE"
+  },
+  {
+    "Instrument Name": "Direct Line Insurance Group PLC",
+    "Exchange": "UK",
+    "Ticker": "DLG"
+  },
+  {
+    "Instrument Name": "Dowlais Group PLC",
+    "Exchange": "UK",
+    "Ticker": "DWL"
+  },
+  {
+    "Instrument Name": "DS Smith PLC",
+    "Exchange": "UK",
+    "Ticker": "SMDS"
+  },
+  {
+    "Instrument Name": "easyJet PLC",
+    "Exchange": "UK",
+    "Ticker": "EZJ"
+  },
+  {
+    "Instrument Name": "Endeavour Mining PLC",
+    "Exchange": "UK",
+    "Ticker": "EDV"
+  },
+  {
+    "Instrument Name": "Entain PLC",
+    "Exchange": "UK",
+    "Ticker": "ENT"
+  },
+  {
+    "Instrument Name": "Experian PLC",
+    "Exchange": "UK",
+    "Ticker": "EXPN"
+  },
+  {
+    "Instrument Name": "Ferguson PLC",
+    "Exchange": "UK",
+    "Ticker": "FERG"
+  },
+  {
+    "Instrument Name": "Flutter Entertainment PLC",
+    "Exchange": "UK",
+    "Ticker": "FLTR"
+  },
+  {
+    "Instrument Name": "Frasers Group PLC",
+    "Exchange": "UK",
+    "Ticker": "FRAS"
+  },
+  {
+    "Instrument Name": "Fresnillo PLC",
+    "Exchange": "UK",
+    "Ticker": "FRES"
+  },
+  {
+    "Instrument Name": "Glencore PLC",
+    "Exchange": "UK",
+    "Ticker": "GLEN"
+  },
+  {
+    "Instrument Name": "GSK Plc",
+    "Exchange": "UK",
+    "Ticker": "GSK"
+  },
+  {
+    "Instrument Name": "Haleon plc",
+    "Exchange": "UK",
+    "Ticker": "HLN"
+  },
+  {
+    "Instrument Name": "Halma PLC",
+    "Exchange": "UK",
+    "Ticker": "HLMA"
+  },
+  {
+    "Instrument Name": "HAN-GINS Cloud Technology Equal Weight UCITS ETF",
+    "Exchange": "UK ETF",
+    "Ticker": "SKYP"
+  },
+  {
+    "Instrument Name": "HAN-GINS Indxx Healthcare Megatrend Equal Weight UCITS ETF",
+    "Exchange": "UK ETF",
+    "Ticker": "WELP"
+  },
+  {
+    "Instrument Name": "HAN-GINS Tech Megatrend Equal Weight UCITS ETF",
+    "Exchange": "UK ETF",
+    "Ticker": "ITEP"
+  },
+  {
+    "Instrument Name": "Harbour Energy PLC",
+    "Exchange": "UK",
+    "Ticker": "HBR"
+  },
+  {
+    "Instrument Name": "Hargreaves Lansdown PLC",
+    "Exchange": "UK",
+    "Ticker": "HL"
+  },
+  {
+    "Instrument Name": "Hikma Pharmaceuticals PLC",
+    "Exchange": "UK",
+    "Ticker": "HIK"
+  },
+  {
+    "Instrument Name": "Hiscox Ltd",
+    "Exchange": "UK",
+    "Ticker": "HSX"
+  },
+  {
+    "Instrument Name": "HomeServe PLC",
+    "Exchange": "UK",
+    "Ticker": "HSV"
+  },
+  {
+    "Instrument Name": "Howden Joinery Group PLC",
+    "Exchange": "UK",
+    "Ticker": "HWDN"
+  },
+  {
+    "Instrument Name": "HSBC FTSE 100 UCITS ETF",
+    "Exchange": "UK ETF",
+    "Ticker": "HUKX"
+  },
+  {
+    "Instrument Name": "HSBC Holdings PLC",
+    "Exchange": "UK",
+    "Ticker": "HSBA"
+  },
+  {
+    "Instrument Name": "IG Group Holdings PLC",
+    "Exchange": "UK",
+    "Ticker": "IGG"
+  },
+  {
+    "Instrument Name": "Imperial Brands PLC",
+    "Exchange": "UK",
+    "Ticker": "IMB"
+  },
+  {
+    "Instrument Name": "Inchcape PLC",
+    "Exchange": "UK",
+    "Ticker": "INCH"
+  },
+  {
+    "Instrument Name": "Informa PLC",
+    "Exchange": "UK",
+    "Ticker": "INF"
+  },
+  {
+    "Instrument Name": "InterContinental Hotels Group PLC",
+    "Exchange": "UK",
+    "Ticker": "IHG"
+  },
+  {
+    "Instrument Name": "Intermediate Capital Group PLC",
+    "Exchange": "UK",
+    "Ticker": "ICP"
+  },
+  {
+    "Instrument Name": "International Consolidated Airlines Grou",
+    "Exchange": "UK",
+    "Ticker": "IAG"
+  },
+  {
+    "Instrument Name": "Intertek Group PLC",
+    "Exchange": "UK",
+    "Ticker": "ITRK"
+  },
+  {
+    "Instrument Name": "Investec PLC",
+    "Exchange": "UK",
+    "Ticker": "INVP"
+  },
+  {
+    "Instrument Name": "iShares Core EURO STOXX 50 UCITS ETF EUR Dist",
+    "Exchange": "UK ETF",
+    "Ticker": "EUE"
+  },
+  {
+    "Instrument Name": "iShares Core FTSE 100 UCITS ETF GBP Acc",
+    "Exchange": "UK ETF",
+    "Ticker": "CUKX"
+  },
+  {
+    "Instrument Name": "iShares Core S&P 500 UCITS ETF USD Dist",
+    "Exchange": "UK ETF",
+    "Ticker": "IUSA"
+  },
+  {
+    "Instrument Name": "iShares FTSE 250 UCITS ETF",
+    "Exchange": "UK ETF",
+    "Ticker": "MIDD"
+  },
+  {
+    "Instrument Name": "iShares Global Clean Energy UCITS ETF",
+    "Exchange": "UK ETF",
+    "Ticker": "INRG"
+  },
+  {
+    "Instrument Name": "iShares MSCI World UCITS ETF",
+    "Exchange": "UK ETF",
+    "Ticker": "IWRD"
+  },
+  {
+    "Instrument Name": "iShares plc - iShares Core FTSE 100 UCITS ETF",
+    "Exchange": "UK ETF",
+    "Ticker": "ISF"
+  },
+  {
+    "Instrument Name": "iShares UK Dividend UCITS ETF",
+    "Exchange": "UK ETF",
+    "Ticker": "IUKD"
+  },
+  {
+    "Instrument Name": "ITV PLC",
+    "Exchange": "UK",
+    "Ticker": "ITV"
+  },
+  {
+    "Instrument Name": "J Sainsbury PLC",
+    "Exchange": "UK",
+    "Ticker": "SBRY"
+  },
+  {
+    "Instrument Name": "JD Sports Fashion PLC",
+    "Exchange": "UK",
+    "Ticker": "JD"
+  },
+  {
+    "Instrument Name": "Johnson Matthey PLC",
+    "Exchange": "UK",
+    "Ticker": "JMAT"
+  },
+  {
+    "Instrument Name": "Kingfisher PLC",
+    "Exchange": "UK",
+    "Ticker": "KGF"
+  },
+  {
+    "Instrument Name": "L&G FTSE 100 Super Short Strategy Daily 2x UCITS ETF",
+    "Exchange": "UK ETF",
+    "Ticker": "SUK2"
+  },
+  {
+    "Instrument Name": "Land Securities Group PLC",
+    "Exchange": "UK",
+    "Ticker": "LAND"
+  },
+  {
+    "Instrument Name": "Legal & General Group PLC",
+    "Exchange": "UK",
+    "Ticker": "LGEN"
+  },
+  {
+    "Instrument Name": "Lloyds Banking Group PLC",
+    "Exchange": "UK",
+    "Ticker": "LLOY"
+  },
+  {
+    "Instrument Name": "London Stock Exchange Group PLC",
+    "Exchange": "UK",
+    "Ticker": "LSEG"
+  },
+  {
+    "Instrument Name": "M&G PLC",
+    "Exchange": "UK",
+    "Ticker": "MNG"
+  },
+  {
+    "Instrument Name": "Man Group PLC/Jersey",
+    "Exchange": "UK",
+    "Ticker": "EMG"
+  },
+  {
+    "Instrument Name": "Mediclinic International PLC",
+    "Exchange": "UK",
+    "Ticker": "MDC"
+  },
+  {
+    "Instrument Name": "Meggitt PLC",
+    "Exchange": "UK",
+    "Ticker": "MGGT"
+  },
+  {
+    "Instrument Name": "Melrose Industries PLC",
+    "Exchange": "UK",
+    "Ticker": "MRO"
+  },
+  {
+    "Instrument Name": "Mondi PLC",
+    "Exchange": "UK",
+    "Ticker": "MNDI"
+  },
+  {
+    "Instrument Name": "National Grid PLC",
+    "Exchange": "UK",
+    "Ticker": "NG"
+  },
+  {
+    "Instrument Name": "NatWest Group PLC",
+    "Exchange": "UK",
+    "Ticker": "NWG"
+  },
+  {
+    "Instrument Name": "Next PLC",
+    "Exchange": "UK",
+    "Ticker": "NXT"
+  },
+  {
+    "Instrument Name": "Ninety One Plc",
+    "Exchange": "UK",
+    "Ticker": "N91"
+  },
+  {
+    "Instrument Name": "Ocado Group PLC",
+    "Exchange": "UK",
+    "Ticker": "OCDO"
+  },
+  {
+    "Instrument Name": "Pearson PLC",
+    "Exchange": "UK",
+    "Ticker": "PSON"
+  },
+  {
+    "Instrument Name": "Pennon Group PLC",
+    "Exchange": "UK",
+    "Ticker": "PNN"
+  },
+  {
+    "Instrument Name": "Pershing Square Holdings Ltd/Fund",
+    "Exchange": "UK",
+    "Ticker": "PSH"
+  },
+  {
+    "Instrument Name": "Persimmon PLC",
+    "Exchange": "UK",
+    "Ticker": "PSN"
+  },
+  {
+    "Instrument Name": "Phoenix Group Holdings PLC",
+    "Exchange": "UK",
+    "Ticker": "PHNX"
+  },
+  {
+    "Instrument Name": "Polymetal International PLC",
+    "Exchange": "UK",
+    "Ticker": "POLY"
+  },
+  {
+    "Instrument Name": "Prudential PLC",
+    "Exchange": "UK",
+    "Ticker": "PRU"
+  },
+  {
+    "Instrument Name": "Reckitt Benckiser Group PLC",
+    "Exchange": "UK",
+    "Ticker": "RKT"
+  },
+  {
+    "Instrument Name": "RELX PLC",
+    "Exchange": "UK",
+    "Ticker": "REL"
+  },
+  {
+    "Instrument Name": "Rentokil Initial PLC",
+    "Exchange": "UK",
+    "Ticker": "RTO"
+  },
+  {
+    "Instrument Name": "Rightmove PLC",
+    "Exchange": "UK",
+    "Ticker": "RMV"
+  },
+  {
+    "Instrument Name": "Rio Tinto PLC",
+    "Exchange": "UK",
+    "Ticker": "RIO"
+  },
+  {
+    "Instrument Name": "Rolls-Royce Holdings PLC",
+    "Exchange": "UK",
+    "Ticker": "RR"
+  },
+  {
+    "Instrument Name": "Royal Mail PLC",
+    "Exchange": "UK",
+    "Ticker": "RMG"
+  },
+  {
+    "Instrument Name": "RS Group PLC",
+    "Exchange": "UK",
+    "Ticker": "RS1"
+  },
+  {
+    "Instrument Name": "Sage Group PLC/The",
+    "Exchange": "UK",
+    "Ticker": "SGE"
+  },
+  {
+    "Instrument Name": "Schroders PLC",
+    "Exchange": "UK",
+    "Ticker": "SDR"
+  },
+  {
+    "Instrument Name": "Scottish Mortgage Investment Trust PLC",
+    "Exchange": "UK",
+    "Ticker": "SMT"
+  },
+  {
+    "Instrument Name": "Segro PLC",
+    "Exchange": "UK",
+    "Ticker": "SGRO"
+  },
+  {
+    "Instrument Name": "Severn Trent PLC",
+    "Exchange": "UK",
+    "Ticker": "SVT"
+  },
+  {
+    "Instrument Name": "Shell PLC",
+    "Exchange": "UK",
+    "Ticker": "SHEL"
+  },
+  {
+    "Instrument Name": "Smith & Nephew PLC",
+    "Exchange": "UK",
+    "Ticker": "SN"
+  },
+  {
+    "Instrument Name": "Smiths Group PLC",
+    "Exchange": "UK",
+    "Ticker": "SMIN"
+  },
+  {
+    "Instrument Name": "Smurfit Kappa Group PLC",
+    "Exchange": "UK",
+    "Ticker": "SKG"
+  },
+  {
+    "Instrument Name": "Spectris PLC",
+    "Exchange": "UK",
+    "Ticker": "SXS"
+  },
+  {
+    "Instrument Name": "Spirax-Sarco Engineering PLC",
+    "Exchange": "UK",
+    "Ticker": "SPX"
+  },
+  {
+    "Instrument Name": "SSE PLC",
+    "Exchange": "UK",
+    "Ticker": "SSE"
+  },
+  {
+    "Instrument Name": "St James's Place PLC",
+    "Exchange": "UK",
+    "Ticker": "STJ"
+  },
+  {
+    "Instrument Name": "Standard Chartered PLC",
+    "Exchange": "UK",
+    "Ticker": "STAN"
+  },
+  {
+    "Instrument Name": "Tate & Lyle PLC",
+    "Exchange": "UK",
+    "Ticker": "TATE"
+  },
+  {
+    "Instrument Name": "Taylor Wimpey PLC",
+    "Exchange": "UK",
+    "Ticker": "TW"
+  },
+  {
+    "Instrument Name": "Tesco PLC",
+    "Exchange": "UK",
+    "Ticker": "TSCO"
+  },
+  {
+    "Instrument Name": "The UNITE Group PLC",
+    "Exchange": "UK",
+    "Ticker": "UTG"
+  },
+  {
+    "Instrument Name": "The Weir Group PLC",
+    "Exchange": "UK",
+    "Ticker": "WEIR"
+  },
+  {
+    "Instrument Name": "Unilever PLC",
+    "Exchange": "UK",
+    "Ticker": "ULVR"
+  },
+  {
+    "Instrument Name": "United Utilities Group PLC",
+    "Exchange": "UK",
+    "Ticker": "UU"
+  },
+  {
+    "Instrument Name": "Vodafone Group PLC",
+    "Exchange": "UK",
+    "Ticker": "VOD"
+  },
+  {
+    "Instrument Name": "Whitbread PLC",
+    "Exchange": "UK",
+    "Ticker": "WTB"
+  },
+  {
+    "Instrument Name": "WPP PLC",
+    "Exchange": "UK",
+    "Ticker": "WPP"
+  }
+]
