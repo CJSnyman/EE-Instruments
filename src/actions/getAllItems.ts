@@ -8,9 +8,10 @@ export async function getAllItems() {
     const data: Listings = [];
 
     const fetches = await Promise.allSettled([
-        getRegionItems("fault"),
+        getRegionItems("AU"),
         getRegionItems("SA"),
-        getRegionItems("hds"),
+        getRegionItems("UK"),
+        getRegionItems("US"),
     ]);
 
     fetches.map((result) => {
