@@ -7,3 +7,7 @@
 ## Pagination
 
 -   Add pagination too pages.
+
+## Make navbar more server friendly
+
+-   Use server pathname instead of client "usePathname".
