@@ -44,7 +44,7 @@ function ListingGroupComponent({
             {listings.map((listing) => {
                 const [listingName, listingType] = Object.entries(listing)[0];
                 return (
-                    <div className="px-4 py-0.5 *:leading-tight">
+                    <div key={listingName} className="px-4 py-0.5 *:leading-tight">
                         <p>{listingName}</p>
                         <p className="text-gray-500 text-sm ps-3">{listingType}</p>
                     </div>

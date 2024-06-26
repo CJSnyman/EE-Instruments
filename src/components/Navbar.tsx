@@ -19,6 +19,7 @@ function Navbar() {
             </Link>
             {exchanges.map((exchange) => (
                 <Link
+                    key={exchange}
                     href={`/${exchange}`}
                     className={`${
                         pathname === `/${exchange}`
