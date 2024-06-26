@@ -19,5 +19,8 @@ export async function getAllItems() {
             }
         }
     });
+
+    data.sort((a, b) => a["Instrument Name"].localeCompare(b["Instrument Name"]));
+
     return { data, errors };
 }
