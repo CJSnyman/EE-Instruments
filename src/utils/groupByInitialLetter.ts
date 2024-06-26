@@ -12,9 +12,9 @@ function groupByInitialLetter({
     data.map((listing) => {
         const firstLetter = listing["Instrument Name"].charAt(0);
         if (listingsGroup[firstLetter] === undefined) {
-            listingsGroup[firstLetter] = [{ [listing["Instrument Name"]]: listing.Exchange }];
+            listingsGroup[firstLetter] = [listing];
         } else {
-            listingsGroup[firstLetter].push({ [listing["Instrument Name"]]: listing.Exchange });
+            listingsGroup[firstLetter].push(listing);
         }
     });
     return [listingsGroup, typeof errors === "string" ? [errors] : errors];

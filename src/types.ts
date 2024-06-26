@@ -6,4 +6,4 @@ export type Listing = {
 
 export type Listings = Listing[];
 
-export type ListingGroup = Record<string, Record<string, string>[]>;
+export type ListingGroup = Record<string, Listings>;
