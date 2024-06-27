@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Navbar from "@/components/Navbar";
+import Header from "@/components/Header";
 
 export const metadata: Metadata = {
     title: "EE Instruments",
@@ -15,10 +15,7 @@ export default function RootLayout({
     return (
         <html lang="en">
             <body>
-                <header>
-                    <h1 className="text-4xl">EE Items</h1>
-                    <Navbar />
-                </header>
+                <Header />
                 <main>{children}</main>
             </body>
         </html>

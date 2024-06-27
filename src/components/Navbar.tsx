@@ -8,7 +8,6 @@ function Navbar() {
     const pathname = usePathname();
     return (
         <nav className="flex justify-around px-2">
-            <p>{JSON.stringify(pathname, null, 2)}</p>
             <Link
                 href="/"
                 className={`${
