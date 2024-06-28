@@ -11,7 +11,7 @@ function Navbar() {
             <Link
                 href="/"
                 className={`${
-                    pathname === "/" ? "border-gray-500" : "hover:text-red-800 border-green-800"
+                    pathname === "/" ? "border-gray-500" : "hover:bg-gray-600 border-green-700"
                 } text-center w-[8ch] py-1 rounded-md border-2 `}
             >
                 Home
@@ -23,7 +23,7 @@ function Navbar() {
                     className={`${
                         pathname === `/${exchange}`
                             ? "border-gray-500"
-                            : "hover:text-red-800 border-green-800"
+                            : "hover:bg-gray-600 border-green-700"
                     } text-center w-[8ch] py-1 rounded-md border-2 `}
                 >
                     {exchange}
